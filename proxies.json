@@ -1,15 +1,25 @@
 {
-  "updated": "2026-08-11T08:45:05.918633+00:00",
+  "updated": "2026-08-11T09:08:23.237235+00:00",
   "candidate_count": 16,
   "working_count": 9,
   "proxies": [
+    {
+      "server": "test.koraivpn.cfd",
+      "port": "443",
+      "secret": "ee9dfa699c856569a72a576f6fbb6d0269746573742e6b6f72616976706e2e636664",
+      "check_link": "https://t.me/proxy?server=test.koraivpn.cfd&port=443&secret=ee9dfa699c856569a72a576f6fbb6d0269746573742e6b6f72616976706e2e636664",
+      "link": "tg://proxy?server=test.koraivpn.cfd&port=443&secret=ee9dfa699c856569a72a576f6fbb6d0269746573742e6b6f72616976706e2e636664",
+      "rtt_ms": 722.6,
+      "mode": "Mode.FAKETLS",
+      "dc": 2
+    },
     {
       "server": "217.60.33.154",
       "port": "443",
       "secret": "ee838ba0ade3e2463bef78fcdce3da8c24706f6c616e646d6f6f6e6c696768742e6d6f6f6f2e636f6d",
       "check_link": "https://t.me/proxy?server=217.60.33.154&port=443&secret=ee838ba0ade3e2463bef78fcdce3da8c24706f6c616e646d6f6f6e6c696768742e6d6f6f6f2e636f6d",
       "link": "tg://proxy?server=217.60.33.154&port=443&secret=ee838ba0ade3e2463bef78fcdce3da8c24706f6c616e646d6f6f6e6c696768742e6d6f6f6f2e636f6d",
-      "rtt_ms": 779.0,
+      "rtt_ms": 731.8,
       "mode": "Mode.FAKETLS",
       "dc": 2
     },
@@ -19,17 +29,7 @@
       "secret": "ee838ba0ade3e2463bef78fcdce3da8c24706f6c616e646d6f6f6e6c696768742e6d6f6f6f2e636f6d",
       "check_link": "https://t.me/proxy?server=polandmoonlight.mooo.com&port=443&secret=ee838ba0ade3e2463bef78fcdce3da8c24706f6c616e646d6f6f6e6c696768742e6d6f6f6f2e636f6d",
       "link": "tg://proxy?server=polandmoonlight.mooo.com&port=443&secret=ee838ba0ade3e2463bef78fcdce3da8c24706f6c616e646d6f6f6e6c696768742e6d6f6f6f2e636f6d",
-      "rtt_ms": 844.5,
-      "mode": "Mode.FAKETLS",
-      "dc": 2
-    },
-    {
-      "server": "test.koraivpn.cfd",
-      "port": "443",
-      "secret": "ee9dfa699c856569a72a576f6fbb6d0269746573742e6b6f72616976706e2e636664",
-      "check_link": "https://t.me/proxy?server=test.koraivpn.cfd&port=443&secret=ee9dfa699c856569a72a576f6fbb6d0269746573742e6b6f72616976706e2e636664",
-      "link": "tg://proxy?server=test.koraivpn.cfd&port=443&secret=ee9dfa699c856569a72a576f6fbb6d0269746573742e6b6f72616976706e2e636664",
-      "rtt_ms": 947.1,
+      "rtt_ms": 803.5,
       "mode": "Mode.FAKETLS",
       "dc": 2
     },
@@ -39,7 +39,7 @@
       "secret": "eecc3d75febb923a9362aac9ed3f676075706574726f766963682e7275",
       "check_link": "https://t.me/proxy?server=leon.baboon.digital&port=443&secret=eecc3d75febb923a9362aac9ed3f676075706574726f766963682e7275",
       "link": "tg://proxy?server=leon.baboon.digital&port=443&secret=eecc3d75febb923a9362aac9ed3f676075706574726f766963682e7275",
-      "rtt_ms": 997.0,
+      "rtt_ms": 814.6,
       "mode": "Mode.FAKETLS",
       "dc": 2
     },
@@ -49,7 +49,7 @@
       "secret": "ee6051a9bc311f4847cae2954b9a325af36563686f30312e776869736b657974616e676f666f7874726f742e6c6f6c",
       "check_link": "https://t.me/proxy?server=echo01.whiskeytangofoxtrot.lol&port=443&secret=ee6051a9bc311f4847cae2954b9a325af36563686f30312e776869736b657974616e676f666f7874726f742e6c6f6c",
       "link": "tg://proxy?server=echo01.whiskeytangofoxtrot.lol&port=443&secret=ee6051a9bc311f4847cae2954b9a325af36563686f30312e776869736b657974616e676f666f7874726f742e6c6f6c",
-      "rtt_ms": 1156.7,
+      "rtt_ms": 983.3,
       "mode": "Mode.FAKETLS",
       "dc": 2
     },
@@ -59,17 +59,7 @@
       "secret": "eecb4abb36d31414c49d1eea88205b4eb570726f78792e6b6f636876706e2e7077",
       "check_link": "https://t.me/proxy?server=proxy.kochvpn.pw&port=443&secret=eecb4abb36d31414c49d1eea88205b4eb570726f78792e6b6f636876706e2e7077",
       "link": "tg://proxy?server=proxy.kochvpn.pw&port=443&secret=eecb4abb36d31414c49d1eea88205b4eb570726f78792e6b6f636876706e2e7077",
-      "rtt_ms": 1195.9,
-      "mode": "Mode.FAKETLS",
-      "dc": 2
-    },
-    {
-      "server": "ardesvpn1.ru",
-      "port": "443",
-      "secret": "ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275",
-      "check_link": "https://t.me/proxy?server=ardesvpn1.ru&port=443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275",
-      "link": "tg://proxy?server=ardesvpn1.ru&port=443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275",
-      "rtt_ms": 1420.8,
+      "rtt_ms": 1234.3,
       "mode": "Mode.FAKETLS",
       "dc": 2
     },
@@ -79,7 +69,7 @@
       "secret": "eedc3cb14d5ff897769e5b5846ef1251fe7a616562616c73612d6e6f76706e2d6b6c696e79732e6861726d6f76706e2e62657374",
       "check_link": "https://t.me/proxy?server=zaebalsa-novpn.harmovpn.best&port=443&secret=eedc3cb14d5ff897769e5b5846ef1251fe7a616562616c73612d6e6f76706e2d6b6c696e79732e6861726d6f76706e2e62657374",
       "link": "tg://proxy?server=zaebalsa-novpn.harmovpn.best&port=443&secret=eedc3cb14d5ff897769e5b5846ef1251fe7a616562616c73612d6e6f76706e2d6b6c696e79732e6861726d6f76706e2e62657374",
-      "rtt_ms": 1558.0,
+      "rtt_ms": 1336.3,
       "mode": "Mode.FAKETLS",
       "dc": 2
     },
@@ -89,7 +79,17 @@
       "secret": "ee2c4047df04ea16c08c0a4cb094aec14a7465612e686f7473746276732e7275",
       "check_link": "https://t.me/proxy?server=tea.hotstbvs.ru&port=8843&secret=ee2c4047df04ea16c08c0a4cb094aec14a7465612e686f7473746276732e7275",
       "link": "tg://proxy?server=tea.hotstbvs.ru&port=8843&secret=ee2c4047df04ea16c08c0a4cb094aec14a7465612e686f7473746276732e7275",
-      "rtt_ms": 2913.6,
+      "rtt_ms": 1734.9,
+      "mode": "Mode.FAKETLS",
+      "dc": 2
+    },
+    {
+      "server": "ardesvpn1.ru",
+      "port": "443",
+      "secret": "ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275",
+      "check_link": "https://t.me/proxy?server=ardesvpn1.ru&port=443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275",
+      "link": "tg://proxy?server=ardesvpn1.ru&port=443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275",
+      "rtt_ms": 4395.2,
       "mode": "Mode.FAKETLS",
       "dc": 2
     }

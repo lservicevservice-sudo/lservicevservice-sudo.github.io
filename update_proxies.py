@@ -1,4 +1,4 @@
-System Administrator: import json
+import json
 from datetime import datetime, timezone
 from urllib.parse import urlparse, parse_qs
 
@@ -81,7 +81,6 @@ for message in reversed(messages):
         break
 
 
-# Сохраняем JSON
 result = {
     "updated": datetime.now(timezone.utc).isoformat(),
     "source": "@mtp4tg",
@@ -93,7 +92,6 @@ with open("proxies.json", "w", encoding="utf-8") as f:
     json.dump(result, f, ensure_ascii=False, indent=2)
 
 
-# Создаём готовые кнопки
 buttons = ""
 
 for i, proxy in enumerate(proxies, 1):
@@ -103,32 +101,50 @@ for i, proxy in enumerate(proxies, 1):
     if status == "online":
         status_text = "🟢 Online"
         status_class = "online"
+
     elif status == "unstable":
         status_text = "🟠 Unstable"
         status_class = "unstable"
+
     elif status == "offline":
         status_text = "🔴 Offline"
         status_class = "offline"
+
     else:
         status_text = "⚪ Статус неизвестен"
         status_class = "unknown"
 
     buttons += f"""
     <div class="proxy">
-        <div class="proxy-title">Прокси №{i}</div>
-        <div class="status {status_class}">{status_text}</div>
-        <a class="connect" href="{proxy['link']}">Подключить</a>
+
+        <div class="proxy-title">
+            Прокси №{i}
+        </div>
+
+        <div class="status {status_class}">
+            {status_text}
+        </div>
+
+        <a class="connect" href="{proxy['link']}">
+            Подключить
+        </a>
+
     </div>
     """
 
 
 now = datetime.now().strftime("%d.%m.%Y %H:%M")
 
+
 html = f"""<!DOCTYPE html>
 <html lang="ru">
+
 <head>
+
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<meta name="viewport"
+content="width=device-width, initial-scale=1.0">
 
 <title>Telegram Proxy</title>
 
@@ -210,7 +226,8 @@ h1 {{
 .connect:hover {{
     background: #1687bd;
 }}
-[11.08.2026 10:53] System Administrator: .updated {{
+
+.updated {{
     margin-top: 25px;
     text-align: center;
     color: #777;
@@ -218,6 +235,7 @@ h1 {{
 }}
 
 </style>
+
 </head>
 
 <body>
@@ -233,19 +251,26 @@ h1 {{
 {buttons}
 
 <div class="updated">
+
 Автоматическое обновление списка<br>
+
 Источник: @mtp4tg<br>
+
 Последнее обновление: {now}
+
 </div>
 
 </div>
 
 </body>
+
 </html>
 """
 
+
 with open("index.html", "w", encoding="utf-8") as f:
     f.write(html)
+
 
 print(f"Сохранено прокси: {len(proxies)}")
 print("index.html обновлён")

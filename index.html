@@ -1,201 +1,385 @@
 <!DOCTYPE html>
 <html lang="ru">
+
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <title>Telegram Proxy</title>
+<meta charset="UTF-8">
 
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      max-width: 650px;
-      margin: 30px auto;
-      padding: 0 15px;
-      background: #f5f5f5;
-    }
+<meta name="viewport"
+content="width=device-width, initial-scale=1.0">
 
-    h1 {
-      text-align: center;
-      margin-bottom: 10px;
-    }
+<title>Telegram Proxy</title>
 
-    .info {
-      text-align: center;
-      color: #666;
-      margin-bottom: 25px;
-    }
+<style>
 
-    .proxy {
-      background: white;
-      padding: 15px;
-      margin-bottom: 12px;
-      border-radius: 10px;
-      box-shadow: 0 1px 4px rgba(0,0,0,0.10);
-    }
+body {
+    margin: 0;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    background: #f1f3f5;
+}
 
-    .proxy-title {
-      font-weight: bold;
-      margin-bottom: 8px;
-    }
+.container {
+    max-width: 520px;
+    margin: 30px auto;
+    padding: 25px;
+    background: white;
+    border-radius: 16px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.12);
+}
 
-    .status {
-      font-size: 14px;
-      margin-bottom: 10px;
-    }
+h1 {
+    text-align: center;
+    font-size: 25px;
+}
 
-    .online {
-      color: green;
-    }
+.description {
+    text-align: center;
+    color: #555;
+    line-height: 1.5;
+    margin-bottom: 25px;
+}
 
-    .unstable {
-      color: #d98200;
-    }
+.proxy {
+    margin: 14px 0;
+    padding: 15px;
+    background: #f7f7f7;
+    border-radius: 10px;
+}
 
-    .offline {
-      color: red;
-    }
+.proxy-title {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
 
-    .unknown {
-      color: #777;
-    }
+.status {
+    font-size: 14px;
+    margin-bottom: 10px;
+}
 
-    .connect {
-      display: block;
-      text-decoration: none;
-      text-align: center;
-      background: #229ED9;
-      color: white;
-      padding: 13px;
-      border-radius: 8px;
-      font-weight: bold;
-      font-size: 17px;
-    }
+.online {
+    color: green;
+}
 
-    .connect:hover {
-      opacity: 0.9;
-    }
+.unstable {
+    color: #d98200;
+}
 
-    #loading {
-      text-align: center;
-      padding: 30px;
-    }
+.offline {
+    color: red;
+}
 
-    .updated {
-      text-align: center;
-      color: #777;
-      font-size: 13px;
-      margin-top: 25px;
-    }
-  </style>
+.unknown {
+    color: #777;
+}
+
+.connect {
+    display: block;
+    padding: 14px;
+    color: white;
+    background: #229ed9;
+    border-radius: 9px;
+    text-decoration: none;
+    text-align: center;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.connect:hover {
+    background: #1687bd;
+}
+
+.updated {
+    margin-top: 25px;
+    text-align: center;
+    color: #777;
+    font-size: 13px;
+}
+
+</style>
+
 </head>
 
 <body>
 
-<h1>Telegram Proxy</h1>
+<div class="container">
 
-<div class="info">
-  Выберите прокси и нажмите «Подключить»
+<h1>Подключение Telegram</h1>
+
+<div class="description">
+Выберите один из прокси и нажмите «Подключить».
 </div>
 
-<div id="loading">
-  Загружаю свежий список...
-</div>
 
-<div id="proxies"></div>
+    <div class="proxy">
 
-<div class="updated" id="updated"></div>
-
-<script>
-
-async function loadProxies() {
-
-  const loading = document.getElementById("loading");
-  const container = document.getElementById("proxies");
-  const updated = document.getElementById("updated");
-
-  try {
-
-    const response = await fetch(
-      "proxies.json?t=" + Date.now()
-    );
-
-    if (!response.ok) {
-      throw new Error("Ошибка загрузки");
-    }
-
-    const data = await response.json();
-
-    loading.style.display = "none";
-
-    data.proxies.forEach((proxy, index) => {
-
-      const block = document.createElement("div");
-      block.className = "proxy";
-
-      let statusText = "Статус неизвестен";
-      let statusClass = "unknown";
-
-      if (proxy.status === "online") {
-        statusText = "🟢 Online";
-        statusClass = "online";
-      }
-
-      if (proxy.status === "unstable") {
-        statusText = "🟠 Unstable";
-        statusClass = "unstable";
-      }
-
-      if (proxy.status === "offline") {
-        statusText = "🔴 Offline";
-        statusClass = "offline";
-      }
-
-      block.innerHTML = 
         <div class="proxy-title">
-          Proxy ${index + 1}
+            Прокси №1
         </div>
 
-        <div class="status ${statusClass}">
-          ${statusText}
+        <div class="status online">
+            🟢 Online
         </div>
 
-        <a
-          class="connect"
-          href="${proxy.link}">
-          Подключить
+        <a class="connect" href="tg://proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363">
+            Подключить
         </a>
-      ;
 
-      container.appendChild(block);
+    </div>
+    
+    <div class="proxy">
 
-    });
+        <div class="proxy-title">
+            Прокси №2
+        </div>
 
-    if (data.updated) {
+        <div class="status offline">
+            🔴 Offline
+        </div>
 
-      const date = new Date(data.updated);
+        <a class="connect" href="tg://proxy?server=ardesvpn1.ru&port=443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275">
+            Подключить
+        </a>
 
-      updated.innerText =
-        "Последнее обновление: " +
-        date.toLocaleString("ru-RU");
+    </div>
+    
+    <div class="proxy">
 
-    }
+        <div class="proxy-title">
+            Прокси №3
+        </div>
 
-  }
+        <div class="status offline">
+            🔴 Offline
+        </div>
 
-  catch(error) {
+        <a class="connect" href="tg://proxy?server=zaebalsa-novpn.harmovpn.best&port=443&secret=eedc3cb14d5ff897769e5b5846ef1251fe7a616562616c73612d6e6f76706e2d6b6c696e79732e6861726d6f76706e2e62657374">
+            Подключить
+        </a>
 
-    loading.innerText =
-      "Не удалось загрузить список прокси.";
+    </div>
+    
+    <div class="proxy">
 
-  }
+        <div class="proxy-title">
+            Прокси №4
+        </div>
 
-}
+        <div class="status offline">
+            🔴 Offline
+        </div>
 
-loadProxies();
+        <a class="connect" href="tg://proxy?server=191.44.112.217&port=443&secret=eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275">
+            Подключить
+        </a>
 
-</script>
+    </div>
+    
+    <div class="proxy">
+
+        <div class="proxy-title">
+            Прокси №5
+        </div>
+
+        <div class="status unstable">
+            🟠 Unstable
+        </div>
+
+        <a class="connect" href="tg://proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b">
+            Подключить
+        </a>
+
+    </div>
+    
+    <div class="proxy">
+
+        <div class="proxy-title">
+            Прокси №6
+        </div>
+
+        <div class="status unstable">
+            🟠 Unstable
+        </div>
+
+        <a class="connect" href="tg://proxy?server=kima.rabotaet.online&port=443&secret=ee12e7e5f961f258b04af168a1cba6318a6b696d612e7261626f746165742e6f6e6c696e65">
+            Подключить
+        </a>
+
+    </div>
+    
+    <div class="proxy">
+
+        <div class="proxy-title">
+            Прокси №7
+        </div>
+
+        <div class="status offline">
+            🔴 Offline
+        </div>
+
+        <a class="connect" href="tg://proxy?server=217.60.33.154&port=443&secret=ee838ba0ade3e2463bef78fcdce3da8c24706f6c616e646d6f6f6e6c696768742e6d6f6f6f2e636f6d">
+            Подключить
+        </a>
+
+    </div>
+    
+    <div class="proxy">
+
+        <div class="proxy-title">
+            Прокси №8
+        </div>
+
+        <div class="status offline">
+            🔴 Offline
+        </div>
+
+        <a class="connect" href="tg://proxy?server=leon.baboon.digital&port=443&secret=eecc3d75febb923a9362aac9ed3f676075706574726f766963682e7275">
+            Подключить
+        </a>
+
+    </div>
+    
+    <div class="proxy">
+
+        <div class="proxy-title">
+            Прокси №9
+        </div>
+
+        <div class="status offline">
+            🔴 Offline
+        </div>
+
+        <a class="connect" href="tg://proxy?server=proxy.kochvpn.pw&port=443&secret=eecb4abb36d31414c49d1eea88205b4eb570726f78792e6b6f636876706e2e7077">
+            Подключить
+        </a>
+
+    </div>
+    
+    <div class="proxy">
+
+        <div class="proxy-title">
+            Прокси №10
+        </div>
+
+        <div class="status offline">
+            🔴 Offline
+        </div>
+
+        <a class="connect" href="tg://proxy?server=meow.quomis.pw&port=8443&secret=ee9635706759248443673330464429703338392e33372e3139322e3936">
+            Подключить
+        </a>
+
+    </div>
+    
+    <div class="proxy">
+
+        <div class="proxy-title">
+            Прокси №11
+        </div>
+
+        <div class="status offline">
+            🔴 Offline
+        </div>
+
+        <a class="connect" href="tg://proxy?server=ardesvpn1.ru&port=8443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275">
+            Подключить
+        </a>
+
+    </div>
+    
+    <div class="proxy">
+
+        <div class="proxy-title">
+            Прокси №12
+        </div>
+
+        <div class="status offline">
+            🔴 Offline
+        </div>
+
+        <a class="connect" href="tg://proxy?server=echo01.whiskeytangofoxtrot.lol&port=443&secret=ee6051a9bc311f4847cae2954b9a325af36563686f30312e776869736b657974616e676f666f7874726f742e6c6f6c">
+            Подключить
+        </a>
+
+    </div>
+    
+    <div class="proxy">
+
+        <div class="proxy-title">
+            Прокси №13
+        </div>
+
+        <div class="status offline">
+            🔴 Offline
+        </div>
+
+        <a class="connect" href="tg://proxy?server=test.koraivpn.cfd&port=443&secret=ee9dfa699c856569a72a576f6fbb6d0269746573742e6b6f72616976706e2e636664">
+            Подключить
+        </a>
+
+    </div>
+    
+    <div class="proxy">
+
+        <div class="proxy-title">
+            Прокси №14
+        </div>
+
+        <div class="status offline">
+            🔴 Offline
+        </div>
+
+        <a class="connect" href="tg://proxy?server=wolf.baboon.digital&port=443&secret=eea21bac021798ed6830e6d6c67ba496ad706574726f766963682e7275">
+            Подключить
+        </a>
+
+    </div>
+    
+    <div class="proxy">
+
+        <div class="proxy-title">
+            Прокси №15
+        </div>
+
+        <div class="status offline">
+            🔴 Offline
+        </div>
+
+        <a class="connect" href="tg://proxy?server=polandmoonlight.mooo.com&port=443&secret=ee838ba0ade3e2463bef78fcdce3da8c24706f6c616e646d6f6f6e6c696768742e6d6f6f6f2e636f6d">
+            Подключить
+        </a>
+
+    </div>
+    
+    <div class="proxy">
+
+        <div class="proxy-title">
+            Прокси №16
+        </div>
+
+        <div class="status online">
+            🟢 Online
+        </div>
+
+        <a class="connect" href="tg://proxy?server=proxy.lodkirmm.ru&port=8443&secret=ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275">
+            Подключить
+        </a>
+
+    </div>
+    
+
+<div class="updated">
+
+Автоматическое обновление списка<br>
+
+Источник: @mtp4tg<br>
+
+Последнее обновление: 11.08.2026 08:01
+
+</div>
+
+</div>
 
 </body>
-</html>
+
 </html>

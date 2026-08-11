@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-11T13:54:43.313792+00:00",
+  "updated": "2026-08-11T14:58:47.126139+00:00",
   "count": 15,
   "proxies": [
+    {
+      "server": "live.rkn.dog",
+      "port": "443",
+      "secret": "eec14b98297f5c1bd625ea0c590b03f6116c6976652e726b6e2e646f67",
+      "https_link": "https://t.me/proxy?server=live.rkn.dog&port=443&secret=eec14b98297f5c1bd625ea0c590b03f6116c6976652e726b6e2e646f67",
+      "tg_link": "tg://proxy?server=live.rkn.dog&port=443&secret=eec14b98297f5c1bd625ea0c590b03f6116c6976652e726b6e2e646f67"
+    },
     {
       "server": "ne.koraivpn.cfd",
       "port": "443",
@@ -99,13 +106,6 @@
       "secret": "ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275",
       "https_link": "https://t.me/proxy?server=ardesvpn1.ru&port=8443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275",
       "tg_link": "tg://proxy?server=ardesvpn1.ru&port=8443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275"
-    },
-    {
-      "server": "echo01.whiskeytangofoxtrot.lol",
-      "port": "443",
-      "secret": "ee6051a9bc311f4847cae2954b9a325af36563686f30312e776869736b657974616e676f666f7874726f742e6c6f6c",
-      "https_link": "https://t.me/proxy?server=echo01.whiskeytangofoxtrot.lol&port=443&secret=ee6051a9bc311f4847cae2954b9a325af36563686f30312e776869736b657974616e676f666f7874726f742e6c6f6c",
-      "tg_link": "tg://proxy?server=echo01.whiskeytangofoxtrot.lol&port=443&secret=ee6051a9bc311f4847cae2954b9a325af36563686f30312e776869736b657974616e676f666f7874726f742e6c6f6c"
     }
   ]
 }

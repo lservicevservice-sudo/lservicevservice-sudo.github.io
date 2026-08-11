@@ -1,0 +1,119 @@
+{
+  "updated": "2026-08-11T07:37:18.924986+00:00",
+  "source": "@mtp4tg",
+  "count": 16,
+  "proxies": [
+    {
+      "server": "redflag.yazaebalsyadelatproxy.cc",
+      "port": "443",
+      "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
+      "status": "unknown",
+      "link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
+    },
+    {
+      "server": "ardesvpn1.ru",
+      "port": "443",
+      "secret": "ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275",
+      "status": "unstable",
+      "link": "tg://proxy?server=ardesvpn1.ru&port=443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275"
+    },
+    {
+      "server": "zaebalsa-novpn.harmovpn.best",
+      "port": "443",
+      "secret": "eedc3cb14d5ff897769e5b5846ef1251fe7a616562616c73612d6e6f76706e2d6b6c696e79732e6861726d6f76706e2e62657374",
+      "status": "offline",
+      "link": "tg://proxy?server=zaebalsa-novpn.harmovpn.best&port=443&secret=eedc3cb14d5ff897769e5b5846ef1251fe7a616562616c73612d6e6f76706e2d6b6c696e79732e6861726d6f76706e2e62657374"
+    },
+    {
+      "server": "191.44.112.217",
+      "port": "443",
+      "secret": "eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275",
+      "status": "offline",
+      "link": "tg://proxy?server=191.44.112.217&port=443&secret=eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275"
+    },
+    {
+      "server": "max.kimt.click",
+      "port": "443",
+      "secret": "ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b",
+      "status": "online",
+      "link": "tg://proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b"
+    },
+    {
+      "server": "kima.rabotaet.online",
+      "port": "443",
+      "secret": "ee12e7e5f961f258b04af168a1cba6318a6b696d612e7261626f746165742e6f6e6c696e65",
+      "status": "online",
+      "link": "tg://proxy?server=kima.rabotaet.online&port=443&secret=ee12e7e5f961f258b04af168a1cba6318a6b696d612e7261626f746165742e6f6e6c696e65"
+    },
+    {
+      "server": "217.60.33.154",
+      "port": "443",
+      "secret": "ee838ba0ade3e2463bef78fcdce3da8c24706f6c616e646d6f6f6e6c696768742e6d6f6f6f2e636f6d",
+      "status": "offline",
+      "link": "tg://proxy?server=217.60.33.154&port=443&secret=ee838ba0ade3e2463bef78fcdce3da8c24706f6c616e646d6f6f6e6c696768742e6d6f6f6f2e636f6d"
+    },
+    {
+      "server": "leon.baboon.digital",
+      "port": "443",
+      "secret": "eecc3d75febb923a9362aac9ed3f676075706574726f766963682e7275",
+      "status": "offline",
+      "link": "tg://proxy?server=leon.baboon.digital&port=443&secret=eecc3d75febb923a9362aac9ed3f676075706574726f766963682e7275"
+    },
+    {
+      "server": "proxy.kochvpn.pw",
+      "port": "443",
+      "secret": "eecb4abb36d31414c49d1eea88205b4eb570726f78792e6b6f636876706e2e7077",
+      "status": "offline",
+      "link": "tg://proxy?server=proxy.kochvpn.pw&port=443&secret=eecb4abb36d31414c49d1eea88205b4eb570726f78792e6b6f636876706e2e7077"
+    },
+    {
+      "server": "meow.quomis.pw",
+      "port": "8443",
+      "secret": "ee9635706759248443673330464429703338392e33372e3139322e3936",
+      "status": "offline",
+      "link": "tg://proxy?server=meow.quomis.pw&port=8443&secret=ee9635706759248443673330464429703338392e33372e3139322e3936"
+    },
+    {
+      "server": "ardesvpn1.ru",
+      "port": "8443",
+      "secret": "ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275",
+      "status": "offline",
+      "link": "tg://proxy?server=ardesvpn1.ru&port=8443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275"
+    },
+    {
+      "server": "echo01.whiskeytangofoxtrot.lol",
+      "port": "443",
+      "secret": "ee6051a9bc311f4847cae2954b9a325af36563686f30312e776869736b657974616e676f666f7874726f742e6c6f6c",
+      "status": "offline",
+      "link": "tg://proxy?server=echo01.whiskeytangofoxtrot.lol&port=443&secret=ee6051a9bc311f4847cae2954b9a325af36563686f30312e776869736b657974616e676f666f7874726f742e6c6f6c"
+    },
+    {
+      "server": "test.koraivpn.cfd",
+      "port": "443",
+      "secret": "ee9dfa699c856569a72a576f6fbb6d0269746573742e6b6f72616976706e2e636664",
+      "status": "offline",
+      "link": "tg://proxy?server=test.koraivpn.cfd&port=443&secret=ee9dfa699c856569a72a576f6fbb6d0269746573742e6b6f72616976706e2e636664"
+    },
+    {
+      "server": "wolf.baboon.digital",
+      "port": "443",
+      "secret": "eea21bac021798ed6830e6d6c67ba496ad706574726f766963682e7275",
+      "status": "offline",
+      "link": "tg://proxy?server=wolf.baboon.digital&port=443&secret=eea21bac021798ed6830e6d6c67ba496ad706574726f766963682e7275"
+    },
+    {
+      "server": "polandmoonlight.mooo.com",
+      "port": "443",
+      "secret": "ee838ba0ade3e2463bef78fcdce3da8c24706f6c616e646d6f6f6e6c696768742e6d6f6f6f2e636f6d",
+      "status": "offline",
+      "link": "tg://proxy?server=polandmoonlight.mooo.com&port=443&secret=ee838ba0ade3e2463bef78fcdce3da8c24706f6c616e646d6f6f6e6c696768742e6d6f6f6f2e636f6d"
+    },
+    {
+      "server": "proxy.lodkirmm.ru",
+      "port": "8443",
+      "secret": "ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275",
+      "status": "online",
+      "link": "tg://proxy?server=proxy.lodkirmm.ru&port=8443&secret=ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275"
+    }
+  ]
+}

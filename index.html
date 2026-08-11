@@ -1,298 +1,63 @@
 <!DOCTYPE html>
 <html lang="ru">
-
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
 <title>Telegram Proxy</title>
-
 <style>
-body {
-    margin: 0;
-    padding: 20px;
-    font-family: Arial, sans-serif;
-    background: #f1f3f5;
-}
-
-.container {
-    max-width: 540px;
-    margin: 30px auto;
-    padding: 25px;
-    background: white;
-    border-radius: 16px;
-    box-shadow: 0 5px 20px rgba(0,0,0,0.12);
-}
-
-h1 {
-    text-align: center;
-    font-size: 26px;
-    margin-top: 0;
-    margin-bottom: 10px;
-}
-
-.description {
-    text-align: center;
-    color: #555;
-    line-height: 1.5;
-    margin-bottom: 12px;
-}
-
-.hint {
-    text-align: center;
-    background: #eef6ff;
-    color: #1f4d7a;
-    padding: 12px;
-    border-radius: 10px;
-    margin-bottom: 22px;
-    font-size: 15px;
-}
-
-.summary {
-    text-align: center;
-    color: #4b5563;
-    font-size: 14px;
-    margin-bottom: 18px;
-}
-
-.proxy {
-    margin: 14px 0;
-    padding: 15px;
-    background: #f7f7f7;
-    border-radius: 10px;
-}
-
-.proxy-top {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    gap: 10px;
-    margin-bottom: 10px;
-}
-
-.proxy-title {
-    font-weight: bold;
-    font-size: 19px;
-}
-
-.latency {
-    color: #16803c;
-    font-size: 14px;
-    white-space: nowrap;
-}
-
-.connect {
-    display: block;
-    padding: 14px;
-    color: white;
-    background: #229ed9;
-    border-radius: 9px;
-    text-decoration: none;
-    text-align: center;
-    font-size: 17px;
-    font-weight: bold;
-}
-
-.connect:hover {
-    background: #1687bd;
-}
-
-.hidden {
-    display: none;
-}
-
-.show-more-btn {
-    display: block;
-    width: 100%;
-    margin-top: 18px;
-    padding: 14px;
-    border: none;
-    border-radius: 9px;
-    background: #4b5563;
-    color: white;
-    font-size: 16px;
-    font-weight: bold;
-    cursor: pointer;
-}
-
-.empty {
-    padding: 20px;
-    text-align: center;
-    background: #fff4e5;
-    color: #784900;
-    border-radius: 10px;
-}
-
-.qr-block {
-    margin-top: 28px;
-    text-align: center;
-    padding-top: 20px;
-    border-top: 1px solid #e5e7eb;
-}
-
-.qr-title {
-    font-weight: bold;
-    margin-bottom: 10px;
-}
-
-.qr-subtitle {
-    color: #666;
-    font-size: 14px;
-    margin-bottom: 12px;
-}
-
-.qr-block img {
-    width: 220px;
-    max-width: 100%;
-    border-radius: 10px;
-    background: white;
-}
-
-.updated {
-    margin-top: 22px;
-    text-align: center;
-    color: #777;
-    font-size: 13px;
-}
+body { margin:0; padding:20px; font-family:Arial,sans-serif; background:#f1f3f5; }
+.container { max-width:540px; margin:30px auto; padding:25px; background:white; border-radius:16px; box-shadow:0 5px 20px rgba(0,0,0,0.12); }
+h1 { text-align:center; font-size:26px; margin-top:0; margin-bottom:10px; }
+.description { text-align:center; color:#555; line-height:1.5; margin-bottom:12px; }
+.hint { text-align:center; background:#eef6ff; color:#1f4d7a; padding:12px; border-radius:10px; margin-bottom:22px; font-size:15px; }
+.summary { text-align:center; color:#4b5563; font-size:14px; margin-bottom:18px; }
+.proxy { margin:14px 0; padding:15px; background:#f7f7f7; border-radius:10px; }
+.proxy-top { display:flex; justify-content:space-between; align-items:center; gap:10px; margin-bottom:10px; }
+.proxy-title { font-weight:bold; font-size:19px; }
+.latency { color:#16803c; font-size:14px; white-space:nowrap; }
+.connect { display:block; padding:14px; color:white; background:#229ed9; border-radius:9px; text-decoration:none; text-align:center; font-size:17px; font-weight:bold; }
+.hidden { display:none; }
+.show-more-btn { display:block; width:100%; margin-top:18px; padding:14px; border:none; border-radius:9px; background:#4b5563; color:white; font-size:16px; font-weight:bold; cursor:pointer; }
+.empty { padding:20px; text-align:center; background:#fff4e5; color:#784900; border-radius:10px; }
+.qr-block { margin-top:28px; text-align:center; padding-top:20px; border-top:1px solid #e5e7eb; }
+.qr-title { font-weight:bold; margin-bottom:10px; }
+.qr-subtitle { color:#666; font-size:14px; margin-bottom:12px; }
+.qr-block img { width:220px; max-width:100%; border-radius:10px; background:white; }
+.updated { margin-top:22px; text-align:center; color:#777; font-size:13px; }
 </style>
-
 </head>
-
 <body>
-
 <div class="container">
+<h1>Подключение Telegram</h1>
+<div class="description">Здесь отображаются только прокси, прошедшие проверку через рабочую сеть.</div>
+<div class="hint">Если первый не подключился — попробуйте следующий.</div>
+<div class="summary">Рабочих прокси: 1</div>
 
-    <h1>Подключение Telegram</h1>
-
-    <div class="description">
-        Здесь отображаются только прокси,
-        прошедшие проверку соединения с Telegram.
-    </div>
-
-    <div class="hint">
-        Если первый не подключился у вас — попробуйте следующий.
-    </div>
-
-    <div class="summary">
-        Проверено кандидатов: 50 ·
-        Рабочих найдено: 7
-    </div>
-
-    
         <div class="proxy">
             <div class="proxy-top">
                 <div class="proxy-title">Прокси №1</div>
-                <div class="latency">✅ 724 мс</div>
+                <div class="latency">✅ 744 мс</div>
             </div>
-
-            <a class="connect" href="tg://proxy?server=217.60.33.154&port=443&secret=ee838ba0ade3e2463bef78fcdce3da8c24706f6c616e646d6f6f6e6c696768742e6d6f6f6f2e636f6d">
-                Подключить
-            </a>
-        </div>
-        
-        <div class="proxy">
-            <div class="proxy-top">
-                <div class="proxy-title">Прокси №2</div>
-                <div class="latency">✅ 827 мс</div>
-            </div>
-
-            <a class="connect" href="tg://proxy?server=leon.baboon.digital&port=443&secret=eecc3d75febb923a9362aac9ed3f676075706574726f766963682e7275">
-                Подключить
-            </a>
-        </div>
-        
-        <div class="proxy">
-            <div class="proxy-top">
-                <div class="proxy-title">Прокси №3</div>
-                <div class="latency">✅ 962 мс</div>
-            </div>
-
-            <a class="connect" href="tg://proxy?server=echo01.whiskeytangofoxtrot.lol&port=443&secret=ee6051a9bc311f4847cae2954b9a325af36563686f30312e776869736b657974616e676f666f7874726f742e6c6f6c">
-                Подключить
-            </a>
-        </div>
-        
-        <div class="proxy">
-            <div class="proxy-top">
-                <div class="proxy-title">Прокси №4</div>
-                <div class="latency">✅ 1175 мс</div>
-            </div>
-
-            <a class="connect" href="tg://proxy?server=proxy.kochvpn.pw&port=443&secret=eecb4abb36d31414c49d1eea88205b4eb570726f78792e6b6f636876706e2e7077">
-                Подключить
-            </a>
-        </div>
-        
-        <div class="proxy">
-            <div class="proxy-top">
-                <div class="proxy-title">Прокси №5</div>
-                <div class="latency">✅ 1440 мс</div>
-            </div>
-
-            <a class="connect" href="tg://proxy?server=zaebalsa-novpn.harmovpn.best&port=443&secret=eedc3cb14d5ff897769e5b5846ef1251fe7a616562616c73612d6e6f76706e2d6b6c696e79732e6861726d6f76706e2e62657374">
-                Подключить
-            </a>
-        </div>
-        
-        <div class="proxy">
-            <div class="proxy-top">
-                <div class="proxy-title">Прокси №6</div>
-                <div class="latency">✅ 1528 мс</div>
-            </div>
-
-            <a class="connect" href="tg://proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363">
-                Подключить
-            </a>
-        </div>
-        
-        <div class="proxy">
-            <div class="proxy-top">
-                <div class="proxy-title">Прокси №7</div>
-                <div class="latency">✅ 2591 мс</div>
-            </div>
-
-            <a class="connect" href="tg://proxy?server=vk.nftauctiontg.online&port=443&secret=ee82dd6ba1475a9793a9613364fee70e2f7777772E6E667461756374696F6E74672E6F6E6C696E65">
-                Подключить
-            </a>
+            <a class="connect" href="tg://proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363">Подключить</a>
         </div>
         
 
-    
 
-    
-
-    <div class="qr-block">
-        <div class="qr-title">QR-код страницы</div>
-
-        <div class="qr-subtitle">
-            Отсканируйте, чтобы открыть страницу на телефоне
-        </div>
-
-        <img src="https://api.qrserver.com/v1/create-qr-code/?size=220x220&data=https%3A%2F%2Flservicevservice-sudo.github.io%2F" alt="QR-код страницы">
-    </div>
-
-    <div class="updated">
-        Последняя проверка: 11.08.2026 12:25
-    </div>
-
+<div class="qr-block">
+<div class="qr-title">QR-код страницы</div>
+<div class="qr-subtitle">Отсканируйте, чтобы открыть страницу на телефоне</div>
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=220x220&data=https%3A%2F%2Flservicevservice-sudo.github.io%2F" alt="QR-код страницы">
 </div>
-
+<div class="updated">Страница обновлена: 11.08.2026 12:40</div>
+</div>
 <script>
 function toggleExtraProxies() {
-    const extra = document.querySelectorAll(".extra-proxy");
-    const button = document.querySelector(".show-more-btn");
-
-    const currentlyHidden =
-        Array.from(extra).some(item => item.classList.contains("hidden"));
-
-    extra.forEach(item => item.classList.toggle("hidden"));
-
-    if (button) {
-        button.textContent =
-            currentlyHidden ? "Скрыть" : "Показать ещё";
-    }
+  const extra = document.querySelectorAll(".extra-proxy");
+  const button = document.querySelector(".show-more-btn");
+  const hiddenNow = Array.from(extra).some(item => item.classList.contains("hidden"));
+  extra.forEach(item => item.classList.toggle("hidden"));
+  if (button) button.textContent = hiddenNow ? "Скрыть" : "Показать ещё";
 }
 </script>
-
 </body>
 </html>

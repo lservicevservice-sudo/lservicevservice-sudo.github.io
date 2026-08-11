@@ -1,98 +1,39 @@
-import json
-import re
-from datetime import datetime, timezone
-from urllib.parse import urlparse, parse_qs
+.updated {{
+    margin-top: 25px;
+    text-align: center;
+    color: #777;
+    font-size: 13px;
+}}
 
-import requests
-from bs4 import BeautifulSoup
+</style>
+</head>
 
-CHANNEL_URL = "https://t.me/s/mtp4tg"
-MAX_PROXIES = 30
+<body>
 
-headers = {
-    "User-Agent": "Mozilla/5.0"
-}
+<div class="container">
 
-response = requests.get(CHANNEL_URL, headers=headers, timeout=30)
-response.raise_for_status()
+<h1>Подключение Telegram</h1>
 
-soup = BeautifulSoup(response.text, "html.parser")
+<div class="description">
+Выберите один из прокси и нажмите «Подключить».
+</div>
 
-proxies = []
-seen = set()
+{buttons}
 
-# Telegram показывает сообщения от старых к новым.
-# Переворачиваем список, чтобы сначала были самые свежие.
-messages = soup.select(".tgme_widget_message_wrap")
+<div class="updated">
+Автоматическое обновление списка<br>
+Источник: @mtp4tg<br>
+Последнее обновление: {now}
+</div>
 
-for message in reversed(messages):
+</div>
 
-    text = message.get_text(" ", strip=True).lower()
+</body>
+</html>
+"""
 
-    if "#online" in text:
-        status = "online"
-    elif "#unstable" in text:
-        status = "unstable"
-    elif "#offline" in text:
-        status = "offline"
-    else:
-        status = "unknown"
-
-    links = message.find_all("a", href=True)
-
-    for link in links:
-        href = link["href"]
-
-        if "t.me/proxy?" not in href:
-            continue
-
-        parsed = urlparse(href)
-        params = parse_qs(parsed.query)
-
-        server = params.get("server", [None])[0]
-        port = params.get("port", [None])[0]
-        secret = params.get("secret", [None])[0]
-
-        if not server or not port or not secret:
-            continue
-
-        key = (server, port, secret)
-
-        if key in seen:
-            continue
-
-        seen.add(key)
-
-        tg_link = (
-            f"tg://proxy?"
-            f"server={server}&"
-            f"port={port}&"
-            f"secret={secret}"
-        )
-
-        proxies.append({
-            "server": server,
-            "port": port,
-            "secret": secret,
-            "status": status,
-            "link": tg_link
-        })
-
-        if len(proxies) >= MAX_PROXIES:
-            break
-
-    if len(proxies) >= MAX_PROXIES:
-        break
-
-
-result = {
-    "updated": datetime.now(timezone.utc).isoformat(),
-    "source": "@mtp4tg",
-    "count": len(proxies),
-    "proxies": proxies
-}
-
-with open("proxies.json", "w", encoding="utf-8") as f:
-    json.dump(result, f, ensure_ascii=False, indent=2)
+with open("index.html", "w", encoding="utf-8") as f:
+    f.write(html)
 
 print(f"Сохранено прокси: {len(proxies)}")
+print("index.html обновлён")

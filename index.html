@@ -1,114 +1,201 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Прокси для Telegram</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <style>
-        body {
-            margin: 0;
-            padding: 20px;
-            font-family: Arial, sans-serif;
-            background: #f1f3f5;
-        }
+  <title>Telegram Proxy</title>
 
-        .container {
-            max-width: 520px;
-            margin: 30px auto;
-            padding: 25px;
-            background: white;
-            border-radius: 16px;
-            box-shadow: 0 5px 20px rgba(0, 0, 0, 0.12);
-        }
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 650px;
+      margin: 30px auto;
+      padding: 0 15px;
+      background: #f5f5f5;
+    }
 
-        h1 {
-            text-align: center;
-            font-size: 25px;
-        }
+    h1 {
+      text-align: center;
+      margin-bottom: 10px;
+    }
 
-        .description {
-            text-align: center;
-            color: #555;
-            line-height: 1.5;
-        }
+    .info {
+      text-align: center;
+      color: #666;
+      margin-bottom: 25px;
+    }
 
-        .proxy-button {
-            display: block;
-            margin: 14px 0;
-            padding: 16px;
-            color: white;
-            background: #229ed9;
-            border-radius: 10px;
-            text-decoration: none;
-            text-align: center;
-            font-size: 17px;
-            font-weight: bold;
-        }
+    .proxy {
+      background: white;
+      padding: 15px;
+      margin-bottom: 12px;
+      border-radius: 10px;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.10);
+    }
 
-        .proxy-button:hover {
-            background: #1687bd;
-        }
+    .proxy-title {
+      font-weight: bold;
+      margin-bottom: 8px;
+    }
 
-        .note {
-            margin-top: 22px;
-            color: #666;
-            font-size: 14px;
-            line-height: 1.5;
-            text-align: center;
-        }
-    </style>
+    .status {
+      font-size: 14px;
+      margin-bottom: 10px;
+    }
+
+    .online {
+      color: green;
+    }
+
+    .unstable {
+      color: #d98200;
+    }
+
+    .offline {
+      color: red;
+    }
+
+    .unknown {
+      color: #777;
+    }
+
+    .connect {
+      display: block;
+      text-decoration: none;
+      text-align: center;
+      background: #229ED9;
+      color: white;
+      padding: 13px;
+      border-radius: 8px;
+      font-weight: bold;
+      font-size: 17px;
+    }
+
+    .connect:hover {
+      opacity: 0.9;
+    }
+
+    #loading {
+      text-align: center;
+      padding: 30px;
+    }
+
+    .updated {
+      text-align: center;
+      color: #777;
+      font-size: 13px;
+      margin-top: 25px;
+    }
+  </style>
 </head>
 
 <body>
-<div class="container">
 
-    <h1>Подключение Telegram</h1>
+<h1>Telegram Proxy</h1>
 
-    <p class="description">
-        Нажмите на один из прокси.<br>
-        После этого разрешите браузеру открыть Telegram.
-    </p>
-
-<a class="proxy-button"
-   href="tg://proxy?server=lynette.myrka.digital&port=443&secret=ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c">
-    Прокси №1
-</a>
-
-<a class="proxy-button"
-   href="tg://proxy?server=proxy.fenixdns.com&port=443&secret=7vAGyf-KuTsFBbYXnI1NuhB5YW5kZXgucnU">
-    Прокси №2
-</a>
-
-<a class="proxy-button"
-   href="tg://proxy?server=proxy.lodkirmm.ru&port=8443&secret=ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275">
-    Прокси №3
-</a>
-
-<a class="proxy-button"
-   href="tg://proxy?server=proxy.lodkirmm.ru&port=8443&secret=ee16309abd572d284b309ef26bd7a3f685d0b7d0ba70726f78792e6c6f646b69726d6d2e7275">
-    Прокси №4
-</a>
-
-<a class="proxy-button"
-   href="tg://proxy?server=cdn.telehelp.top&port=443&secret=ee4f3308bc6f67badccc790bf30f15f3de63646e2e74656c6568656c702e746f70">
-    Прокси №5
-</a>
-
-<a class="proxy-button"
-   href="tg://proxy?server=tt2.myrka.digital&port=8443&secret=ee888877776666555544443333222211117474322e6d79726b612e6469676974616c">
-    Прокси №6
-</a>
-
-<a class="proxy-button"
-   href="tg://proxy?server=link.telehelp.top&port=443&secret=ee243af7382f8853a59265ac6dd3aa39a26c696e6b2e74656c6568656c702e746f70">
-    Прокси №7
-</a>
-    <p class="note">
-        Если Telegram не запускается, убедитесь, что Telegram Desktop установлен
-        на компьютере.
-    </p>
-
+<div class="info">
+  Выберите прокси и нажмите «Подключить»
 </div>
+
+<div id="loading">
+  Загружаю свежий список...
+</div>
+
+<div id="proxies"></div>
+
+<div class="updated" id="updated"></div>
+
+<script>
+
+async function loadProxies() {
+
+  const loading = document.getElementById("loading");
+  const container = document.getElementById("proxies");
+  const updated = document.getElementById("updated");
+
+  try {
+
+    const response = await fetch(
+      "proxies.json?t=" + Date.now()
+    );
+
+    if (!response.ok) {
+      throw new Error("Ошибка загрузки");
+    }
+
+    const data = await response.json();
+
+    loading.style.display = "none";
+
+    data.proxies.forEach((proxy, index) => {
+
+      const block = document.createElement("div");
+      block.className = "proxy";
+
+      let statusText = "Статус неизвестен";
+      let statusClass = "unknown";
+
+      if (proxy.status === "online") {
+        statusText = "🟢 Online";
+        statusClass = "online";
+      }
+
+      if (proxy.status === "unstable") {
+        statusText = "🟠 Unstable";
+        statusClass = "unstable";
+      }
+
+      if (proxy.status === "offline") {
+        statusText = "🔴 Offline";
+        statusClass = "offline";
+      }
+
+      block.innerHTML = 
+        <div class="proxy-title">
+          Proxy ${index + 1}
+        </div>
+
+        <div class="status ${statusClass}">
+          ${statusText}
+        </div>
+
+        <a
+          class="connect"
+          href="${proxy.link}">
+          Подключить
+        </a>
+      ;
+
+      container.appendChild(block);
+
+    });
+
+    if (data.updated) {
+
+      const date = new Date(data.updated);
+
+      updated.innerText =
+        "Последнее обновление: " +
+        date.toLocaleString("ru-RU");
+
+    }
+
+  }
+
+  catch(error) {
+
+    loading.innerText =
+      "Не удалось загрузить список прокси.";
+
+  }
+
+}
+
+loadProxies();
+
+</script>
+
 </body>
+</html>
 </html>

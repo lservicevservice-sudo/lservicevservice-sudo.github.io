@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-11T16:06:15.784226+00:00",
-  "count": 14,
+  "updated": "2026-08-11T17:28:02.360816+00:00",
+  "count": 13,
   "proxies": [
+    {
+      "server": "redflag.yazaebalsyadelatproxy.cc",
+      "port": "443",
+      "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
+      "https_link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
+      "tg_link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
+    },
     {
       "server": "max.kimt.click",
       "port": "443",
@@ -29,13 +36,6 @@
       "secret": "ee9f08d078eb2b66285616e9c67f5370f16e652e6b6f72616976706e2e636664",
       "https_link": "https://t.me/proxy?server=ne.koraivpn.cfd&port=443&secret=ee9f08d078eb2b66285616e9c67f5370f16e652e6b6f72616976706e2e636664",
       "tg_link": "tg://proxy?server=ne.koraivpn.cfd&port=443&secret=ee9f08d078eb2b66285616e9c67f5370f16e652e6b6f72616976706e2e636664"
-    },
-    {
-      "server": "redflag.yazaebalsyadelatproxy.cc",
-      "port": "443",
-      "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
-      "https_link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
-      "tg_link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
     },
     {
       "server": "zaebalsa-novpn.harmovpn.best",
@@ -92,13 +92,6 @@
       "secret": "eecb4abb36d31414c49d1eea88205b4eb570726f78792e6b6f636876706e2e7077",
       "https_link": "https://t.me/proxy?server=proxy.kochvpn.pw&port=443&secret=eecb4abb36d31414c49d1eea88205b4eb570726f78792e6b6f636876706e2e7077",
       "tg_link": "tg://proxy?server=proxy.kochvpn.pw&port=443&secret=eecb4abb36d31414c49d1eea88205b4eb570726f78792e6b6f636876706e2e7077"
-    },
-    {
-      "server": "meow.quomis.pw",
-      "port": "8443",
-      "secret": "ee9635706759248443673330464429703338392e33372e3139322e3936",
-      "https_link": "https://t.me/proxy?server=meow.quomis.pw&port=8443&secret=ee9635706759248443673330464429703338392e33372e3139322e3936",
-      "tg_link": "tg://proxy?server=meow.quomis.pw&port=8443&secret=ee9635706759248443673330464429703338392e33372e3139322e3936"
     }
   ]
 }

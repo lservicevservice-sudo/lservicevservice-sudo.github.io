@@ -2,16 +2,12 @@
 <html lang="ru">
 
 <head>
-
 <meta charset="UTF-8">
-
-<meta name="viewport"
-content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <title>Telegram Proxy</title>
 
 <style>
-
 body {
     margin: 0;
     padding: 20px;
@@ -20,7 +16,7 @@ body {
 }
 
 .container {
-    max-width: 520px;
+    max-width: 540px;
     margin: 30px auto;
     padding: 25px;
     background: white;
@@ -30,14 +26,33 @@ body {
 
 h1 {
     text-align: center;
-    font-size: 25px;
+    font-size: 26px;
+    margin-top: 0;
+    margin-bottom: 10px;
 }
 
 .description {
     text-align: center;
     color: #555;
     line-height: 1.5;
-    margin-bottom: 25px;
+    margin-bottom: 12px;
+}
+
+.hint {
+    text-align: center;
+    background: #eef6ff;
+    color: #1f4d7a;
+    padding: 12px;
+    border-radius: 10px;
+    margin-bottom: 22px;
+    font-size: 15px;
+}
+
+.summary {
+    text-align: center;
+    color: #4b5563;
+    font-size: 14px;
+    margin-bottom: 18px;
 }
 
 .proxy {
@@ -47,30 +62,23 @@ h1 {
     border-radius: 10px;
 }
 
-.proxy-title {
-    font-weight: bold;
-    margin-bottom: 5px;
-}
-
-.status {
-    font-size: 14px;
+.proxy-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
     margin-bottom: 10px;
 }
 
-.online {
-    color: green;
+.proxy-title {
+    font-weight: bold;
+    font-size: 19px;
 }
 
-.unstable {
-    color: #d98200;
-}
-
-.offline {
-    color: red;
-}
-
-.unknown {
-    color: #777;
+.latency {
+    color: #16803c;
+    font-size: 14px;
+    white-space: nowrap;
 }
 
 .connect {
@@ -89,13 +97,63 @@ h1 {
     background: #1687bd;
 }
 
+.hidden {
+    display: none;
+}
+
+.show-more-btn {
+    display: block;
+    width: 100%;
+    margin-top: 18px;
+    padding: 14px;
+    border: none;
+    border-radius: 9px;
+    background: #4b5563;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.empty {
+    padding: 20px;
+    text-align: center;
+    background: #fff4e5;
+    color: #784900;
+    border-radius: 10px;
+}
+
+.qr-block {
+    margin-top: 28px;
+    text-align: center;
+    padding-top: 20px;
+    border-top: 1px solid #e5e7eb;
+}
+
+.qr-title {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.qr-subtitle {
+    color: #666;
+    font-size: 14px;
+    margin-bottom: 12px;
+}
+
+.qr-block img {
+    width: 220px;
+    max-width: 100%;
+    border-radius: 10px;
+    background: white;
+}
+
 .updated {
-    margin-top: 25px;
+    margin-top: 22px;
     text-align: center;
     color: #777;
     font-size: 13px;
 }
-
 </style>
 
 </head>
@@ -104,282 +162,159 @@ h1 {
 
 <div class="container">
 
-<h1>Подключение Telegram</h1>
+    <h1>Подключение Telegram</h1>
 
-<div class="description">
-Выберите один из прокси и нажмите «Подключить».
-</div>
-
-
-    <div class="proxy">
-
-        <div class="proxy-title">
-            Прокси №1
-        </div>
-
-        <div class="status online">
-            🟢 Online
-        </div>
-
-        <a class="connect" href="tg://proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363">
-            Подключить
-        </a>
-
+    <div class="description">
+        Здесь отображаются только прокси,
+        прошедшие проверку соединения с Telegram.
     </div>
+
+    <div class="hint">
+        Если первый не подключился у вас — попробуйте следующий.
+    </div>
+
+    <div class="summary">
+        Проверено кандидатов: 50 ·
+        Рабочих найдено: 9
+    </div>
+
     
-    <div class="proxy">
+        <div class="proxy">
+            <div class="proxy-top">
+                <div class="proxy-title">Прокси №1</div>
+                <div class="latency">✅ 779 мс</div>
+            </div>
 
-        <div class="proxy-title">
-            Прокси №2
+            <a class="connect" href="tg://proxy?server=217.60.33.154&port=443&secret=ee838ba0ade3e2463bef78fcdce3da8c24706f6c616e646d6f6f6e6c696768742e6d6f6f6f2e636f6d">
+                Подключить
+            </a>
         </div>
+        
+        <div class="proxy">
+            <div class="proxy-top">
+                <div class="proxy-title">Прокси №2</div>
+                <div class="latency">✅ 844 мс</div>
+            </div>
 
-        <div class="status offline">
-            🔴 Offline
+            <a class="connect" href="tg://proxy?server=polandmoonlight.mooo.com&port=443&secret=ee838ba0ade3e2463bef78fcdce3da8c24706f6c616e646d6f6f6e6c696768742e6d6f6f6f2e636f6d">
+                Подключить
+            </a>
         </div>
+        
+        <div class="proxy">
+            <div class="proxy-top">
+                <div class="proxy-title">Прокси №3</div>
+                <div class="latency">✅ 947 мс</div>
+            </div>
 
-        <a class="connect" href="tg://proxy?server=ardesvpn1.ru&port=443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275">
-            Подключить
-        </a>
-
-    </div>
-    
-    <div class="proxy">
-
-        <div class="proxy-title">
-            Прокси №3
+            <a class="connect" href="tg://proxy?server=test.koraivpn.cfd&port=443&secret=ee9dfa699c856569a72a576f6fbb6d0269746573742e6b6f72616976706e2e636664">
+                Подключить
+            </a>
         </div>
+        
+        <div class="proxy">
+            <div class="proxy-top">
+                <div class="proxy-title">Прокси №4</div>
+                <div class="latency">✅ 997 мс</div>
+            </div>
 
-        <div class="status offline">
-            🔴 Offline
+            <a class="connect" href="tg://proxy?server=leon.baboon.digital&port=443&secret=eecc3d75febb923a9362aac9ed3f676075706574726f766963682e7275">
+                Подключить
+            </a>
         </div>
+        
+        <div class="proxy">
+            <div class="proxy-top">
+                <div class="proxy-title">Прокси №5</div>
+                <div class="latency">✅ 1157 мс</div>
+            </div>
 
-        <a class="connect" href="tg://proxy?server=zaebalsa-novpn.harmovpn.best&port=443&secret=eedc3cb14d5ff897769e5b5846ef1251fe7a616562616c73612d6e6f76706e2d6b6c696e79732e6861726d6f76706e2e62657374">
-            Подключить
-        </a>
-
-    </div>
-    
-    <div class="proxy">
-
-        <div class="proxy-title">
-            Прокси №4
+            <a class="connect" href="tg://proxy?server=echo01.whiskeytangofoxtrot.lol&port=443&secret=ee6051a9bc311f4847cae2954b9a325af36563686f30312e776869736b657974616e676f666f7874726f742e6c6f6c">
+                Подключить
+            </a>
         </div>
+        
+        <div class="proxy">
+            <div class="proxy-top">
+                <div class="proxy-title">Прокси №6</div>
+                <div class="latency">✅ 1196 мс</div>
+            </div>
 
-        <div class="status offline">
-            🔴 Offline
+            <a class="connect" href="tg://proxy?server=proxy.kochvpn.pw&port=443&secret=eecb4abb36d31414c49d1eea88205b4eb570726f78792e6b6f636876706e2e7077">
+                Подключить
+            </a>
         </div>
+        
+        <div class="proxy">
+            <div class="proxy-top">
+                <div class="proxy-title">Прокси №7</div>
+                <div class="latency">✅ 1421 мс</div>
+            </div>
 
-        <a class="connect" href="tg://proxy?server=191.44.112.217&port=443&secret=eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275">
-            Подключить
-        </a>
-
-    </div>
-    
-    <div class="proxy">
-
-        <div class="proxy-title">
-            Прокси №5
+            <a class="connect" href="tg://proxy?server=ardesvpn1.ru&port=443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275">
+                Подключить
+            </a>
         </div>
+        
+        <div class="proxy">
+            <div class="proxy-top">
+                <div class="proxy-title">Прокси №8</div>
+                <div class="latency">✅ 1558 мс</div>
+            </div>
 
-        <div class="status unstable">
-            🟠 Unstable
+            <a class="connect" href="tg://proxy?server=zaebalsa-novpn.harmovpn.best&port=443&secret=eedc3cb14d5ff897769e5b5846ef1251fe7a616562616c73612d6e6f76706e2d6b6c696e79732e6861726d6f76706e2e62657374">
+                Подключить
+            </a>
         </div>
+        
+        <div class="proxy">
+            <div class="proxy-top">
+                <div class="proxy-title">Прокси №9</div>
+                <div class="latency">✅ 2914 мс</div>
+            </div>
 
-        <a class="connect" href="tg://proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b">
-            Подключить
-        </a>
-
-    </div>
-    
-    <div class="proxy">
-
-        <div class="proxy-title">
-            Прокси №6
+            <a class="connect" href="tg://proxy?server=tea.hotstbvs.ru&port=8843&secret=ee2c4047df04ea16c08c0a4cb094aec14a7465612e686f7473746276732e7275">
+                Подключить
+            </a>
         </div>
+        
 
-        <div class="status unstable">
-            🟠 Unstable
-        </div>
-
-        <a class="connect" href="tg://proxy?server=kima.rabotaet.online&port=443&secret=ee12e7e5f961f258b04af168a1cba6318a6b696d612e7261626f746165742e6f6e6c696e65">
-            Подключить
-        </a>
-
-    </div>
-    
-    <div class="proxy">
-
-        <div class="proxy-title">
-            Прокси №7
-        </div>
-
-        <div class="status offline">
-            🔴 Offline
-        </div>
-
-        <a class="connect" href="tg://proxy?server=217.60.33.154&port=443&secret=ee838ba0ade3e2463bef78fcdce3da8c24706f6c616e646d6f6f6e6c696768742e6d6f6f6f2e636f6d">
-            Подключить
-        </a>
-
-    </div>
-    
-    <div class="proxy">
-
-        <div class="proxy-title">
-            Прокси №8
-        </div>
-
-        <div class="status offline">
-            🔴 Offline
-        </div>
-
-        <a class="connect" href="tg://proxy?server=leon.baboon.digital&port=443&secret=eecc3d75febb923a9362aac9ed3f676075706574726f766963682e7275">
-            Подключить
-        </a>
-
-    </div>
-    
-    <div class="proxy">
-
-        <div class="proxy-title">
-            Прокси №9
-        </div>
-
-        <div class="status offline">
-            🔴 Offline
-        </div>
-
-        <a class="connect" href="tg://proxy?server=proxy.kochvpn.pw&port=443&secret=eecb4abb36d31414c49d1eea88205b4eb570726f78792e6b6f636876706e2e7077">
-            Подключить
-        </a>
-
-    </div>
-    
-    <div class="proxy">
-
-        <div class="proxy-title">
-            Прокси №10
-        </div>
-
-        <div class="status offline">
-            🔴 Offline
-        </div>
-
-        <a class="connect" href="tg://proxy?server=meow.quomis.pw&port=8443&secret=ee9635706759248443673330464429703338392e33372e3139322e3936">
-            Подключить
-        </a>
-
-    </div>
-    
-    <div class="proxy">
-
-        <div class="proxy-title">
-            Прокси №11
-        </div>
-
-        <div class="status offline">
-            🔴 Offline
-        </div>
-
-        <a class="connect" href="tg://proxy?server=ardesvpn1.ru&port=8443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275">
-            Подключить
-        </a>
-
-    </div>
-    
-    <div class="proxy">
-
-        <div class="proxy-title">
-            Прокси №12
-        </div>
-
-        <div class="status offline">
-            🔴 Offline
-        </div>
-
-        <a class="connect" href="tg://proxy?server=echo01.whiskeytangofoxtrot.lol&port=443&secret=ee6051a9bc311f4847cae2954b9a325af36563686f30312e776869736b657974616e676f666f7874726f742e6c6f6c">
-            Подключить
-        </a>
-
-    </div>
-    
-    <div class="proxy">
-
-        <div class="proxy-title">
-            Прокси №13
-        </div>
-
-        <div class="status offline">
-            🔴 Offline
-        </div>
-
-        <a class="connect" href="tg://proxy?server=test.koraivpn.cfd&port=443&secret=ee9dfa699c856569a72a576f6fbb6d0269746573742e6b6f72616976706e2e636664">
-            Подключить
-        </a>
-
-    </div>
-    
-    <div class="proxy">
-
-        <div class="proxy-title">
-            Прокси №14
-        </div>
-
-        <div class="status offline">
-            🔴 Offline
-        </div>
-
-        <a class="connect" href="tg://proxy?server=wolf.baboon.digital&port=443&secret=eea21bac021798ed6830e6d6c67ba496ad706574726f766963682e7275">
-            Подключить
-        </a>
-
-    </div>
-    
-    <div class="proxy">
-
-        <div class="proxy-title">
-            Прокси №15
-        </div>
-
-        <div class="status offline">
-            🔴 Offline
-        </div>
-
-        <a class="connect" href="tg://proxy?server=polandmoonlight.mooo.com&port=443&secret=ee838ba0ade3e2463bef78fcdce3da8c24706f6c616e646d6f6f6e6c696768742e6d6f6f6f2e636f6d">
-            Подключить
-        </a>
-
-    </div>
-    
-    <div class="proxy">
-
-        <div class="proxy-title">
-            Прокси №16
-        </div>
-
-        <div class="status online">
-            🟢 Online
-        </div>
-
-        <a class="connect" href="tg://proxy?server=proxy.lodkirmm.ru&port=8443&secret=ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275">
-            Подключить
-        </a>
-
-    </div>
     
 
-<div class="updated">
+    
 
-Автоматическое обновление списка<br>
+    <div class="qr-block">
+        <div class="qr-title">QR-код страницы</div>
 
-Источник: @mtp4tg<br>
+        <div class="qr-subtitle">
+            Отсканируйте, чтобы открыть страницу на телефоне
+        </div>
 
-Последнее обновление: 11.08.2026 08:01
+        <img src="https://api.qrserver.com/v1/create-qr-code/?size=220x220&data=https%3A%2F%2Flservicevservice-sudo.github.io%2F" alt="QR-код страницы">
+    </div>
+
+    <div class="updated">
+        Последняя проверка: 11.08.2026 08:45
+    </div>
 
 </div>
 
-</div>
+<script>
+function toggleExtraProxies() {
+    const extra = document.querySelectorAll(".extra-proxy");
+    const button = document.querySelector(".show-more-btn");
+
+    const currentlyHidden =
+        Array.from(extra).some(item => item.classList.contains("hidden"));
+
+    extra.forEach(item => item.classList.toggle("hidden"));
+
+    if (button) {
+        button.textContent =
+            currentlyHidden ? "Скрыть" : "Показать ещё";
+    }
+}
+</script>
 
 </body>
-
 </html>

@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-12T14:36:27.929894+00:00",
+  "updated": "2026-08-12T15:59:26.021863+00:00",
   "count": 12,
   "proxies": [
+    {
+      "server": "proxy.lodkirmm.ru",
+      "port": "8443",
+      "secret": "ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275",
+      "https_link": "https://t.me/proxy?server=proxy.lodkirmm.ru&port=8443&secret=ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275",
+      "tg_link": "tg://proxy?server=proxy.lodkirmm.ru&port=8443&secret=ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275"
+    },
     {
       "server": "tea.hotstbvs.ru",
       "port": "8843",
@@ -64,13 +71,6 @@
       "secret": "ee00146af78e6d94d26fe08d35aa988cca63646e2e6279746561726b2e636f6d",
       "https_link": "https://t.me/proxy?server=proxy.gvtop.net&port=443&secret=ee00146af78e6d94d26fe08d35aa988cca63646e2e6279746561726b2e636f6d",
       "tg_link": "tg://proxy?server=proxy.gvtop.net&port=443&secret=ee00146af78e6d94d26fe08d35aa988cca63646e2e6279746561726b2e636f6d"
-    },
-    {
-      "server": "proxy.lodkirmm.ru",
-      "port": "8443",
-      "secret": "ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275",
-      "https_link": "https://t.me/proxy?server=proxy.lodkirmm.ru&port=8443&secret=ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275",
-      "tg_link": "tg://proxy?server=proxy.lodkirmm.ru&port=8443&secret=ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275"
     },
     {
       "server": "live.rkn.dog",

@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-12T10:35:00.048489+00:00",
-  "count": 12,
+  "updated": "2026-08-12T11:47:21.153948+00:00",
+  "count": 13,
   "proxies": [
+    {
+      "server": "ne.koraivpn.cfd",
+      "port": "443",
+      "secret": "ee124b85f985a48a9e1868c8d22af1fe9d6e652e6b6f72616976706e2e636664",
+      "https_link": "https://t.me/proxy?server=ne.koraivpn.cfd&port=443&secret=ee124b85f985a48a9e1868c8d22af1fe9d6e652e6b6f72616976706e2e636664",
+      "tg_link": "tg://proxy?server=ne.koraivpn.cfd&port=443&secret=ee124b85f985a48a9e1868c8d22af1fe9d6e652e6b6f72616976706e2e636664"
+    },
     {
       "server": "gg.fsproxy.site",
       "port": "8443",

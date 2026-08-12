@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-12T07:38:46.117571+00:00",
-  "count": 13,
+  "updated": "2026-08-12T09:13:03.538850+00:00",
+  "count": 12,
   "proxies": [
+    {
+      "server": "speedtest.wieldvpn.ru",
+      "port": "443",
+      "secret": "eeca3e6213bb633d69578ae94f667229077370656564746573742e7769656c6476706e2e7275",
+      "https_link": "https://t.me/proxy?server=speedtest.wieldvpn.ru&port=443&secret=eeca3e6213bb633d69578ae94f667229077370656564746573742e7769656c6476706e2e7275",
+      "tg_link": "tg://proxy?server=speedtest.wieldvpn.ru&port=443&secret=eeca3e6213bb633d69578ae94f667229077370656564746573742e7769656c6476706e2e7275"
+    },
     {
       "server": "proxy.gvtop.net",
       "port": "443",
@@ -22,13 +29,6 @@
       "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
       "https_link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
       "tg_link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
-    },
-    {
-      "server": "speedtest.wieldvpn.ru",
-      "port": "443",
-      "secret": "eeca3e6213bb633d69578ae94f667229077370656564746573742e7769656c6476706e2e7275",
-      "https_link": "https://t.me/proxy?server=speedtest.wieldvpn.ru&port=443&secret=eeca3e6213bb633d69578ae94f667229077370656564746573742e7769656c6476706e2e7275",
-      "tg_link": "tg://proxy?server=speedtest.wieldvpn.ru&port=443&secret=eeca3e6213bb633d69578ae94f667229077370656564746573742e7769656c6476706e2e7275"
     },
     {
       "server": "max.kimt.click",
@@ -85,13 +85,6 @@
       "secret": "ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275",
       "https_link": "https://t.me/proxy?server=ardesvpn1.ru&port=443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275",
       "tg_link": "tg://proxy?server=ardesvpn1.ru&port=443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275"
-    },
-    {
-      "server": "191.44.112.217",
-      "port": "443",
-      "secret": "eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275",
-      "https_link": "https://t.me/proxy?server=191.44.112.217&port=443&secret=eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275",
-      "tg_link": "tg://proxy?server=191.44.112.217&port=443&secret=eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275"
     }
   ]
 }

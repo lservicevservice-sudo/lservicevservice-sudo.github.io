@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-12T11:47:21.153948+00:00",
+  "updated": "2026-08-12T13:12:02.828196+00:00",
   "count": 13,
   "proxies": [
+    {
+      "server": "gamma01.whiskeytangofoxtrot.lol",
+      "port": "443",
+      "secret": "ee61c48651441f09d5db95a3929127293a67616d6d6130312e776869736b657974616e676f666f7874726f742e6c6f6c",
+      "https_link": "https://t.me/proxy?server=gamma01.whiskeytangofoxtrot.lol&port=443&secret=ee61c48651441f09d5db95a3929127293a67616d6d6130312e776869736b657974616e676f666f7874726f742e6c6f6c",
+      "tg_link": "tg://proxy?server=gamma01.whiskeytangofoxtrot.lol&port=443&secret=ee61c48651441f09d5db95a3929127293a67616d6d6130312e776869736b657974616e676f666f7874726f742e6c6f6c"
+    },
     {
       "server": "ne.koraivpn.cfd",
       "port": "443",
@@ -85,13 +92,6 @@
       "secret": "ee82dd6ba1475a9793a9613364fee70e2f7777772E6E667461756374696F6E74672E6F6E6C696E65",
       "https_link": "https://t.me/proxy?server=vk.nftauctiontg.online&port=443&secret=ee82dd6ba1475a9793a9613364fee70e2f7777772E6E667461756374696F6E74672E6F6E6C696E65",
       "tg_link": "tg://proxy?server=vk.nftauctiontg.online&port=443&secret=ee82dd6ba1475a9793a9613364fee70e2f7777772E6E667461756374696F6E74672E6F6E6C696E65"
-    },
-    {
-      "server": "tea.hotstbvs.ru",
-      "port": "8843",
-      "secret": "ee2c4047df04ea16c08c0a4cb094aec14a7465612e686f7473746276732e7275",
-      "https_link": "https://t.me/proxy?server=tea.hotstbvs.ru&port=8843&secret=ee2c4047df04ea16c08c0a4cb094aec14a7465612e686f7473746276732e7275",
-      "tg_link": "tg://proxy?server=tea.hotstbvs.ru&port=8843&secret=ee2c4047df04ea16c08c0a4cb094aec14a7465612e686f7473746276732e7275"
     }
   ]
 }

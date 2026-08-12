@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-12T15:59:26.021863+00:00",
-  "count": 12,
+  "updated": "2026-08-12T17:06:11.444851+00:00",
+  "count": 13,
   "proxies": [
+    {
+      "server": "ns2.mtproxy.top",
+      "port": "443",
+      "secret": "ee8d49d4ca9c741d51e7f6f8985c94723d6e73322e6d7470726f78792e746f70",
+      "https_link": "https://t.me/proxy?server=ns2.mtproxy.top&port=443&secret=ee8d49d4ca9c741d51e7f6f8985c94723d6e73322e6d7470726f78792e746f70",
+      "tg_link": "tg://proxy?server=ns2.mtproxy.top&port=443&secret=ee8d49d4ca9c741d51e7f6f8985c94723d6e73322e6d7470726f78792e746f70"
+    },
     {
       "server": "proxy.lodkirmm.ru",
       "port": "8443",

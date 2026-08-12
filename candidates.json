@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-12T06:01:16.839939+00:00",
-  "count": 12,
+  "updated": "2026-08-12T07:38:46.117571+00:00",
+  "count": 13,
   "proxies": [
+    {
+      "server": "proxy.gvtop.net",
+      "port": "443",
+      "secret": "ee00146af78e6d94d26fe08d35aa988cca63646e2e6279746561726b2e636f6d",
+      "https_link": "https://t.me/proxy?server=proxy.gvtop.net&port=443&secret=ee00146af78e6d94d26fe08d35aa988cca63646e2e6279746561726b2e636f6d",
+      "tg_link": "tg://proxy?server=proxy.gvtop.net&port=443&secret=ee00146af78e6d94d26fe08d35aa988cca63646e2e6279746561726b2e636f6d"
+    },
+    {
+      "server": "proxy.lodkirmm.ru",
+      "port": "8443",
+      "secret": "ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275",
+      "https_link": "https://t.me/proxy?server=proxy.lodkirmm.ru&port=8443&secret=ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275",
+      "tg_link": "tg://proxy?server=proxy.lodkirmm.ru&port=8443&secret=ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275"
+    },
     {
       "server": "redflag.yazaebalsyadelatproxy.cc",
       "port": "443",
@@ -78,13 +92,6 @@
       "secret": "eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275",
       "https_link": "https://t.me/proxy?server=191.44.112.217&port=443&secret=eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275",
       "tg_link": "tg://proxy?server=191.44.112.217&port=443&secret=eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275"
-    },
-    {
-      "server": "217.60.33.154",
-      "port": "443",
-      "secret": "ee838ba0ade3e2463bef78fcdce3da8c24706f6c616e646d6f6f6e6c696768742e6d6f6f6f2e636f6d",
-      "https_link": "https://t.me/proxy?server=217.60.33.154&port=443&secret=ee838ba0ade3e2463bef78fcdce3da8c24706f6c616e646d6f6f6e6c696768742e6d6f6f6f2e636f6d",
-      "tg_link": "tg://proxy?server=217.60.33.154&port=443&secret=ee838ba0ade3e2463bef78fcdce3da8c24706f6c616e646d6f6f6e6c696768742e6d6f6f6f2e636f6d"
     }
   ]
 }

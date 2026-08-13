@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-13T13:13:54.420460+00:00",
+  "updated": "2026-08-13T14:37:36.024331+00:00",
   "count": 16,
   "proxies": [
+    {
+      "server": "ardesvpn1.ru",
+      "port": "8443",
+      "secret": "ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275",
+      "https_link": "https://t.me/proxy?server=ardesvpn1.ru&port=8443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275",
+      "tg_link": "tg://proxy?server=ardesvpn1.ru&port=8443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275"
+    },
     {
       "server": "gamma01.whiskeytangofoxtrot.lol",
       "port": "443",
@@ -106,13 +113,6 @@
       "secret": "ee12e7e5f961f258b04af168a1cba6318a6b696d612e7261626f746165742e6f6e6c696e65",
       "https_link": "https://t.me/proxy?server=kima.rabotaet.online&port=443&secret=ee12e7e5f961f258b04af168a1cba6318a6b696d612e7261626f746165742e6f6e6c696e65",
       "tg_link": "tg://proxy?server=kima.rabotaet.online&port=443&secret=ee12e7e5f961f258b04af168a1cba6318a6b696d612e7261626f746165742e6f6e6c696e65"
-    },
-    {
-      "server": "proxy.gvtop.net",
-      "port": "443",
-      "secret": "ee00146af78e6d94d26fe08d35aa988cca63646e2e6279746561726b2e636f6d",
-      "https_link": "https://t.me/proxy?server=proxy.gvtop.net&port=443&secret=ee00146af78e6d94d26fe08d35aa988cca63646e2e6279746561726b2e636f6d",
-      "tg_link": "tg://proxy?server=proxy.gvtop.net&port=443&secret=ee00146af78e6d94d26fe08d35aa988cca63646e2e6279746561726b2e636f6d"
     }
   ]
 }

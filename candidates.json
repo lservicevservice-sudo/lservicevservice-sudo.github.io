@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-13T04:25:41.420524+00:00",
-  "count": 13,
+  "updated": "2026-08-13T05:58:01.651169+00:00",
+  "count": 14,
   "proxies": [
+    {
+      "server": "v933484.hosted-by-vdsina.com",
+      "port": "443",
+      "secret": "eec521be138a0c6e2e58175c209fca5818763933333438342e686f737465642d62792d766473696e612e636f6d",
+      "https_link": "https://t.me/proxy?server=v933484.hosted-by-vdsina.com&port=443&secret=eec521be138a0c6e2e58175c209fca5818763933333438342e686f737465642d62792d766473696e612e636f6d",
+      "tg_link": "tg://proxy?server=v933484.hosted-by-vdsina.com&port=443&secret=eec521be138a0c6e2e58175c209fca5818763933333438342e686f737465642d62792d766473696e612e636f6d"
+    },
     {
       "server": "live.rkn.dog",
       "port": "443",

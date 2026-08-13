@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-13T05:58:01.651169+00:00",
+  "updated": "2026-08-13T07:45:50.766601+00:00",
   "count": 14,
   "proxies": [
+    {
+      "server": "redflag.yazaebalsyadelatproxy.cc",
+      "port": "443",
+      "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
+      "https_link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
+      "tg_link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
+    },
     {
       "server": "v933484.hosted-by-vdsina.com",
       "port": "443",
@@ -22,13 +29,6 @@
       "secret": "eeca3e6213bb633d69578ae94f667229077370656564746573742e7769656c6476706e2e7275",
       "https_link": "https://t.me/proxy?server=speedtest.wieldvpn.ru&port=443&secret=eeca3e6213bb633d69578ae94f667229077370656564746573742e7769656c6476706e2e7275",
       "tg_link": "tg://proxy?server=speedtest.wieldvpn.ru&port=443&secret=eeca3e6213bb633d69578ae94f667229077370656564746573742e7769656c6476706e2e7275"
-    },
-    {
-      "server": "redflag.yazaebalsyadelatproxy.cc",
-      "port": "443",
-      "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
-      "https_link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
-      "tg_link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
     },
     {
       "server": "ne.koraivpn.cfd",

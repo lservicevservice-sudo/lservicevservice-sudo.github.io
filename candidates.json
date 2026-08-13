@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-13T09:13:57.321676+00:00",
+  "updated": "2026-08-13T10:36:14.844774+00:00",
   "count": 14,
   "proxies": [
+    {
+      "server": "proxy.lodkirmm.ru",
+      "port": "8443",
+      "secret": "ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275",
+      "https_link": "https://t.me/proxy?server=proxy.lodkirmm.ru&port=8443&secret=ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275",
+      "tg_link": "tg://proxy?server=proxy.lodkirmm.ru&port=8443&secret=ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275"
+    },
     {
       "server": "speedtest.wieldvpn.ru",
       "port": "443",
@@ -43,13 +50,6 @@
       "secret": "ee8d49d4ca9c741d51e7f6f8985c94723d6e73322e6d7470726f78792e746f70",
       "https_link": "https://t.me/proxy?server=ns2.mtproxy.top&port=443&secret=ee8d49d4ca9c741d51e7f6f8985c94723d6e73322e6d7470726f78792e746f70",
       "tg_link": "tg://proxy?server=ns2.mtproxy.top&port=443&secret=ee8d49d4ca9c741d51e7f6f8985c94723d6e73322e6d7470726f78792e746f70"
-    },
-    {
-      "server": "proxy.lodkirmm.ru",
-      "port": "8443",
-      "secret": "ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275",
-      "https_link": "https://t.me/proxy?server=proxy.lodkirmm.ru&port=8443&secret=ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275",
-      "tg_link": "tg://proxy?server=proxy.lodkirmm.ru&port=8443&secret=ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275"
     },
     {
       "server": "tea.hotstbvs.ru",

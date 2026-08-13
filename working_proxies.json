@@ -1,11 +1,31 @@
 [
   {
-    "server": "live.rkn.dog",
+    "server": "ns2.mtproxy.top",
     "port": "443",
-    "secret": "ee6749377a1e5deb9d7ebcfdcaeb3709746c6976652e726b6e2e646f67",
-    "https_link": "https://t.me/proxy?server=live.rkn.dog&port=443&secret=ee6749377a1e5deb9d7ebcfdcaeb3709746c6976652e726b6e2e646f67",
-    "tg_link": "tg://proxy?server=live.rkn.dog&port=443&secret=ee6749377a1e5deb9d7ebcfdcaeb3709746c6976652e726b6e2e646f67",
-    "rtt_ms": 562.3,
+    "secret": "ee8d49d4ca9c741d51e7f6f8985c94723d6e73322e6d7470726f78792e746f70",
+    "https_link": "https://t.me/proxy?server=ns2.mtproxy.top&port=443&secret=ee8d49d4ca9c741d51e7f6f8985c94723d6e73322e6d7470726f78792e746f70",
+    "tg_link": "tg://proxy?server=ns2.mtproxy.top&port=443&secret=ee8d49d4ca9c741d51e7f6f8985c94723d6e73322e6d7470726f78792e746f70",
+    "rtt_ms": 287.4,
+    "dc": 2,
+    "mode": "Mode.FAKETLS"
+  },
+  {
+    "server": "gamma01.whiskeytangofoxtrot.lol",
+    "port": "443",
+    "secret": "ee61c48651441f09d5db95a3929127293a67616d6d6130312e776869736b657974616e676f666f7874726f742e6c6f6c",
+    "https_link": "https://t.me/proxy?server=gamma01.whiskeytangofoxtrot.lol&port=443&secret=ee61c48651441f09d5db95a3929127293a67616d6d6130312e776869736b657974616e676f666f7874726f742e6c6f6c",
+    "tg_link": "tg://proxy?server=gamma01.whiskeytangofoxtrot.lol&port=443&secret=ee61c48651441f09d5db95a3929127293a67616d6d6130312e776869736b657974616e676f666f7874726f742e6c6f6c",
+    "rtt_ms": 320.0,
+    "dc": 2,
+    "mode": "Mode.FAKETLS"
+  },
+  {
+    "server": "ne.koraivpn.cfd",
+    "port": "443",
+    "secret": "ee59dc7857f787f594ac37f51af9608e776e652e6b6f72616976706e2e636664",
+    "https_link": "https://t.me/proxy?server=ne.koraivpn.cfd&port=443&secret=ee59dc7857f787f594ac37f51af9608e776e652e6b6f72616976706e2e636664",
+    "tg_link": "tg://proxy?server=ne.koraivpn.cfd&port=443&secret=ee59dc7857f787f594ac37f51af9608e776e652e6b6f72616976706e2e636664",
+    "rtt_ms": 541.9,
     "dc": 2,
     "mode": "Mode.FAKETLS"
   },
@@ -15,27 +35,27 @@
     "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
     "https_link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
     "tg_link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
-    "rtt_ms": 796.0,
+    "rtt_ms": 669.1,
     "dc": 2,
     "mode": "Mode.FAKETLS"
   },
   {
-    "server": "ne.koraivpn.cfd",
-    "port": "443",
-    "secret": "ee124b85f985a48a9e1868c8d22af1fe9d6e652e6b6f72616976706e2e636664",
-    "https_link": "https://t.me/proxy?server=ne.koraivpn.cfd&port=443&secret=ee124b85f985a48a9e1868c8d22af1fe9d6e652e6b6f72616976706e2e636664",
-    "tg_link": "tg://proxy?server=ne.koraivpn.cfd&port=443&secret=ee124b85f985a48a9e1868c8d22af1fe9d6e652e6b6f72616976706e2e636664",
-    "rtt_ms": 968.5,
+    "server": "proxy.lodkirmm.ru",
+    "port": "8443",
+    "secret": "ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275",
+    "https_link": "https://t.me/proxy?server=proxy.lodkirmm.ru&port=8443&secret=ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275",
+    "tg_link": "tg://proxy?server=proxy.lodkirmm.ru&port=8443&secret=ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275",
+    "rtt_ms": 670.0,
     "dc": 2,
     "mode": "Mode.FAKETLS"
   },
   {
-    "server": "speedtest.wieldvpn.ru",
+    "server": "live.rkn.dog",
     "port": "443",
-    "secret": "eeca3e6213bb633d69578ae94f667229077370656564746573742e7769656c6476706e2e7275",
-    "https_link": "https://t.me/proxy?server=speedtest.wieldvpn.ru&port=443&secret=eeca3e6213bb633d69578ae94f667229077370656564746573742e7769656c6476706e2e7275",
-    "tg_link": "tg://proxy?server=speedtest.wieldvpn.ru&port=443&secret=eeca3e6213bb633d69578ae94f667229077370656564746573742e7769656c6476706e2e7275",
-    "rtt_ms": 1282.5,
+    "secret": "ee6749377a1e5deb9d7ebcfdcaeb3709746c6976652e726b6e2e646f67",
+    "https_link": "https://t.me/proxy?server=live.rkn.dog&port=443&secret=ee6749377a1e5deb9d7ebcfdcaeb3709746c6976652e726b6e2e646f67",
+    "tg_link": "tg://proxy?server=live.rkn.dog&port=443&secret=ee6749377a1e5deb9d7ebcfdcaeb3709746c6976652e726b6e2e646f67",
+    "rtt_ms": 1243.3,
     "dc": 2,
     "mode": "Mode.FAKETLS"
   },
@@ -45,17 +65,7 @@
     "secret": "eec89526f2260269efb17e34e1c05221ad67672e667370726f78792e73697465",
     "https_link": "https://t.me/proxy?server=gg.fsproxy.site&port=8443&secret=eec89526f2260269efb17e34e1c05221ad67672e667370726f78792e73697465",
     "tg_link": "tg://proxy?server=gg.fsproxy.site&port=8443&secret=eec89526f2260269efb17e34e1c05221ad67672e667370726f78792e73697465",
-    "rtt_ms": 1472.7,
-    "dc": 2,
-    "mode": "Mode.FAKETLS"
-  },
-  {
-    "server": "tea.hotstbvs.ru",
-    "port": "8843",
-    "secret": "ee2c4047df04ea16c08c0a4cb094aec14a7465612e686f7473746276732e7275",
-    "https_link": "https://t.me/proxy?server=tea.hotstbvs.ru&port=8843&secret=ee2c4047df04ea16c08c0a4cb094aec14a7465612e686f7473746276732e7275",
-    "tg_link": "tg://proxy?server=tea.hotstbvs.ru&port=8843&secret=ee2c4047df04ea16c08c0a4cb094aec14a7465612e686f7473746276732e7275",
-    "rtt_ms": 1631.0,
+    "rtt_ms": 6696.6,
     "dc": 2,
     "mode": "Mode.FAKETLS"
   }

@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-13T11:48:13.529152+00:00",
-  "count": 14,
+  "updated": "2026-08-13T13:13:54.420460+00:00",
+  "count": 16,
   "proxies": [
+    {
+      "server": "gamma01.whiskeytangofoxtrot.lol",
+      "port": "443",
+      "secret": "eee25ef093f348823cf1b1c3e6ea0975b467616d6d6130312e776869736b657974616e676f666f7874726f742e6c6f6c",
+      "https_link": "https://t.me/proxy?server=gamma01.whiskeytangofoxtrot.lol&port=443&secret=eee25ef093f348823cf1b1c3e6ea0975b467616d6d6130312e776869736b657974616e676f666f7874726f742e6c6f6c",
+      "tg_link": "tg://proxy?server=gamma01.whiskeytangofoxtrot.lol&port=443&secret=eee25ef093f348823cf1b1c3e6ea0975b467616d6d6130312e776869736b657974616e676f666f7874726f742e6c6f6c"
+    },
+    {
+      "server": "ns2.mtproxy.top",
+      "port": "443",
+      "secret": "ee24d526aefbd2809d252c92beb5fbe0296e73322e6d7470726f78792e746f70",
+      "https_link": "https://t.me/proxy?server=ns2.mtproxy.top&port=443&secret=ee24d526aefbd2809d252c92beb5fbe0296e73322e6d7470726f78792e746f70",
+      "tg_link": "tg://proxy?server=ns2.mtproxy.top&port=443&secret=ee24d526aefbd2809d252c92beb5fbe0296e73322e6d7470726f78792e746f70"
+    },
     {
       "server": "ne.koraivpn.cfd",
       "port": "443",

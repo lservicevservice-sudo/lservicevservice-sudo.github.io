@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-14T17:53:49.841179+00:00",
+  "updated": "2026-08-14T18:55:38.838134+00:00",
   "count": 11,
   "proxies": [
+    {
+      "server": "redflag.yazaebalsyadelatproxy.cc",
+      "port": "443",
+      "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
+      "https_link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
+      "tg_link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
+    },
     {
       "server": "ardesvpn1.ru",
       "port": "8443",
@@ -15,13 +22,6 @@
       "secret": "eed399290c020848bd729ae71a85587a5a6c6976652e726b6e2e646f67",
       "https_link": "https://t.me/proxy?server=live.rkn.dog&port=443&secret=eed399290c020848bd729ae71a85587a5a6c6976652e726b6e2e646f67",
       "tg_link": "tg://proxy?server=live.rkn.dog&port=443&secret=eed399290c020848bd729ae71a85587a5a6c6976652e726b6e2e646f67"
-    },
-    {
-      "server": "redflag.yazaebalsyadelatproxy.cc",
-      "port": "443",
-      "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
-      "https_link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
-      "tg_link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
     },
     {
       "server": "shared.ddproxy.xyz",

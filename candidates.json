@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-14T13:08:31.689703+00:00",
-  "count": 14,
+  "updated": "2026-08-14T14:31:04.493361+00:00",
+  "count": 13,
   "proxies": [
     {
-      "server": "live.rkn.dog",
+      "server": "redflag.yazaebalsyadelatproxy.cc",
       "port": "443",
-      "secret": "eed399290c020848bd729ae71a85587a5a6c6976652e726b6e2e646f67",
-      "https_link": "https://t.me/proxy?server=live.rkn.dog&port=443&secret=eed399290c020848bd729ae71a85587a5a6c6976652e726b6e2e646f67",
-      "tg_link": "tg://proxy?server=live.rkn.dog&port=443&secret=eed399290c020848bd729ae71a85587a5a6c6976652e726b6e2e646f67"
+      "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
+      "https_link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
+      "tg_link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
     },
     {
       "server": "ardesvpn1.ru",
@@ -15,6 +15,13 @@
       "secret": "ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275",
       "https_link": "https://t.me/proxy?server=ardesvpn1.ru&port=8443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275",
       "tg_link": "tg://proxy?server=ardesvpn1.ru&port=8443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275"
+    },
+    {
+      "server": "live.rkn.dog",
+      "port": "443",
+      "secret": "eed399290c020848bd729ae71a85587a5a6c6976652e726b6e2e646f67",
+      "https_link": "https://t.me/proxy?server=live.rkn.dog&port=443&secret=eed399290c020848bd729ae71a85587a5a6c6976652e726b6e2e646f67",
+      "tg_link": "tg://proxy?server=live.rkn.dog&port=443&secret=eed399290c020848bd729ae71a85587a5a6c6976652e726b6e2e646f67"
     },
     {
       "server": "shared.ddproxy.xyz",
@@ -43,13 +50,6 @@
       "secret": "ee12e7e5f961f258b04af168a1cba6318a6b696d612e7261626f746165742e6f6e6c696e65",
       "https_link": "https://t.me/proxy?server=kima.rabotaet.online&port=443&secret=ee12e7e5f961f258b04af168a1cba6318a6b696d612e7261626f746165742e6f6e6c696e65",
       "tg_link": "tg://proxy?server=kima.rabotaet.online&port=443&secret=ee12e7e5f961f258b04af168a1cba6318a6b696d612e7261626f746165742e6f6e6c696e65"
-    },
-    {
-      "server": "redflag.yazaebalsyadelatproxy.cc",
-      "port": "443",
-      "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
-      "https_link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
-      "tg_link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
     },
     {
       "server": "proxy.lodkirmm.ru",
@@ -92,13 +92,6 @@
       "secret": "eec521be138a0c6e2e58175c209fca5818763933333438342e686f737465642d62792d766473696e612e636f6d",
       "https_link": "https://t.me/proxy?server=v933484.hosted-by-vdsina.com&port=443&secret=eec521be138a0c6e2e58175c209fca5818763933333438342e686f737465642d62792d766473696e612e636f6d",
       "tg_link": "tg://proxy?server=v933484.hosted-by-vdsina.com&port=443&secret=eec521be138a0c6e2e58175c209fca5818763933333438342e686f737465642d62792d766473696e612e636f6d"
-    },
-    {
-      "server": "live.rkn.dog",
-      "port": "443",
-      "secret": "ee6749377a1e5deb9d7ebcfdcaeb3709746c6976652e726b6e2e646f67",
-      "https_link": "https://t.me/proxy?server=live.rkn.dog&port=443&secret=ee6749377a1e5deb9d7ebcfdcaeb3709746c6976652e726b6e2e646f67",
-      "tg_link": "tg://proxy?server=live.rkn.dog&port=443&secret=ee6749377a1e5deb9d7ebcfdcaeb3709746c6976652e726b6e2e646f67"
     }
   ]
 }

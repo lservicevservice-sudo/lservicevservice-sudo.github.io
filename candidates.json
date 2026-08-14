@@ -1,20 +1,20 @@
 {
-  "updated": "2026-08-14T16:54:27.819701+00:00",
-  "count": 12,
+  "updated": "2026-08-14T17:53:49.841179+00:00",
+  "count": 11,
   "proxies": [
-    {
-      "server": "live.rkn.dog",
-      "port": "443",
-      "secret": "eed399290c020848bd729ae71a85587a5a6c6976652e726b6e2e646f67",
-      "https_link": "https://t.me/proxy?server=live.rkn.dog&port=443&secret=eed399290c020848bd729ae71a85587a5a6c6976652e726b6e2e646f67",
-      "tg_link": "tg://proxy?server=live.rkn.dog&port=443&secret=eed399290c020848bd729ae71a85587a5a6c6976652e726b6e2e646f67"
-    },
     {
       "server": "ardesvpn1.ru",
       "port": "8443",
       "secret": "ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275",
       "https_link": "https://t.me/proxy?server=ardesvpn1.ru&port=8443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275",
       "tg_link": "tg://proxy?server=ardesvpn1.ru&port=8443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275"
+    },
+    {
+      "server": "live.rkn.dog",
+      "port": "443",
+      "secret": "eed399290c020848bd729ae71a85587a5a6c6976652e726b6e2e646f67",
+      "https_link": "https://t.me/proxy?server=live.rkn.dog&port=443&secret=eed399290c020848bd729ae71a85587a5a6c6976652e726b6e2e646f67",
+      "tg_link": "tg://proxy?server=live.rkn.dog&port=443&secret=eed399290c020848bd729ae71a85587a5a6c6976652e726b6e2e646f67"
     },
     {
       "server": "redflag.yazaebalsyadelatproxy.cc",
@@ -78,13 +78,6 @@
       "secret": "ee59dc7857f787f594ac37f51af9608e776e652e6b6f72616976706e2e636664",
       "https_link": "https://t.me/proxy?server=ne.koraivpn.cfd&port=443&secret=ee59dc7857f787f594ac37f51af9608e776e652e6b6f72616976706e2e636664",
       "tg_link": "tg://proxy?server=ne.koraivpn.cfd&port=443&secret=ee59dc7857f787f594ac37f51af9608e776e652e6b6f72616976706e2e636664"
-    },
-    {
-      "server": "speedtest.wieldvpn.ru",
-      "port": "443",
-      "secret": "eeca3e6213bb633d69578ae94f667229077370656564746573742e7769656c6476706e2e7275",
-      "https_link": "https://t.me/proxy?server=speedtest.wieldvpn.ru&port=443&secret=eeca3e6213bb633d69578ae94f667229077370656564746573742e7769656c6476706e2e7275",
-      "tg_link": "tg://proxy?server=speedtest.wieldvpn.ru&port=443&secret=eeca3e6213bb633d69578ae94f667229077370656564746573742e7769656c6476706e2e7275"
     }
   ]
 }

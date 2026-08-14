@@ -1,20 +1,20 @@
 {
-  "updated": "2026-08-14T18:55:38.838134+00:00",
-  "count": 11,
+  "updated": "2026-08-14T19:49:56.722578+00:00",
+  "count": 10,
   "proxies": [
-    {
-      "server": "redflag.yazaebalsyadelatproxy.cc",
-      "port": "443",
-      "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
-      "https_link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
-      "tg_link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
-    },
     {
       "server": "ardesvpn1.ru",
       "port": "8443",
       "secret": "ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275",
       "https_link": "https://t.me/proxy?server=ardesvpn1.ru&port=8443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275",
       "tg_link": "tg://proxy?server=ardesvpn1.ru&port=8443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275"
+    },
+    {
+      "server": "redflag.yazaebalsyadelatproxy.cc",
+      "port": "443",
+      "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
+      "https_link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
+      "tg_link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
     },
     {
       "server": "live.rkn.dog",
@@ -71,13 +71,6 @@
       "secret": "ee24d526aefbd2809d252c92beb5fbe0296e73322e6d7470726f78792e746f70",
       "https_link": "https://t.me/proxy?server=ns2.mtproxy.top&port=443&secret=ee24d526aefbd2809d252c92beb5fbe0296e73322e6d7470726f78792e746f70",
       "tg_link": "tg://proxy?server=ns2.mtproxy.top&port=443&secret=ee24d526aefbd2809d252c92beb5fbe0296e73322e6d7470726f78792e746f70"
-    },
-    {
-      "server": "ne.koraivpn.cfd",
-      "port": "443",
-      "secret": "ee59dc7857f787f594ac37f51af9608e776e652e6b6f72616976706e2e636664",
-      "https_link": "https://t.me/proxy?server=ne.koraivpn.cfd&port=443&secret=ee59dc7857f787f594ac37f51af9608e776e652e6b6f72616976706e2e636664",
-      "tg_link": "tg://proxy?server=ne.koraivpn.cfd&port=443&secret=ee59dc7857f787f594ac37f51af9608e776e652e6b6f72616976706e2e636664"
     }
   ]
 }

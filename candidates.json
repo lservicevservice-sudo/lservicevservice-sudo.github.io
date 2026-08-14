@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-14T04:22:20.077752+00:00",
+  "updated": "2026-08-14T05:56:34.387020+00:00",
   "count": 13,
   "proxies": [
+    {
+      "server": "proxy.lodkirmm.ru",
+      "port": "8443",
+      "secret": "ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275",
+      "https_link": "https://t.me/proxy?server=proxy.lodkirmm.ru&port=8443&secret=ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275",
+      "tg_link": "tg://proxy?server=proxy.lodkirmm.ru&port=8443&secret=ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275"
+    },
     {
       "server": "redflag.yazaebalsyadelatproxy.cc",
       "port": "443",
@@ -50,13 +57,6 @@
       "secret": "ee59dc7857f787f594ac37f51af9608e776e652e6b6f72616976706e2e636664",
       "https_link": "https://t.me/proxy?server=ne.koraivpn.cfd&port=443&secret=ee59dc7857f787f594ac37f51af9608e776e652e6b6f72616976706e2e636664",
       "tg_link": "tg://proxy?server=ne.koraivpn.cfd&port=443&secret=ee59dc7857f787f594ac37f51af9608e776e652e6b6f72616976706e2e636664"
-    },
-    {
-      "server": "proxy.lodkirmm.ru",
-      "port": "8443",
-      "secret": "ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275",
-      "https_link": "https://t.me/proxy?server=proxy.lodkirmm.ru&port=8443&secret=ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275",
-      "tg_link": "tg://proxy?server=proxy.lodkirmm.ru&port=8443&secret=ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275"
     },
     {
       "server": "speedtest.wieldvpn.ru",

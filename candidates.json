@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-15T03:40:05.684943+00:00",
-  "count": 8,
+  "updated": "2026-08-15T04:32:44.051340+00:00",
+  "count": 9,
   "proxies": [
+    {
+      "server": "188.130.206.114",
+      "port": "443",
+      "secret": "ddd4554db3aa4e52d671440524be1bb39a",
+      "https_link": "https://t.me/proxy?server=188.130.206.114&port=443&secret=ddd4554db3aa4e52d671440524be1bb39a",
+      "tg_link": "tg://proxy?server=188.130.206.114&port=443&secret=ddd4554db3aa4e52d671440524be1bb39a"
+    },
     {
       "server": "max.kimt.click",
       "port": "443",

@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-15T05:52:14.867516+00:00",
-  "count": 10,
+  "updated": "2026-08-15T06:39:38.660751+00:00",
+  "count": 11,
   "proxies": [
+    {
+      "server": "ne.koraivpn.cfd",
+      "port": "443",
+      "secret": "ee1331019f2aae8e2976167afdb8cfadd06e652e6b6f72616976706e2e636664",
+      "https_link": "https://t.me/proxy?server=ne.koraivpn.cfd&port=443&secret=ee1331019f2aae8e2976167afdb8cfadd06e652e6b6f72616976706e2e636664",
+      "tg_link": "tg://proxy?server=ne.koraivpn.cfd&port=443&secret=ee1331019f2aae8e2976167afdb8cfadd06e652e6b6f72616976706e2e636664"
+    },
     {
       "server": "ns3.xubi.org",
       "port": "443",

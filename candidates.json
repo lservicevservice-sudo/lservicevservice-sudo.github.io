@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-15T05:25:33.309701+00:00",
-  "count": 9,
+  "updated": "2026-08-15T05:52:14.867516+00:00",
+  "count": 10,
   "proxies": [
+    {
+      "server": "ns3.xubi.org",
+      "port": "443",
+      "secret": "ee185f23456c0f672b486a5d3965c0c9ba6e73332e787562692e6f7267",
+      "https_link": "https://t.me/proxy?server=ns3.xubi.org&port=443&secret=ee185f23456c0f672b486a5d3965c0c9ba6e73332e787562692e6f7267",
+      "tg_link": "tg://proxy?server=ns3.xubi.org&port=443&secret=ee185f23456c0f672b486a5d3965c0c9ba6e73332e787562692e6f7267"
+    },
     {
       "server": "188.130.206.114",
       "port": "443",

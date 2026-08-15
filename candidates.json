@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-15T11:45:22.222201+00:00",
-  "count": 11,
+  "updated": "2026-08-15T12:38:41.930651+00:00",
+  "count": 12,
   "proxies": [
+    {
+      "server": "storage.casacam.net",
+      "port": "443",
+      "secret": "ee00c36ce7fc3a418cbaa286338576cfb173746f726167652e6361736163616d2e6e6574",
+      "https_link": "https://t.me/proxy?server=storage.casacam.net&port=443&secret=ee00c36ce7fc3a418cbaa286338576cfb173746f726167652e6361736163616d2e6e6574",
+      "tg_link": "tg://proxy?server=storage.casacam.net&port=443&secret=ee00c36ce7fc3a418cbaa286338576cfb173746f726167652e6361736163616d2e6e6574"
+    },
     {
       "server": "redflag.yazaebalsyadelatproxy.cc",
       "port": "443",

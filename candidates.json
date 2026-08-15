@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-15T19:21:23.438021+00:00",
+  "updated": "2026-08-15T19:45:26.924385+00:00",
   "count": 11,
   "proxies": [
+    {
+      "server": "redflag.yazaebalsyadelatproxy.cc",
+      "port": "443",
+      "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
+      "https_link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
+      "tg_link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
+    },
     {
       "server": "ardesvpn1.ru",
       "port": "8443",
@@ -29,13 +36,6 @@
       "secret": "ee00c36ce7fc3a418cbaa286338576cfb173746f726167652e6361736163616d2e6e6574",
       "https_link": "https://t.me/proxy?server=storage.casacam.net&port=443&secret=ee00c36ce7fc3a418cbaa286338576cfb173746f726167652e6361736163616d2e6e6574",
       "tg_link": "tg://proxy?server=storage.casacam.net&port=443&secret=ee00c36ce7fc3a418cbaa286338576cfb173746f726167652e6361736163616d2e6e6574"
-    },
-    {
-      "server": "redflag.yazaebalsyadelatproxy.cc",
-      "port": "443",
-      "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
-      "https_link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
-      "tg_link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
     },
     {
       "server": "proxy.lodkirmm.ru",

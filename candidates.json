@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-16T20:23:29.433759+00:00",
-  "count": 16,
+  "updated": "2026-08-16T20:48:44.395441+00:00",
+  "count": 15,
   "proxies": [
+    {
+      "server": "ardesvpn1.ru",
+      "port": "8443",
+      "secret": "ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275",
+      "https_link": "https://t.me/proxy?server=ardesvpn1.ru&port=8443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275",
+      "tg_link": "tg://proxy?server=ardesvpn1.ru&port=8443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275"
+    },
     {
       "server": "redflag.yazaebalsyadelatproxy.cc",
       "port": "443",
@@ -66,13 +73,6 @@
       "tg_link": "tg://proxy?server=77.110.122.75&port=443&secret=eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275"
     },
     {
-      "server": "ardesvpn1.ru",
-      "port": "8443",
-      "secret": "ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275",
-      "https_link": "https://t.me/proxy?server=ardesvpn1.ru&port=8443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275",
-      "tg_link": "tg://proxy?server=ardesvpn1.ru&port=8443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275"
-    },
-    {
       "server": "shared.ddproxy.xyz",
       "port": "443",
       "secret": "eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275",
@@ -106,13 +106,6 @@
       "secret": "eeee6dcacab89b87535fde73915e8f61c974616e676f30312e776869736b657974616e676f666f7874726f742e6c6f6c",
       "https_link": "https://t.me/proxy?server=tango01.whiskeytangofoxtrot.lol&port=443&secret=eeee6dcacab89b87535fde73915e8f61c974616e676f30312e776869736b657974616e676f666f7874726f742e6c6f6c",
       "tg_link": "tg://proxy?server=tango01.whiskeytangofoxtrot.lol&port=443&secret=eeee6dcacab89b87535fde73915e8f61c974616e676f30312e776869736b657974616e676f666f7874726f742e6c6f6c"
-    },
-    {
-      "server": "storage.casacam.net",
-      "port": "443",
-      "secret": "ee00c36ce7fc3a418cbaa286338576cfb173746f726167652e6361736163616d2e6e6574",
-      "https_link": "https://t.me/proxy?server=storage.casacam.net&port=443&secret=ee00c36ce7fc3a418cbaa286338576cfb173746f726167652e6361736163616d2e6e6574",
-      "tg_link": "tg://proxy?server=storage.casacam.net&port=443&secret=ee00c36ce7fc3a418cbaa286338576cfb173746f726167652e6361736163616d2e6e6574"
     }
   ]
 }

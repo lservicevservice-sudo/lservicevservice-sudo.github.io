@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-16T12:40:54.204753+00:00",
+  "updated": "2026-08-16T13:32:11.603906+00:00",
   "count": 13,
   "proxies": [
+    {
+      "server": "lima01.whiskeytangofoxtrot.lol",
+      "port": "443",
+      "secret": "eecb6181404631b3e5175d5d6a81bbfd276c696d6130312e776869736b657974616e676f666f7874726f742e6c6f6c",
+      "https_link": "https://t.me/proxy?server=lima01.whiskeytangofoxtrot.lol&port=443&secret=eecb6181404631b3e5175d5d6a81bbfd276c696d6130312e776869736b657974616e676f666f7874726f742e6c6f6c",
+      "tg_link": "tg://proxy?server=lima01.whiskeytangofoxtrot.lol&port=443&secret=eecb6181404631b3e5175d5d6a81bbfd276c696d6130312e776869736b657974616e676f666f7874726f742e6c6f6c"
+    },
     {
       "server": "yosta.flashhub.net",
       "port": "443",
@@ -85,13 +92,6 @@
       "secret": "ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275",
       "https_link": "https://t.me/proxy?server=proxy.lodkirmm.ru&port=8443&secret=ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275",
       "tg_link": "tg://proxy?server=proxy.lodkirmm.ru&port=8443&secret=ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275"
-    },
-    {
-      "server": "ns3.xubi.org",
-      "port": "443",
-      "secret": "ee185f23456c0f672b486a5d3965c0c9ba6e73332e787562692e6f7267",
-      "https_link": "https://t.me/proxy?server=ns3.xubi.org&port=443&secret=ee185f23456c0f672b486a5d3965c0c9ba6e73332e787562692e6f7267",
-      "tg_link": "tg://proxy?server=ns3.xubi.org&port=443&secret=ee185f23456c0f672b486a5d3965c0c9ba6e73332e787562692e6f7267"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-16T10:23:49.324599+00:00",
-  "count": 13,
+  "updated": "2026-08-16T10:49:51.210844+00:00",
+  "count": 14,
   "proxies": [
+    {
+      "server": "77.110.122.75",
+      "port": "443",
+      "secret": "eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275",
+      "https_link": "https://t.me/proxy?server=77.110.122.75&port=443&secret=eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275",
+      "tg_link": "tg://proxy?server=77.110.122.75&port=443&secret=eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275"
+    },
     {
       "server": "ardesvpn1.ru",
       "port": "8443",

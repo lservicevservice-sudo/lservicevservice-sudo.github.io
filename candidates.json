@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-16T11:45:57.036216+00:00",
+  "updated": "2026-08-16T12:40:54.204753+00:00",
   "count": 13,
   "proxies": [
+    {
+      "server": "yosta.flashhub.net",
+      "port": "443",
+      "secret": "ee50b3d1b65aad92a3fd6c105607335e94796f7374612e666c6173686875622e6e6574",
+      "https_link": "https://t.me/proxy?server=yosta.flashhub.net&port=443&secret=ee50b3d1b65aad92a3fd6c105607335e94796f7374612e666c6173686875622e6e6574",
+      "tg_link": "tg://proxy?server=yosta.flashhub.net&port=443&secret=ee50b3d1b65aad92a3fd6c105607335e94796f7374612e666c6173686875622e6e6574"
+    },
     {
       "server": "rtsp.accesscam.org",
       "port": "443",
@@ -85,13 +92,6 @@
       "secret": "ee185f23456c0f672b486a5d3965c0c9ba6e73332e787562692e6f7267",
       "https_link": "https://t.me/proxy?server=ns3.xubi.org&port=443&secret=ee185f23456c0f672b486a5d3965c0c9ba6e73332e787562692e6f7267",
       "tg_link": "tg://proxy?server=ns3.xubi.org&port=443&secret=ee185f23456c0f672b486a5d3965c0c9ba6e73332e787562692e6f7267"
-    },
-    {
-      "server": "188.130.206.114",
-      "port": "443",
-      "secret": "ddd4554db3aa4e52d671440524be1bb39a",
-      "https_link": "https://t.me/proxy?server=188.130.206.114&port=443&secret=ddd4554db3aa4e52d671440524be1bb39a",
-      "tg_link": "tg://proxy?server=188.130.206.114&port=443&secret=ddd4554db3aa4e52d671440524be1bb39a"
     }
   ]
 }

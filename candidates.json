@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-16T03:49:25.555751+00:00",
-  "count": 12,
+  "updated": "2026-08-16T04:36:46.412271+00:00",
+  "count": 13,
   "proxies": [
+    {
+      "server": "yosta.webredirect.org",
+      "port": "443",
+      "secret": "ee042caee1957c1580456e7933b7353483796f7374612e77656272656469726563742e6f7267",
+      "https_link": "https://t.me/proxy?server=yosta.webredirect.org&port=443&secret=ee042caee1957c1580456e7933b7353483796f7374612e77656272656469726563742e6f7267",
+      "tg_link": "tg://proxy?server=yosta.webredirect.org&port=443&secret=ee042caee1957c1580456e7933b7353483796f7374612e77656272656469726563742e6f7267"
+    },
     {
       "server": "live.rkn.dog",
       "port": "443",

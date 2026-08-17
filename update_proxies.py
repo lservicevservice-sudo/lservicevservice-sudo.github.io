@@ -38,7 +38,7 @@ def make_html(proxies):
         blocks += f"""
         <div class="proxy{hidden}">
             <div class="proxy-top">
-                <div class="proxy-title">Прокси №{i}</div>
+                <div class="proxy-title">Подключение №{i}</div>
                 <div class="latency">✅ {rtt}</div>
             </div>
             <a class="connect" href="{proxy['tg_link']}">Подключить</a>
@@ -92,10 +92,10 @@ h1 {{ text-align:center; font-size:26px; margin-top:0; margin-bottom:10px; }}
 </head>
 <body>
 <div class="container">
-<h1>Подключение Telegram</h1>
-<div class="description">Здесь отображаются только прокси, прошедшие проверку через рабочую сеть.</div>
-<div class="hint">Если первый не подключился — попробуйте следующий.</div>
-<div class="summary">Рабочих прокси: {len(proxies)}</div>
+<h1>Подключение</h1>
+<div class="description">Здесь отображаются только проверенные подключения.</div>
+<div class="hint"></div>
+<div class="summary">Доступных подключений: {len(proxies)}</div>
 {blocks}
 {empty}
 {show_more}

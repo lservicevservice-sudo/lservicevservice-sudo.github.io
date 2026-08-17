@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-17T09:42:45.579026+00:00",
-  "count": 15,
+  "updated": "2026-08-17T10:33:06.338180+00:00",
+  "count": 14,
   "proxies": [
+    {
+      "server": "shared.ddproxy.xyz",
+      "port": "443",
+      "secret": "eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275",
+      "https_link": "https://t.me/proxy?server=shared.ddproxy.xyz&port=443&secret=eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275",
+      "tg_link": "tg://proxy?server=shared.ddproxy.xyz&port=443&secret=eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275"
+    },
     {
       "server": "max.kimt.click",
       "port": "443",
@@ -80,13 +87,6 @@
       "tg_link": "tg://proxy?server=77.110.122.75&port=443&secret=eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275"
     },
     {
-      "server": "shared.ddproxy.xyz",
-      "port": "443",
-      "secret": "eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275",
-      "https_link": "https://t.me/proxy?server=shared.ddproxy.xyz&port=443&secret=eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275",
-      "tg_link": "tg://proxy?server=shared.ddproxy.xyz&port=443&secret=eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275"
-    },
-    {
       "server": "yosta.webredirect.org",
       "port": "443",
       "secret": "ee042caee1957c1580456e7933b7353483796f7374612e77656272656469726563742e6f7267",
@@ -99,13 +99,6 @@
       "secret": "ee52e666b1b61f4e22c57c15aaf834ad516c6976652e726b6e2e646f67",
       "https_link": "https://t.me/proxy?server=live.rkn.dog&port=443&secret=ee52e666b1b61f4e22c57c15aaf834ad516c6976652e726b6e2e646f67",
       "tg_link": "tg://proxy?server=live.rkn.dog&port=443&secret=ee52e666b1b61f4e22c57c15aaf834ad516c6976652e726b6e2e646f67"
-    },
-    {
-      "server": "n.koraivpn.cfd",
-      "port": "10901",
-      "secret": "eeb59ae9f037b23b3d9f7522bf3321a3176e2e6b6f72616976706e2e636664",
-      "https_link": "https://t.me/proxy?server=n.koraivpn.cfd&port=10901&secret=eeb59ae9f037b23b3d9f7522bf3321a3176e2e6b6f72616976706e2e636664",
-      "tg_link": "tg://proxy?server=n.koraivpn.cfd&port=10901&secret=eeb59ae9f037b23b3d9f7522bf3321a3176e2e6b6f72616976706e2e636664"
     }
   ]
 }

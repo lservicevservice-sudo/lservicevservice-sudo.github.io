@@ -47,7 +47,7 @@ def make_html(proxies):
 
     empty = "" if proxies else """
     <div class="empty">
-        Сейчас нет прокси, прошедших проверку через рабочую сеть.
+        Сейчас нет доступных подключений.
     </div>
     """
 
@@ -67,7 +67,7 @@ def make_html(proxies):
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Telegram Proxy</title>
+<title>Подключение</title>
 <style>
 body {{ margin:0; padding:20px; font-family:Arial,sans-serif; background:#f1f3f5; }}
 .container {{ max-width:540px; margin:30px auto; padding:25px; background:white; border-radius:16px; box-shadow:0 5px 20px rgba(0,0,0,0.12); }}
@@ -123,7 +123,7 @@ def main():
     html = make_html(proxies)
     with open("index.html", "w", encoding="utf-8") as f:
         f.write(html)
-    print(f"Рабочих прокси на странице: {len(proxies)}")
+    print(f"Доступных подключений на странице: {len(proxies)}")
     print("index.html обновлён из working_proxies.json")
 
 if __name__ == "__main__":

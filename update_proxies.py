@@ -3,7 +3,7 @@ from datetime import datetime
 from urllib.parse import quote
 
 VISIBLE_COUNT = 10
-SITE_URL = "https://lservicevservice-sudo.github.io/"
+SITE_URL = "https://effervescent-clafoutis-1c56fe.netlify.app/"
 WORKING_FILE = "working_proxies.json"
 
 def load_working_proxies():

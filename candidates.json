@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-17T20:28:36.343029+00:00",
+  "updated": "2026-08-17T20:56:40.242102+00:00",
   "count": 14,
   "proxies": [
+    {
+      "server": "max.kimt.click",
+      "port": "443",
+      "secret": "ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b",
+      "https_link": "https://t.me/proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b",
+      "tg_link": "tg://proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b"
+    },
+    {
+      "server": "kima.rabotaet.online",
+      "port": "443",
+      "secret": "ee12e7e5f961f258b04af168a1cba6318a6b696d612e7261626f746165742e6f6e6c696e65",
+      "https_link": "https://t.me/proxy?server=kima.rabotaet.online&port=443&secret=ee12e7e5f961f258b04af168a1cba6318a6b696d612e7261626f746165742e6f6e6c696e65",
+      "tg_link": "tg://proxy?server=kima.rabotaet.online&port=443&secret=ee12e7e5f961f258b04af168a1cba6318a6b696d612e7261626f746165742e6f6e6c696e65"
+    },
     {
       "server": "redflag.yazaebalsyadelatproxy.cc",
       "port": "443",
@@ -15,13 +29,6 @@
       "secret": "ee711d23801cabf3ed2bb4e1c7735856026d616a6f7230312e776869736b657974616e676f666f7874726f742e6c6f6c",
       "https_link": "https://t.me/proxy?server=major01.whiskeytangofoxtrot.lol&port=443&secret=ee711d23801cabf3ed2bb4e1c7735856026d616a6f7230312e776869736b657974616e676f666f7874726f742e6c6f6c",
       "tg_link": "tg://proxy?server=major01.whiskeytangofoxtrot.lol&port=443&secret=ee711d23801cabf3ed2bb4e1c7735856026d616a6f7230312e776869736b657974616e676f666f7874726f742e6c6f6c"
-    },
-    {
-      "server": "kima.rabotaet.online",
-      "port": "443",
-      "secret": "ee12e7e5f961f258b04af168a1cba6318a6b696d612e7261626f746165742e6f6e6c696e65",
-      "https_link": "https://t.me/proxy?server=kima.rabotaet.online&port=443&secret=ee12e7e5f961f258b04af168a1cba6318a6b696d612e7261626f746165742e6f6e6c696e65",
-      "tg_link": "tg://proxy?server=kima.rabotaet.online&port=443&secret=ee12e7e5f961f258b04af168a1cba6318a6b696d612e7261626f746165742e6f6e6c696e65"
     },
     {
       "server": "as.mkim.click",
@@ -50,13 +57,6 @@
       "secret": "eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275",
       "https_link": "https://t.me/proxy?server=shared.ddproxy.xyz&port=443&secret=eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275",
       "tg_link": "tg://proxy?server=shared.ddproxy.xyz&port=443&secret=eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275"
-    },
-    {
-      "server": "max.kimt.click",
-      "port": "443",
-      "secret": "ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b",
-      "https_link": "https://t.me/proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b",
-      "tg_link": "tg://proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b"
     },
     {
       "server": "188.130.206.114",

@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-17T11:27:12.731149+00:00",
-  "count": 14,
+  "updated": "2026-08-17T11:52:25.920704+00:00",
+  "count": 15,
   "proxies": [
+    {
+      "server": "n.koraivpn.cfd",
+      "port": "10901",
+      "secret": "eeb59ae9f037b23b3d9f7522bf3321a3176e2e6b6f72616976706e2e636664",
+      "https_link": "https://t.me/proxy?server=n.koraivpn.cfd&port=10901&secret=eeb59ae9f037b23b3d9f7522bf3321a3176e2e6b6f72616976706e2e636664",
+      "tg_link": "tg://proxy?server=n.koraivpn.cfd&port=10901&secret=eeb59ae9f037b23b3d9f7522bf3321a3176e2e6b6f72616976706e2e636664"
+    },
     {
       "server": "shared.ddproxy.xyz",
       "port": "443",

@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-17T16:57:45.308986+00:00",
+  "updated": "2026-08-17T17:35:19.735024+00:00",
   "count": 14,
   "proxies": [
+    {
+      "server": "major01.whiskeytangofoxtrot.lol",
+      "port": "443",
+      "secret": "ee711d23801cabf3ed2bb4e1c7735856026d616a6f7230312e776869736b657974616e676f666f7874726f742e6c6f6c",
+      "https_link": "https://t.me/proxy?server=major01.whiskeytangofoxtrot.lol&port=443&secret=ee711d23801cabf3ed2bb4e1c7735856026d616a6f7230312e776869736b657974616e676f666f7874726f742e6c6f6c",
+      "tg_link": "tg://proxy?server=major01.whiskeytangofoxtrot.lol&port=443&secret=ee711d23801cabf3ed2bb4e1c7735856026d616a6f7230312e776869736b657974616e676f666f7874726f742e6c6f6c"
+    },
     {
       "server": "kima.rabotaet.online",
       "port": "443",
@@ -92,13 +99,6 @@
       "secret": "eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275",
       "https_link": "https://t.me/proxy?server=77.110.122.75&port=443&secret=eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275",
       "tg_link": "tg://proxy?server=77.110.122.75&port=443&secret=eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275"
-    },
-    {
-      "server": "yosta.webredirect.org",
-      "port": "443",
-      "secret": "ee042caee1957c1580456e7933b7353483796f7374612e77656272656469726563742e6f7267",
-      "https_link": "https://t.me/proxy?server=yosta.webredirect.org&port=443&secret=ee042caee1957c1580456e7933b7353483796f7374612e77656272656469726563742e6f7267",
-      "tg_link": "tg://proxy?server=yosta.webredirect.org&port=443&secret=ee042caee1957c1580456e7933b7353483796f7374612e77656272656469726563742e6f7267"
     }
   ]
 }

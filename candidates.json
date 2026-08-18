@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-18T03:45:24.746017+00:00",
-  "count": 14,
+  "updated": "2026-08-18T04:36:44.268826+00:00",
+  "count": 13,
   "proxies": [
+    {
+      "server": "ardesvpn1.ru",
+      "port": "8443",
+      "secret": "ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275",
+      "https_link": "https://t.me/proxy?server=ardesvpn1.ru&port=8443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275",
+      "tg_link": "tg://proxy?server=ardesvpn1.ru&port=8443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275"
+    },
     {
       "server": "max.kimt.click",
       "port": "443",
@@ -36,13 +43,6 @@
       "secret": "ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b",
       "https_link": "https://t.me/proxy?server=as.mkim.click&port=443&secret=ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b",
       "tg_link": "tg://proxy?server=as.mkim.click&port=443&secret=ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b"
-    },
-    {
-      "server": "ardesvpn1.ru",
-      "port": "8443",
-      "secret": "ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275",
-      "https_link": "https://t.me/proxy?server=ardesvpn1.ru&port=8443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275",
-      "tg_link": "tg://proxy?server=ardesvpn1.ru&port=8443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275"
     },
     {
       "server": "n.koraivpn.cfd",
@@ -92,13 +92,6 @@
       "secret": "ee64982dcc1c1c3838bc44adfa64bf6257727473702e61636365737363616d2e6f7267",
       "https_link": "https://t.me/proxy?server=rtsp.accesscam.org&port=443&secret=ee64982dcc1c1c3838bc44adfa64bf6257727473702e61636365737363616d2e6f7267",
       "tg_link": "tg://proxy?server=rtsp.accesscam.org&port=443&secret=ee64982dcc1c1c3838bc44adfa64bf6257727473702e61636365737363616d2e6f7267"
-    },
-    {
-      "server": "77.110.122.75",
-      "port": "443",
-      "secret": "eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275",
-      "https_link": "https://t.me/proxy?server=77.110.122.75&port=443&secret=eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275",
-      "tg_link": "tg://proxy?server=77.110.122.75&port=443&secret=eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275"
     }
   ]
 }

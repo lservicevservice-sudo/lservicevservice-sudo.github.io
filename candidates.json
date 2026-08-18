@@ -1,20 +1,20 @@
 {
-  "updated": "2026-08-18T08:38:08.829990+00:00",
-  "count": 11,
+  "updated": "2026-08-18T09:34:49.134885+00:00",
+  "count": 10,
   "proxies": [
-    {
-      "server": "redflag.yazaebalsyadelatproxy.cc",
-      "port": "443",
-      "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
-      "https_link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
-      "tg_link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
-    },
     {
       "server": "ardesvpn1.ru",
       "port": "8443",
       "secret": "ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275",
       "https_link": "https://t.me/proxy?server=ardesvpn1.ru&port=8443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275",
       "tg_link": "tg://proxy?server=ardesvpn1.ru&port=8443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275"
+    },
+    {
+      "server": "redflag.yazaebalsyadelatproxy.cc",
+      "port": "443",
+      "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
+      "https_link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
+      "tg_link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
     },
     {
       "server": "kima.rabotaet.online",
@@ -71,13 +71,6 @@
       "secret": "ddd4554db3aa4e52d671440524be1bb39a",
       "https_link": "https://t.me/proxy?server=188.130.206.114&port=443&secret=ddd4554db3aa4e52d671440524be1bb39a",
       "tg_link": "tg://proxy?server=188.130.206.114&port=443&secret=ddd4554db3aa4e52d671440524be1bb39a"
-    },
-    {
-      "server": "freeprliphilla.mtproto.art",
-      "port": "443",
-      "secret": "ee120dbc7801efa4d550c0fa4ddd47fbe16672656570726c697068696c6c612e6d7470726f746f2e617274",
-      "https_link": "https://t.me/proxy?server=freeprliphilla.mtproto.art&port=443&secret=ee120dbc7801efa4d550c0fa4ddd47fbe16672656570726c697068696c6c612e6d7470726f746f2e617274",
-      "tg_link": "tg://proxy?server=freeprliphilla.mtproto.art&port=443&secret=ee120dbc7801efa4d550c0fa4ddd47fbe16672656570726c697068696c6c612e6d7470726f746f2e617274"
     }
   ]
 }

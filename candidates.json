@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-18T04:36:44.268826+00:00",
+  "updated": "2026-08-18T05:30:45.933783+00:00",
   "count": 13,
   "proxies": [
+    {
+      "server": "max.yard-tg-bot.online",
+      "port": "443",
+      "secret": "ee526372c4f8c8ade6146df721f700c06663646e2e796172642d74672d626f742e6f6e6c696e65",
+      "https_link": "https://t.me/proxy?server=max.yard-tg-bot.online&port=443&secret=ee526372c4f8c8ade6146df721f700c06663646e2e796172642d74672d626f742e6f6e6c696e65",
+      "tg_link": "tg://proxy?server=max.yard-tg-bot.online&port=443&secret=ee526372c4f8c8ade6146df721f700c06663646e2e796172642d74672d626f742e6f6e6c696e65"
+    },
     {
       "server": "ardesvpn1.ru",
       "port": "8443",
@@ -85,13 +92,6 @@
       "secret": "ee50b3d1b65aad92a3fd6c105607335e94796f7374612e666c6173686875622e6e6574",
       "https_link": "https://t.me/proxy?server=yosta.flashhub.net&port=443&secret=ee50b3d1b65aad92a3fd6c105607335e94796f7374612e666c6173686875622e6e6574",
       "tg_link": "tg://proxy?server=yosta.flashhub.net&port=443&secret=ee50b3d1b65aad92a3fd6c105607335e94796f7374612e666c6173686875622e6e6574"
-    },
-    {
-      "server": "rtsp.accesscam.org",
-      "port": "443",
-      "secret": "ee64982dcc1c1c3838bc44adfa64bf6257727473702e61636365737363616d2e6f7267",
-      "https_link": "https://t.me/proxy?server=rtsp.accesscam.org&port=443&secret=ee64982dcc1c1c3838bc44adfa64bf6257727473702e61636365737363616d2e6f7267",
-      "tg_link": "tg://proxy?server=rtsp.accesscam.org&port=443&secret=ee64982dcc1c1c3838bc44adfa64bf6257727473702e61636365737363616d2e6f7267"
     }
   ]
 }

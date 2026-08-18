@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-18T06:44:44.280185+00:00",
-  "count": 12,
+  "updated": "2026-08-18T07:38:53.755417+00:00",
+  "count": 11,
   "proxies": [
+    {
+      "server": "ardesvpn1.ru",
+      "port": "8443",
+      "secret": "ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275",
+      "https_link": "https://t.me/proxy?server=ardesvpn1.ru&port=8443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275",
+      "tg_link": "tg://proxy?server=ardesvpn1.ru&port=8443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275"
+    },
     {
       "server": "kima.rabotaet.online",
       "port": "443",
@@ -22,13 +29,6 @@
       "secret": "ee526372c4f8c8ade6146df721f700c06663646e2e796172642d74672d626f742e6f6e6c696e65",
       "https_link": "https://t.me/proxy?server=max.yard-tg-bot.online&port=443&secret=ee526372c4f8c8ade6146df721f700c06663646e2e796172642d74672d626f742e6f6e6c696e65",
       "tg_link": "tg://proxy?server=max.yard-tg-bot.online&port=443&secret=ee526372c4f8c8ade6146df721f700c06663646e2e796172642d74672d626f742e6f6e6c696e65"
-    },
-    {
-      "server": "ardesvpn1.ru",
-      "port": "8443",
-      "secret": "ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275",
-      "https_link": "https://t.me/proxy?server=ardesvpn1.ru&port=8443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275",
-      "tg_link": "tg://proxy?server=ardesvpn1.ru&port=8443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275"
     },
     {
       "server": "max.kimt.click",
@@ -78,13 +78,6 @@
       "secret": "ee120dbc7801efa4d550c0fa4ddd47fbe16672656570726c697068696c6c612e6d7470726f746f2e617274",
       "https_link": "https://t.me/proxy?server=freeprliphilla.mtproto.art&port=443&secret=ee120dbc7801efa4d550c0fa4ddd47fbe16672656570726c697068696c6c612e6d7470726f746f2e617274",
       "tg_link": "tg://proxy?server=freeprliphilla.mtproto.art&port=443&secret=ee120dbc7801efa4d550c0fa4ddd47fbe16672656570726c697068696c6c612e6d7470726f746f2e617274"
-    },
-    {
-      "server": "lima01.whiskeytangofoxtrot.lol",
-      "port": "443",
-      "secret": "eecb6181404631b3e5175d5d6a81bbfd276c696d6130312e776869736b657974616e676f666f7874726f742e6c6f6c",
-      "https_link": "https://t.me/proxy?server=lima01.whiskeytangofoxtrot.lol&port=443&secret=eecb6181404631b3e5175d5d6a81bbfd276c696d6130312e776869736b657974616e676f666f7874726f742e6c6f6c",
-      "tg_link": "tg://proxy?server=lima01.whiskeytangofoxtrot.lol&port=443&secret=eecb6181404631b3e5175d5d6a81bbfd276c696d6130312e776869736b657974616e676f666f7874726f742e6c6f6c"
     }
   ]
 }

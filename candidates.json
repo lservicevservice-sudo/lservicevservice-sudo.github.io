@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-18T10:29:39.074578+00:00",
-  "count": 10,
+  "updated": "2026-08-18T10:58:39.577815+00:00",
+  "count": 11,
   "proxies": [
+    {
+      "server": "tea.hotstbvs.ru",
+      "port": "8843",
+      "secret": "ee2c4047df04ea16c08c0a4cb094aec14a7465612e686f7473746276732e7275",
+      "https_link": "https://t.me/proxy?server=tea.hotstbvs.ru&port=8843&secret=ee2c4047df04ea16c08c0a4cb094aec14a7465612e686f7473746276732e7275",
+      "tg_link": "tg://proxy?server=tea.hotstbvs.ru&port=8843&secret=ee2c4047df04ea16c08c0a4cb094aec14a7465612e686f7473746276732e7275"
+    },
     {
       "server": "ardesvpn1.ru",
       "port": "8443",

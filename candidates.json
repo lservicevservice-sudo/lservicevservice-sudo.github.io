@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-19T04:37:49.063025+00:00",
-  "count": 10,
+  "updated": "2026-08-19T05:31:18.837467+00:00",
+  "count": 11,
   "proxies": [
+    {
+      "server": "rdap.buzz",
+      "port": "443",
+      "secret": "ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275",
+      "https_link": "https://t.me/proxy?server=rdap.buzz&port=443&secret=ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275",
+      "tg_link": "tg://proxy?server=rdap.buzz&port=443&secret=ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275"
+    },
     {
       "server": "shared.ddproxy.xyz",
       "port": "443",

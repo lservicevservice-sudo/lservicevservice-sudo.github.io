@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-19T07:39:15.607614+00:00",
-  "count": 12,
+  "updated": "2026-08-19T08:38:53.591672+00:00",
+  "count": 11,
   "proxies": [
     {
       "server": "redflag.yazaebalsyadelatproxy.cc",
@@ -78,13 +78,6 @@
       "secret": "ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b",
       "https_link": "https://t.me/proxy?server=as.mkim.click&port=443&secret=ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b",
       "tg_link": "tg://proxy?server=as.mkim.click&port=443&secret=ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b"
-    },
-    {
-      "server": "max.yard-tg-bot.online",
-      "port": "443",
-      "secret": "ee526372c4f8c8ade6146df721f700c06663646e2e796172642d74672d626f742e6f6e6c696e65",
-      "https_link": "https://t.me/proxy?server=max.yard-tg-bot.online&port=443&secret=ee526372c4f8c8ade6146df721f700c06663646e2e796172642d74672d626f742e6f6e6c696e65",
-      "tg_link": "tg://proxy?server=max.yard-tg-bot.online&port=443&secret=ee526372c4f8c8ade6146df721f700c06663646e2e796172642d74672d626f742e6f6e6c696e65"
     }
   ]
 }

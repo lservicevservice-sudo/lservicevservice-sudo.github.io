@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-20T03:47:42.898905+00:00",
-  "count": 18,
+  "updated": "2026-08-20T04:38:08.738734+00:00",
+  "count": 19,
   "proxies": [
+    {
+      "server": "max.kimt.click",
+      "port": "443",
+      "secret": "ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b",
+      "https_link": "https://t.me/proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b",
+      "tg_link": "tg://proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b"
+    },
     {
       "server": "kima.rabotaet.online",
       "port": "443",

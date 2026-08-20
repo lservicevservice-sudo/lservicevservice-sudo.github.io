@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-20T11:55:05.775362+00:00",
+  "updated": "2026-08-20T12:51:38.207409+00:00",
   "count": 19,
   "proxies": [
+    {
+      "server": "proxy.lodkirmm.ru",
+      "port": "8443",
+      "secret": "ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275",
+      "https_link": "https://t.me/proxy?server=proxy.lodkirmm.ru&port=8443&secret=ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275",
+      "tg_link": "tg://proxy?server=proxy.lodkirmm.ru&port=8443&secret=ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275"
+    },
     {
       "server": "kima.rabotaet.online",
       "port": "443",
@@ -71,13 +78,6 @@
       "secret": "eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275",
       "https_link": "https://t.me/proxy?server=shared1.ddproxy.xyz&port=443&secret=eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275",
       "tg_link": "tg://proxy?server=shared1.ddproxy.xyz&port=443&secret=eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275"
-    },
-    {
-      "server": "proxy.lodkirmm.ru",
-      "port": "8443",
-      "secret": "ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275",
-      "https_link": "https://t.me/proxy?server=proxy.lodkirmm.ru&port=8443&secret=ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275",
-      "tg_link": "tg://proxy?server=proxy.lodkirmm.ru&port=8443&secret=ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275"
     },
     {
       "server": "144.31.28.201",

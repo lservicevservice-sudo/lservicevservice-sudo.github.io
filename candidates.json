@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-21T13:46:35.141553+00:00",
+  "updated": "2026-08-21T14:36:26.667659+00:00",
   "count": 10,
   "proxies": [
+    {
+      "server": "live.rkn.dog",
+      "port": "443",
+      "secret": "eeb08a67c6464eebe35adecd9b315b6a536c6976652e726b6e2e646f67",
+      "https_link": "https://t.me/proxy?server=live.rkn.dog&port=443&secret=eeb08a67c6464eebe35adecd9b315b6a536c6976652e726b6e2e646f67",
+      "tg_link": "tg://proxy?server=live.rkn.dog&port=443&secret=eeb08a67c6464eebe35adecd9b315b6a536c6976652e726b6e2e646f67"
+    },
     {
       "server": "redflag.yazaebalsyadelatproxy.cc",
       "port": "443",
@@ -64,13 +71,6 @@
       "secret": "ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b",
       "https_link": "https://t.me/proxy?server=as.mkim.click&port=443&secret=ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b",
       "tg_link": "tg://proxy?server=as.mkim.click&port=443&secret=ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b"
-    },
-    {
-      "server": "kima.rabotaet.online",
-      "port": "443",
-      "secret": "ee12e7e5f961f258b04af168a1cba6318a6b696d612e7261626f746165742e6f6e6c696e65",
-      "https_link": "https://t.me/proxy?server=kima.rabotaet.online&port=443&secret=ee12e7e5f961f258b04af168a1cba6318a6b696d612e7261626f746165742e6f6e6c696e65",
-      "tg_link": "tg://proxy?server=kima.rabotaet.online&port=443&secret=ee12e7e5f961f258b04af168a1cba6318a6b696d612e7261626f746165742e6f6e6c696e65"
     }
   ]
 }

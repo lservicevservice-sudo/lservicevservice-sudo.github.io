@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T19:49:15.709665+00:00",
+  "updated": "2026-08-21T20:26:53.109070+00:00",
   "count": 13,
   "proxies": [
     {
@@ -31,11 +31,11 @@
       "tg_link": "tg://proxy?server=s2.v6n.tech&port=443&secret=eee047ab55fbc9f66afb089a12e6a280cb7777772e626f6f6b696e672e636f6d"
     },
     {
-      "server": "live.rkn.dog",
+      "server": "v2.rkn.dog",
       "port": "443",
-      "secret": "ee2d9768a279b6d41a71057fa7a68759db6c6976652e726b6e2e646f67",
-      "https_link": "https://t.me/proxy?server=live.rkn.dog&port=443&secret=ee2d9768a279b6d41a71057fa7a68759db6c6976652e726b6e2e646f67",
-      "tg_link": "tg://proxy?server=live.rkn.dog&port=443&secret=ee2d9768a279b6d41a71057fa7a68759db6c6976652e726b6e2e646f67"
+      "secret": "eeec8cecad5e274978236d74dffcd82cd976322e726b6e2e646f67",
+      "https_link": "https://t.me/proxy?server=v2.rkn.dog&port=443&secret=eeec8cecad5e274978236d74dffcd82cd976322e726b6e2e646f67",
+      "tg_link": "tg://proxy?server=v2.rkn.dog&port=443&secret=eeec8cecad5e274978236d74dffcd82cd976322e726b6e2e646f67"
     },
     {
       "server": "yostavpn.casacam.net",

@@ -1,20 +1,20 @@
 {
-  "updated": "2026-08-21T19:26:44.190493+00:00",
+  "updated": "2026-08-21T19:49:15.709665+00:00",
   "count": 13,
   "proxies": [
-    {
-      "server": "direct.mtaccess.win",
-      "port": "443",
-      "secret": "eedc3fb36929b7d3f26fe642ad5f8e7331636c6f7564666c6172652e636f6d",
-      "https_link": "https://t.me/proxy?server=direct.mtaccess.win&port=443&secret=eedc3fb36929b7d3f26fe642ad5f8e7331636c6f7564666c6172652e636f6d",
-      "tg_link": "tg://proxy?server=direct.mtaccess.win&port=443&secret=eedc3fb36929b7d3f26fe642ad5f8e7331636c6f7564666c6172652e636f6d"
-    },
     {
       "server": "redflag.yazaebalsyadelatproxy.cc",
       "port": "443",
       "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
       "https_link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
       "tg_link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
+    },
+    {
+      "server": "direct.mtaccess.win",
+      "port": "443",
+      "secret": "eedc3fb36929b7d3f26fe642ad5f8e7331636c6f7564666c6172652e636f6d",
+      "https_link": "https://t.me/proxy?server=direct.mtaccess.win&port=443&secret=eedc3fb36929b7d3f26fe642ad5f8e7331636c6f7564666c6172652e636f6d",
+      "tg_link": "tg://proxy?server=direct.mtaccess.win&port=443&secret=eedc3fb36929b7d3f26fe642ad5f8e7331636c6f7564666c6172652e636f6d"
     },
     {
       "server": "s1.v6n.tech",

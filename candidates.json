@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-21T17:59:38.900747+00:00",
-  "count": 12,
+  "updated": "2026-08-21T18:50:11.684075+00:00",
+  "count": 13,
   "proxies": [
+    {
+      "server": "direct.mtaccess.win",
+      "port": "443",
+      "secret": "eedc3fb36929b7d3f26fe642ad5f8e7331636c6f7564666c6172652e636f6d",
+      "https_link": "https://t.me/proxy?server=direct.mtaccess.win&port=443&secret=eedc3fb36929b7d3f26fe642ad5f8e7331636c6f7564666c6172652e636f6d",
+      "tg_link": "tg://proxy?server=direct.mtaccess.win&port=443&secret=eedc3fb36929b7d3f26fe642ad5f8e7331636c6f7564666c6172652e636f6d"
+    },
     {
       "server": "redflag.yazaebalsyadelatproxy.cc",
       "port": "443",

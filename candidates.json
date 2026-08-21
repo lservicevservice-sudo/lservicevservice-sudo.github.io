@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-21T04:39:01.626083+00:00",
-  "count": 10,
+  "updated": "2026-08-21T05:33:16.420003+00:00",
+  "count": 11,
   "proxies": [
+    {
+      "server": "snova.zaebalsya.uk",
+      "port": "2087",
+      "secret": "eef2bed18f685d75d61df7c5a33b431c2f736e6f76612e7a616562616c7379612e756b",
+      "https_link": "https://t.me/proxy?server=snova.zaebalsya.uk&port=2087&secret=eef2bed18f685d75d61df7c5a33b431c2f736e6f76612e7a616562616c7379612e756b",
+      "tg_link": "tg://proxy?server=snova.zaebalsya.uk&port=2087&secret=eef2bed18f685d75d61df7c5a33b431c2f736e6f76612e7a616562616c7379612e756b"
+    },
     {
       "server": "chestno.servera-dlya-tg-zdes-net.abrdns.com",
       "port": "443",

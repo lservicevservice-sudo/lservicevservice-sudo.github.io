@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-21T05:33:16.420003+00:00",
-  "count": 11,
+  "updated": "2026-08-21T06:49:29.020973+00:00",
+  "count": 12,
   "proxies": [
+    {
+      "server": "yostavpn.casacam.net",
+      "port": "443",
+      "secret": "eec17adfc3591215500ff5240c48f1231a796f73746176706e2e6361736163616d2e6e6574",
+      "https_link": "https://t.me/proxy?server=yostavpn.casacam.net&port=443&secret=eec17adfc3591215500ff5240c48f1231a796f73746176706e2e6361736163616d2e6e6574",
+      "tg_link": "tg://proxy?server=yostavpn.casacam.net&port=443&secret=eec17adfc3591215500ff5240c48f1231a796f73746176706e2e6361736163616d2e6e6574"
+    },
     {
       "server": "snova.zaebalsya.uk",
       "port": "2087",

@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-22T05:28:56.601417+00:00",
-  "count": 11,
+  "updated": "2026-08-22T05:55:58.882496+00:00",
+  "count": 13,
   "proxies": [
+    {
+      "server": "edge.lovely.lat",
+      "port": "443",
+      "secret": "ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275",
+      "https_link": "https://t.me/proxy?server=edge.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275",
+      "tg_link": "tg://proxy?server=edge.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275"
+    },
+    {
+      "server": "edge.lovely.lat",
+      "port": "443",
+      "secret": "ee499cbaa63a17e5071d5babf1ccba89f3656467652e6c6f76656c792e6c6174",
+      "https_link": "https://t.me/proxy?server=edge.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f3656467652e6c6f76656c792e6c6174",
+      "tg_link": "tg://proxy?server=edge.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f3656467652e6c6f76656c792e6c6174"
+    },
     {
       "server": "max.yard-tg-bot.online",
       "port": "443",

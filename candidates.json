@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-22T17:47:09.646542+00:00",
-  "count": 15,
+  "updated": "2026-08-22T18:31:49.842397+00:00",
+  "count": 13,
   "proxies": [
     {
       "server": "redflag.yazaebalsyadelatproxy.cc",
@@ -92,20 +92,6 @@
       "secret": "eedc3fb36929b7d3f26fe642ad5f8e7331636c6f7564666c6172652e636f6d",
       "https_link": "https://t.me/proxy?server=direct.mtaccess.win&port=443&secret=eedc3fb36929b7d3f26fe642ad5f8e7331636c6f7564666c6172652e636f6d",
       "tg_link": "tg://proxy?server=direct.mtaccess.win&port=443&secret=eedc3fb36929b7d3f26fe642ad5f8e7331636c6f7564666c6172652e636f6d"
-    },
-    {
-      "server": "s1.v6n.tech",
-      "port": "443",
-      "secret": "ee8745e54f3f77640f38d845cb2826f6b37777772e626f6f6b696e672e636f6d",
-      "https_link": "https://t.me/proxy?server=s1.v6n.tech&port=443&secret=ee8745e54f3f77640f38d845cb2826f6b37777772e626f6f6b696e672e636f6d",
-      "tg_link": "tg://proxy?server=s1.v6n.tech&port=443&secret=ee8745e54f3f77640f38d845cb2826f6b37777772e626f6f6b696e672e636f6d"
-    },
-    {
-      "server": "s2.v6n.tech",
-      "port": "443",
-      "secret": "eee047ab55fbc9f66afb089a12e6a280cb7777772e626f6f6b696e672e636f6d",
-      "https_link": "https://t.me/proxy?server=s2.v6n.tech&port=443&secret=eee047ab55fbc9f66afb089a12e6a280cb7777772e626f6f6b696e672e636f6d",
-      "tg_link": "tg://proxy?server=s2.v6n.tech&port=443&secret=eee047ab55fbc9f66afb089a12e6a280cb7777772e626f6f6b696e672e636f6d"
     }
   ]
 }

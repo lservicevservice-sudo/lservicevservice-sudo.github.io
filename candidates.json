@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-22T06:45:04.857391+00:00",
-  "count": 13,
+  "updated": "2026-08-22T07:32:38.806969+00:00",
+  "count": 14,
   "proxies": [
+    {
+      "server": "connect.lovely.lat",
+      "port": "443",
+      "secret": "ee499cbaa63a17e5071d5babf1ccba89f3636f6e6e6563742e6c6f76656c792e6c6174",
+      "https_link": "https://t.me/proxy?server=connect.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f3636f6e6e6563742e6c6f76656c792e6c6174",
+      "tg_link": "tg://proxy?server=connect.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f3636f6e6e6563742e6c6f76656c792e6c6174"
+    },
+    {
+      "server": "connect.lovely.lat",
+      "port": "443",
+      "secret": "ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275",
+      "https_link": "https://t.me/proxy?server=connect.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275",
+      "tg_link": "tg://proxy?server=connect.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275"
+    },
     {
       "server": "t4.myrka.digital",
       "port": "443",
@@ -85,13 +99,6 @@
       "secret": "eef2bed18f685d75d61df7c5a33b431c2f736e6f76612e7a616562616c7379612e756b",
       "https_link": "https://t.me/proxy?server=snova.zaebalsya.uk&port=2087&secret=eef2bed18f685d75d61df7c5a33b431c2f736e6f76612e7a616562616c7379612e756b",
       "tg_link": "tg://proxy?server=snova.zaebalsya.uk&port=2087&secret=eef2bed18f685d75d61df7c5a33b431c2f736e6f76612e7a616562616c7379612e756b"
-    },
-    {
-      "server": "chestno.servera-dlya-tg-zdes-net.abrdns.com",
-      "port": "443",
-      "secret": "eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275",
-      "https_link": "https://t.me/proxy?server=chestno.servera-dlya-tg-zdes-net.abrdns.com&port=443&secret=eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275",
-      "tg_link": "tg://proxy?server=chestno.servera-dlya-tg-zdes-net.abrdns.com&port=443&secret=eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275"
     }
   ]
 }

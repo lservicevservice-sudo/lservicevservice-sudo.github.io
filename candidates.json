@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-22T11:46:20.398958+00:00",
-  "count": 14,
+  "updated": "2026-08-22T12:40:45.217629+00:00",
+  "count": 13,
   "proxies": [
+    {
+      "server": "v2.rkn.dog",
+      "port": "443",
+      "secret": "eeec8cecad5e274978236d74dffcd82cd976322e726b6e2e646f67",
+      "https_link": "https://t.me/proxy?server=v2.rkn.dog&port=443&secret=eeec8cecad5e274978236d74dffcd82cd976322e726b6e2e646f67",
+      "tg_link": "tg://proxy?server=v2.rkn.dog&port=443&secret=eeec8cecad5e274978236d74dffcd82cd976322e726b6e2e646f67"
+    },
     {
       "server": "redflag.yazaebalsyadelatproxy.cc",
       "port": "443",
@@ -66,13 +73,6 @@
       "tg_link": "tg://proxy?server=max.yard-tg-bot.online&port=443&secret=ee526372c4f8c8ade6146df721f700c06663646e2e796172642d74672d626f742e6f6e6c696e65"
     },
     {
-      "server": "v2.rkn.dog",
-      "port": "443",
-      "secret": "eeec8cecad5e274978236d74dffcd82cd976322e726b6e2e646f67",
-      "https_link": "https://t.me/proxy?server=v2.rkn.dog&port=443&secret=eeec8cecad5e274978236d74dffcd82cd976322e726b6e2e646f67",
-      "tg_link": "tg://proxy?server=v2.rkn.dog&port=443&secret=eeec8cecad5e274978236d74dffcd82cd976322e726b6e2e646f67"
-    },
-    {
       "server": "direct.mtaccess.win",
       "port": "443",
       "secret": "eedc3fb36929b7d3f26fe642ad5f8e7331636c6f7564666c6172652e636f6d",
@@ -92,13 +92,6 @@
       "secret": "eee047ab55fbc9f66afb089a12e6a280cb7777772e626f6f6b696e672e636f6d",
       "https_link": "https://t.me/proxy?server=s2.v6n.tech&port=443&secret=eee047ab55fbc9f66afb089a12e6a280cb7777772e626f6f6b696e672e636f6d",
       "tg_link": "tg://proxy?server=s2.v6n.tech&port=443&secret=eee047ab55fbc9f66afb089a12e6a280cb7777772e626f6f6b696e672e636f6d"
-    },
-    {
-      "server": "yostavpn.casacam.net",
-      "port": "443",
-      "secret": "eec17adfc3591215500ff5240c48f1231a796f73746176706e2e6361736163616d2e6e6574",
-      "https_link": "https://t.me/proxy?server=yostavpn.casacam.net&port=443&secret=eec17adfc3591215500ff5240c48f1231a796f73746176706e2e6361736163616d2e6e6574",
-      "tg_link": "tg://proxy?server=yostavpn.casacam.net&port=443&secret=eec17adfc3591215500ff5240c48f1231a796f73746176706e2e6361736163616d2e6e6574"
     }
   ]
 }

@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-23T03:51:28.064866+00:00",
-  "count": 13,
+  "updated": "2026-08-23T04:38:26.805404+00:00",
+  "count": 14,
   "proxies": [
+    {
+      "server": "core.lovely.lat",
+      "port": "443",
+      "secret": "ee499cbaa63a17e5071d5babf1ccba89f3636f72652e6c6f76656c792e6c6174",
+      "https_link": "https://t.me/proxy?server=core.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f3636f72652e6c6f76656c792e6c6174",
+      "tg_link": "tg://proxy?server=core.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f3636f72652e6c6f76656c792e6c6174"
+    },
+    {
+      "server": "core.lovely.lat",
+      "port": "443",
+      "secret": "ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275",
+      "https_link": "https://t.me/proxy?server=core.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275",
+      "tg_link": "tg://proxy?server=core.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275"
+    },
     {
       "server": "v2.rkn.dog",
       "port": "443",
@@ -85,13 +99,6 @@
       "secret": "ee526372c4f8c8ade6146df721f700c06663646e2e796172642d74672d626f742e6f6e6c696e65",
       "https_link": "https://t.me/proxy?server=max.yard-tg-bot.online&port=443&secret=ee526372c4f8c8ade6146df721f700c06663646e2e796172642d74672d626f742e6f6e6c696e65",
       "tg_link": "tg://proxy?server=max.yard-tg-bot.online&port=443&secret=ee526372c4f8c8ade6146df721f700c06663646e2e796172642d74672d626f742e6f6e6c696e65"
-    },
-    {
-      "server": "direct.mtaccess.win",
-      "port": "443",
-      "secret": "eedc3fb36929b7d3f26fe642ad5f8e7331636c6f7564666c6172652e636f6d",
-      "https_link": "https://t.me/proxy?server=direct.mtaccess.win&port=443&secret=eedc3fb36929b7d3f26fe642ad5f8e7331636c6f7564666c6172652e636f6d",
-      "tg_link": "tg://proxy?server=direct.mtaccess.win&port=443&secret=eedc3fb36929b7d3f26fe642ad5f8e7331636c6f7564666c6172652e636f6d"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-23T06:41:53.292536+00:00",
+  "updated": "2026-08-23T07:34:01.745015+00:00",
   "count": 17,
   "proxies": [
+    {
+      "server": "ad-1.reelunza.com",
+      "port": "8443",
+      "secret": "eea8ae94137f6a161773384a10bf176a5c61642d312e7265656c756e7a612e636f6d",
+      "https_link": "https://t.me/proxy?server=ad-1.reelunza.com&port=8443&secret=eea8ae94137f6a161773384a10bf176a5c61642d312e7265656c756e7a612e636f6d",
+      "tg_link": "tg://proxy?server=ad-1.reelunza.com&port=8443&secret=eea8ae94137f6a161773384a10bf176a5c61642d312e7265656c756e7a612e636f6d"
+    },
     {
       "server": "cloud.lovely.lat",
       "port": "443",
@@ -113,13 +120,6 @@
       "secret": "ee499cbaa63a17e5071d5babf1ccba89f3656467652e6c6f76656c792e6c6174",
       "https_link": "https://t.me/proxy?server=edge.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f3656467652e6c6f76656c792e6c6174",
       "tg_link": "tg://proxy?server=edge.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f3656467652e6c6f76656c792e6c6174"
-    },
-    {
-      "server": "max.yard-tg-bot.online",
-      "port": "443",
-      "secret": "ee526372c4f8c8ade6146df721f700c06663646e2e796172642d74672d626f742e6f6e6c696e65",
-      "https_link": "https://t.me/proxy?server=max.yard-tg-bot.online&port=443&secret=ee526372c4f8c8ade6146df721f700c06663646e2e796172642d74672d626f742e6f6e6c696e65",
-      "tg_link": "tg://proxy?server=max.yard-tg-bot.online&port=443&secret=ee526372c4f8c8ade6146df721f700c06663646e2e796172642d74672d626f742e6f6e6c696e65"
     }
   ]
 }

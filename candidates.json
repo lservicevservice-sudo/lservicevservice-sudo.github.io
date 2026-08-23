@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-23T04:38:26.805404+00:00",
-  "count": 14,
+  "updated": "2026-08-23T05:30:38.193483+00:00",
+  "count": 15,
   "proxies": [
+    {
+      "server": "static.antenna-mzt.live",
+      "port": "443",
+      "secret": "ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d",
+      "https_link": "https://t.me/proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d",
+      "tg_link": "tg://proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d"
+    },
     {
       "server": "core.lovely.lat",
       "port": "443",

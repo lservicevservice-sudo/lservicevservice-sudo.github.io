@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T18:31:29.221420+00:00",
+  "updated": "2026-08-23T19:22:56.128963+00:00",
   "count": 25,
   "proxies": [
     {
@@ -38,11 +38,11 @@
       "tg_link": "tg://proxy?server=assets.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275"
     },
     {
-      "server": "live.rkn.dog",
+      "server": "v2.rkn.dog",
       "port": "443",
-      "secret": "eeb08a67c6464eebe35adecd9b315b6a536c6976652e726b6e2e646f67",
-      "https_link": "https://t.me/proxy?server=live.rkn.dog&port=443&secret=eeb08a67c6464eebe35adecd9b315b6a536c6976652e726b6e2e646f67",
-      "tg_link": "tg://proxy?server=live.rkn.dog&port=443&secret=eeb08a67c6464eebe35adecd9b315b6a536c6976652e726b6e2e646f67"
+      "secret": "ee9928898871885b97d46cdc201de2e4bd76322e726b6e2e646f67",
+      "https_link": "https://t.me/proxy?server=v2.rkn.dog&port=443&secret=ee9928898871885b97d46cdc201de2e4bd76322e726b6e2e646f67",
+      "tg_link": "tg://proxy?server=v2.rkn.dog&port=443&secret=ee9928898871885b97d46cdc201de2e4bd76322e726b6e2e646f67"
     },
     {
       "server": "stream.lovely.lat",

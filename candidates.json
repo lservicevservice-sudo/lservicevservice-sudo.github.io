@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-24T19:30:32.735740+00:00",
+  "updated": "2026-08-24T20:31:15.994710+00:00",
   "count": 31,
   "proxies": [
+    {
+      "server": "v2.rkn.dog",
+      "port": "443",
+      "secret": "ee9928898871885b97d46cdc201de2e4bd76322e726b6e2e646f67",
+      "https_link": "https://t.me/proxy?server=v2.rkn.dog&port=443&secret=ee9928898871885b97d46cdc201de2e4bd76322e726b6e2e646f67",
+      "tg_link": "tg://proxy?server=v2.rkn.dog&port=443&secret=ee9928898871885b97d46cdc201de2e4bd76322e726b6e2e646f67"
+    },
     {
       "server": "cdn.lovely.lat",
       "port": "443",
@@ -57,13 +64,6 @@
       "secret": "ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275",
       "https_link": "https://t.me/proxy?server=static.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275",
       "tg_link": "tg://proxy?server=static.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275"
-    },
-    {
-      "server": "v2.rkn.dog",
-      "port": "443",
-      "secret": "ee9928898871885b97d46cdc201de2e4bd76322e726b6e2e646f67",
-      "https_link": "https://t.me/proxy?server=v2.rkn.dog&port=443&secret=ee9928898871885b97d46cdc201de2e4bd76322e726b6e2e646f67",
-      "tg_link": "tg://proxy?server=v2.rkn.dog&port=443&secret=ee9928898871885b97d46cdc201de2e4bd76322e726b6e2e646f67"
     },
     {
       "server": "yazaebalsyadelatproxy.uk",

@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-24T05:39:09.250085+00:00",
+  "updated": "2026-08-24T07:00:24.873527+00:00",
   "count": 34,
   "proxies": [
+    {
+      "server": "rdap.buzz",
+      "port": "443",
+      "secret": "ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275",
+      "https_link": "https://t.me/proxy?server=rdap.buzz&port=443&secret=ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275",
+      "tg_link": "tg://proxy?server=rdap.buzz&port=443&secret=ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275"
+    },
     {
       "server": "ardesvpn1.ru",
       "port": "8443",
@@ -134,13 +141,6 @@
       "secret": "ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275",
       "https_link": "https://t.me/proxy?server=core.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275",
       "tg_link": "tg://proxy?server=core.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275"
-    },
-    {
-      "server": "v2.rkn.dog",
-      "port": "443",
-      "secret": "eeec8cecad5e274978236d74dffcd82cd976322e726b6e2e646f67",
-      "https_link": "https://t.me/proxy?server=v2.rkn.dog&port=443&secret=eeec8cecad5e274978236d74dffcd82cd976322e726b6e2e646f67",
-      "tg_link": "tg://proxy?server=v2.rkn.dog&port=443&secret=eeec8cecad5e274978236d74dffcd82cd976322e726b6e2e646f67"
     },
     {
       "server": "201.7.22.98",

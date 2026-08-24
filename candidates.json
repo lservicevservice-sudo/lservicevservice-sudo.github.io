@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-24T03:55:15.004558+00:00",
-  "count": 23,
+  "updated": "2026-08-24T04:46:43.681696+00:00",
+  "count": 25,
   "proxies": [
+    {
+      "server": "app.lovely.lat",
+      "port": "443",
+      "secret": "ee499cbaa63a17e5071d5babf1ccba89f36170702e6c6f76656c792e6c6174",
+      "https_link": "https://t.me/proxy?server=app.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36170702e6c6f76656c792e6c6174",
+      "tg_link": "tg://proxy?server=app.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36170702e6c6f76656c792e6c6174"
+    },
+    {
+      "server": "app.lovely.lat",
+      "port": "443",
+      "secret": "ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275",
+      "https_link": "https://t.me/proxy?server=app.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275",
+      "tg_link": "tg://proxy?server=app.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275"
+    },
     {
       "server": "v2.rkn.dog",
       "port": "443",

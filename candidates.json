@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-25T14:13:13.886948+00:00",
-  "count": 21,
+  "updated": "2026-08-25T15:21:44.422911+00:00",
+  "count": 22,
   "proxies": [
+    {
+      "server": "v2.rkn.dog",
+      "port": "443",
+      "secret": "ee37f317b63d7db2bfeaca1dd27400aa0f76322e726b6e2e646f67",
+      "https_link": "https://t.me/proxy?server=v2.rkn.dog&port=443&secret=ee37f317b63d7db2bfeaca1dd27400aa0f76322e726b6e2e646f67",
+      "tg_link": "tg://proxy?server=v2.rkn.dog&port=443&secret=ee37f317b63d7db2bfeaca1dd27400aa0f76322e726b6e2e646f67"
+    },
     {
       "server": "redflag.yazaebalsyadelatproxy.cc",
       "port": "443",

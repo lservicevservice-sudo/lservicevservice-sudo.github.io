@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-25T11:57:30.882999+00:00",
+  "updated": "2026-08-25T13:01:56.991682+00:00",
   "count": 23,
   "proxies": [
+    {
+      "server": "ardesvpn1.ru",
+      "port": "8443",
+      "secret": "ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275",
+      "https_link": "https://t.me/proxy?server=ardesvpn1.ru&port=8443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275",
+      "tg_link": "tg://proxy?server=ardesvpn1.ru&port=8443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275"
+    },
     {
       "server": "sync.lovely.lat",
       "port": "443",
@@ -15,13 +22,6 @@
       "secret": "ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275",
       "https_link": "https://t.me/proxy?server=sync.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275",
       "tg_link": "tg://proxy?server=sync.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275"
-    },
-    {
-      "server": "ardesvpn1.ru",
-      "port": "8443",
-      "secret": "ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275",
-      "https_link": "https://t.me/proxy?server=ardesvpn1.ru&port=8443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275",
-      "tg_link": "tg://proxy?server=ardesvpn1.ru&port=8443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275"
     },
     {
       "server": "data.lovely.lat",

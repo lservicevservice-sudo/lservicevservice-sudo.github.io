@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-25T18:46:17.463232+00:00",
-  "count": 21,
+  "updated": "2026-08-25T19:32:51.381911+00:00",
+  "count": 20,
   "proxies": [
+    {
+      "server": "v2.rkn.dog",
+      "port": "443",
+      "secret": "ee37f317b63d7db2bfeaca1dd27400aa0f76322e726b6e2e646f67",
+      "https_link": "https://t.me/proxy?server=v2.rkn.dog&port=443&secret=ee37f317b63d7db2bfeaca1dd27400aa0f76322e726b6e2e646f67",
+      "tg_link": "tg://proxy?server=v2.rkn.dog&port=443&secret=ee37f317b63d7db2bfeaca1dd27400aa0f76322e726b6e2e646f67"
+    },
     {
       "server": "flow.lovely.lat",
       "port": "443",
@@ -36,13 +43,6 @@
       "secret": "ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275",
       "https_link": "https://t.me/proxy?server=bridge.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275",
       "tg_link": "tg://proxy?server=bridge.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275"
-    },
-    {
-      "server": "v2.rkn.dog",
-      "port": "443",
-      "secret": "ee37f317b63d7db2bfeaca1dd27400aa0f76322e726b6e2e646f67",
-      "https_link": "https://t.me/proxy?server=v2.rkn.dog&port=443&secret=ee37f317b63d7db2bfeaca1dd27400aa0f76322e726b6e2e646f67",
-      "tg_link": "tg://proxy?server=v2.rkn.dog&port=443&secret=ee37f317b63d7db2bfeaca1dd27400aa0f76322e726b6e2e646f67"
     },
     {
       "server": "redflag.yazaebalsyadelatproxy.cc",
@@ -141,13 +141,6 @@
       "secret": "ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275",
       "https_link": "https://t.me/proxy?server=img.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275",
       "tg_link": "tg://proxy?server=img.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275"
-    },
-    {
-      "server": "static.antenna-mzt.live",
-      "port": "443",
-      "secret": "ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d",
-      "https_link": "https://t.me/proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d",
-      "tg_link": "tg://proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d"
     }
   ]
 }

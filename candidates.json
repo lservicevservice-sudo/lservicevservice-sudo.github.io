@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-26T05:35:00.318972+00:00",
-  "count": 20,
+  "updated": "2026-08-26T06:51:53.061246+00:00",
+  "count": 21,
   "proxies": [
+    {
+      "server": "relay.lovely.lat",
+      "port": "443",
+      "secret": "ee499cbaa63a17e5071d5babf1ccba89f372656c61792e6c6f76656c792e6c6174",
+      "https_link": "https://t.me/proxy?server=relay.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f372656c61792e6c6f76656c792e6c6174",
+      "tg_link": "tg://proxy?server=relay.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f372656c61792e6c6f76656c792e6c6174"
+    },
+    {
+      "server": "relay.lovely.lat",
+      "port": "443",
+      "secret": "ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275",
+      "https_link": "https://t.me/proxy?server=relay.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275",
+      "tg_link": "tg://proxy?server=relay.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275"
+    },
     {
       "server": "ardesvpn1.ru",
       "port": "8443",
@@ -134,13 +148,6 @@
       "secret": "ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275",
       "https_link": "https://t.me/proxy?server=app.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275",
       "tg_link": "tg://proxy?server=app.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275"
-    },
-    {
-      "server": "v2.rkn.dog",
-      "port": "443",
-      "secret": "ee9928898871885b97d46cdc201de2e4bd76322e726b6e2e646f67",
-      "https_link": "https://t.me/proxy?server=v2.rkn.dog&port=443&secret=ee9928898871885b97d46cdc201de2e4bd76322e726b6e2e646f67",
-      "tg_link": "tg://proxy?server=v2.rkn.dog&port=443&secret=ee9928898871885b97d46cdc201de2e4bd76322e726b6e2e646f67"
     }
   ]
 }

@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-26T11:30:58.187429+00:00",
+  "updated": "2026-08-26T12:53:55.195861+00:00",
   "count": 21,
   "proxies": [
+    {
+      "server": "nexus.lovely.lat",
+      "port": "443",
+      "secret": "ee499cbaa63a17e5071d5babf1ccba89f36e657875732e6c6f76656c792e6c6174",
+      "https_link": "https://t.me/proxy?server=nexus.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36e657875732e6c6f76656c792e6c6174",
+      "tg_link": "tg://proxy?server=nexus.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36e657875732e6c6f76656c792e6c6174"
+    },
+    {
+      "server": "nexus.lovely.lat",
+      "port": "443",
+      "secret": "ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275",
+      "https_link": "https://t.me/proxy?server=nexus.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275",
+      "tg_link": "tg://proxy?server=nexus.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275"
+    },
     {
       "server": "ardesvpn1.ru",
       "port": "8443",
@@ -134,20 +148,6 @@
       "secret": "ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275",
       "https_link": "https://t.me/proxy?server=sync.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275",
       "tg_link": "tg://proxy?server=sync.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275"
-    },
-    {
-      "server": "data.lovely.lat",
-      "port": "443",
-      "secret": "ee499cbaa63a17e5071d5babf1ccba89f3646174612e6c6f76656c792e6c6174",
-      "https_link": "https://t.me/proxy?server=data.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f3646174612e6c6f76656c792e6c6174",
-      "tg_link": "tg://proxy?server=data.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f3646174612e6c6f76656c792e6c6174"
-    },
-    {
-      "server": "data.lovely.lat",
-      "port": "443",
-      "secret": "ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275",
-      "https_link": "https://t.me/proxy?server=data.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275",
-      "tg_link": "tg://proxy?server=data.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275"
     }
   ]
 }

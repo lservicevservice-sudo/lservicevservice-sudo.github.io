@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-26T09:42:24.946808+00:00",
-  "count": 19,
+  "updated": "2026-08-26T10:35:55.043411+00:00",
+  "count": 21,
   "proxies": [
+    {
+      "server": "vault.lovely.lat",
+      "port": "443",
+      "secret": "ee499cbaa63a17e5071d5babf1ccba89f37661756c742e6c6f76656c792e6c6174",
+      "https_link": "https://t.me/proxy?server=vault.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f37661756c742e6c6f76656c792e6c6174",
+      "tg_link": "tg://proxy?server=vault.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f37661756c742e6c6f76656c792e6c6174"
+    },
+    {
+      "server": "vault.lovely.lat",
+      "port": "443",
+      "secret": "ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275",
+      "https_link": "https://t.me/proxy?server=vault.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275",
+      "tg_link": "tg://proxy?server=vault.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275"
+    },
     {
       "server": "ardesvpn1.ru",
       "port": "8443",

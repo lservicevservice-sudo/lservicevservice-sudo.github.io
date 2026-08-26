@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-26T03:54:29.685251+00:00",
-  "count": 20,
+  "updated": "2026-08-26T04:41:05.141556+00:00",
+  "count": 22,
   "proxies": [
+    {
+      "server": "mesh.lovely.lat",
+      "port": "443",
+      "secret": "ee499cbaa63a17e5071d5babf1ccba89f36d6573682e6c6f76656c792e6c6174",
+      "https_link": "https://t.me/proxy?server=mesh.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d6573682e6c6f76656c792e6c6174",
+      "tg_link": "tg://proxy?server=mesh.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d6573682e6c6f76656c792e6c6174"
+    },
+    {
+      "server": "mesh.lovely.lat",
+      "port": "443",
+      "secret": "ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275",
+      "https_link": "https://t.me/proxy?server=mesh.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275",
+      "tg_link": "tg://proxy?server=mesh.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275"
+    },
     {
       "server": "max.kimt.click",
       "port": "443",

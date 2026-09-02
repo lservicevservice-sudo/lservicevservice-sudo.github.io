@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-02T20:00:13.113201+00:00",
+  "updated": "2026-09-02T22:46:00.192875+00:00",
   "count": 40,
   "proxies": [
+    {
+      "server": "comet.mtproxy.cc",
+      "port": "443",
+      "secret": "ee499cbaa63a17e5071d5babf1ccba89f3636f6d65742e6d7470726f78792e6363",
+      "https_link": "https://t.me/proxy?server=comet.mtproxy.cc&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f3636f6d65742e6d7470726f78792e6363",
+      "tg_link": "tg://proxy?server=comet.mtproxy.cc&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f3636f6d65742e6d7470726f78792e6363"
+    },
+    {
+      "server": "comet.mtproxy.cc",
+      "port": "443",
+      "secret": "ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275",
+      "https_link": "https://t.me/proxy?server=comet.mtproxy.cc&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275",
+      "tg_link": "tg://proxy?server=comet.mtproxy.cc&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275"
+    },
     {
       "server": "a13.lovely.lat",
       "port": "443",
@@ -267,20 +281,6 @@
       "secret": "ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275",
       "https_link": "https://t.me/proxy?server=burst.mtproxy.cc&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275",
       "tg_link": "tg://proxy?server=burst.mtproxy.cc&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275"
-    },
-    {
-      "server": "a09.lovely.lat",
-      "port": "443",
-      "secret": "ee9c7a6d939ff74a71b54cb7bdea60fd6a6130392e6c6f76656c792e6c6174",
-      "https_link": "https://t.me/proxy?server=a09.lovely.lat&port=443&secret=ee9c7a6d939ff74a71b54cb7bdea60fd6a6130392e6c6f76656c792e6c6174",
-      "tg_link": "tg://proxy?server=a09.lovely.lat&port=443&secret=ee9c7a6d939ff74a71b54cb7bdea60fd6a6130392e6c6f76656c792e6c6174"
-    },
-    {
-      "server": "a09.lovely.lat",
-      "port": "443",
-      "secret": "ee9c7a6d939ff74a71b54cb7bdea60fd6a6d2e6265626f6f2e7275",
-      "https_link": "https://t.me/proxy?server=a09.lovely.lat&port=443&secret=ee9c7a6d939ff74a71b54cb7bdea60fd6a6d2e6265626f6f2e7275",
-      "tg_link": "tg://proxy?server=a09.lovely.lat&port=443&secret=ee9c7a6d939ff74a71b54cb7bdea60fd6a6d2e6265626f6f2e7275"
     }
   ]
 }

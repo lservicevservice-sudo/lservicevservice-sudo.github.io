@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-03T00:59:09.880340+00:00",
+  "updated": "2026-09-03T05:39:43.384391+00:00",
   "count": 40,
   "proxies": [
+    {
+      "server": "a04.mtjlpoto.fit",
+      "port": "443",
+      "secret": "ee9c7a6d939ff74a71b54cb7bdea60fd6a6130342e6d746a6c706f746f2e666974",
+      "https_link": "https://t.me/proxy?server=a04.mtjlpoto.fit&port=443&secret=ee9c7a6d939ff74a71b54cb7bdea60fd6a6130342e6d746a6c706f746f2e666974",
+      "tg_link": "tg://proxy?server=a04.mtjlpoto.fit&port=443&secret=ee9c7a6d939ff74a71b54cb7bdea60fd6a6130342e6d746a6c706f746f2e666974"
+    },
+    {
+      "server": "a04.mtjlpoto.fit",
+      "port": "443",
+      "secret": "ee9c7a6d939ff74a71b54cb7bdea60fd6a6d2e6265626f6f2e7275",
+      "https_link": "https://t.me/proxy?server=a04.mtjlpoto.fit&port=443&secret=ee9c7a6d939ff74a71b54cb7bdea60fd6a6d2e6265626f6f2e7275",
+      "tg_link": "tg://proxy?server=a04.mtjlpoto.fit&port=443&secret=ee9c7a6d939ff74a71b54cb7bdea60fd6a6d2e6265626f6f2e7275"
+    },
+    {
+      "server": "a32.lovely.lat",
+      "port": "443",
+      "secret": "ee499cbaa63a17e5071d5babf1ccba89f36133322e6c6f76656c792e6c6174",
+      "https_link": "https://t.me/proxy?server=a32.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36133322e6c6f76656c792e6c6174",
+      "tg_link": "tg://proxy?server=a32.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36133322e6c6f76656c792e6c6174"
+    },
+    {
+      "server": "a32.lovely.lat",
+      "port": "443",
+      "secret": "ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275",
+      "https_link": "https://t.me/proxy?server=a32.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275",
+      "tg_link": "tg://proxy?server=a32.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275"
+    },
     {
       "server": "comet.mtproxy.cc",
       "port": "443",
@@ -253,34 +281,6 @@
       "secret": "ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275",
       "https_link": "https://t.me/proxy?server=cache.mtproxy.cc&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275",
       "tg_link": "tg://proxy?server=cache.mtproxy.cc&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275"
-    },
-    {
-      "server": "a08.lovely.lat",
-      "port": "443",
-      "secret": "ee9c7a6d939ff74a71b54cb7bdea60fd6a6130382e6c6f76656c792e6c6174",
-      "https_link": "https://t.me/proxy?server=a08.lovely.lat&port=443&secret=ee9c7a6d939ff74a71b54cb7bdea60fd6a6130382e6c6f76656c792e6c6174",
-      "tg_link": "tg://proxy?server=a08.lovely.lat&port=443&secret=ee9c7a6d939ff74a71b54cb7bdea60fd6a6130382e6c6f76656c792e6c6174"
-    },
-    {
-      "server": "a08.lovely.lat",
-      "port": "443",
-      "secret": "ee9c7a6d939ff74a71b54cb7bdea60fd6a6d2e6265626f6f2e7275",
-      "https_link": "https://t.me/proxy?server=a08.lovely.lat&port=443&secret=ee9c7a6d939ff74a71b54cb7bdea60fd6a6d2e6265626f6f2e7275",
-      "tg_link": "tg://proxy?server=a08.lovely.lat&port=443&secret=ee9c7a6d939ff74a71b54cb7bdea60fd6a6d2e6265626f6f2e7275"
-    },
-    {
-      "server": "burst.mtproxy.cc",
-      "port": "443",
-      "secret": "ee499cbaa63a17e5071d5babf1ccba89f362757273742e6d7470726f78792e6363",
-      "https_link": "https://t.me/proxy?server=burst.mtproxy.cc&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f362757273742e6d7470726f78792e6363",
-      "tg_link": "tg://proxy?server=burst.mtproxy.cc&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f362757273742e6d7470726f78792e6363"
-    },
-    {
-      "server": "burst.mtproxy.cc",
-      "port": "443",
-      "secret": "ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275",
-      "https_link": "https://t.me/proxy?server=burst.mtproxy.cc&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275",
-      "tg_link": "tg://proxy?server=burst.mtproxy.cc&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275"
     }
   ]
 }

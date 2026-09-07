@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-07T00:52:07.502843+00:00",
+  "updated": "2026-09-07T05:46:13.628387+00:00",
   "count": 20,
   "proxies": [
+    {
+      "server": "vap.baboon.digital",
+      "port": "443",
+      "secret": "eea9281f1ec6c02d48b9bf29d7d907d0b06175746f73636f757432342e7275",
+      "https_link": "https://t.me/proxy?server=vap.baboon.digital&port=443&secret=eea9281f1ec6c02d48b9bf29d7d907d0b06175746f73636f757432342e7275",
+      "tg_link": "tg://proxy?server=vap.baboon.digital&port=443&secret=eea9281f1ec6c02d48b9bf29d7d907d0b06175746f73636f757432342e7275"
+    },
+    {
+      "server": "reborn.rebirthconnect.com",
+      "port": "443",
+      "secret": "eeabb5c5430f2510e43863f9b6284f97b37265626f726e2e72656269727468636f6e6e6563742e636f6d",
+      "https_link": "https://t.me/proxy?server=reborn.rebirthconnect.com&port=443&secret=eeabb5c5430f2510e43863f9b6284f97b37265626f726e2e72656269727468636f6e6e6563742e636f6d",
+      "tg_link": "tg://proxy?server=reborn.rebirthconnect.com&port=443&secret=eeabb5c5430f2510e43863f9b6284f97b37265626f726e2e72656269727468636f6e6e6563742e636f6d"
+    },
     {
       "server": "redflag.yazaebalsyadelatproxy.cc",
       "port": "443",
@@ -127,20 +141,6 @@
       "secret": "eefc46559bb8e5924447dcbe37c91fcf956f70656e2e73706f746966792e636f6d",
       "https_link": "https://t.me/proxy?server=bluemelonko.space&port=61443&secret=eefc46559bb8e5924447dcbe37c91fcf956f70656e2e73706f746966792e636f6d",
       "tg_link": "tg://proxy?server=bluemelonko.space&port=61443&secret=eefc46559bb8e5924447dcbe37c91fcf956f70656e2e73706f746966792e636f6d"
-    },
-    {
-      "server": "a38.lovely.lat",
-      "port": "443",
-      "secret": "ee499cbaa63a17e5071d5babf1ccba89f36133382e6c6f76656c792e6c6174",
-      "https_link": "https://t.me/proxy?server=a38.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36133382e6c6f76656c792e6c6174",
-      "tg_link": "tg://proxy?server=a38.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36133382e6c6f76656c792e6c6174"
-    },
-    {
-      "server": "a38.lovely.lat",
-      "port": "443",
-      "secret": "ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275",
-      "https_link": "https://t.me/proxy?server=a38.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275",
-      "tg_link": "tg://proxy?server=a38.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275"
     }
   ]
 }

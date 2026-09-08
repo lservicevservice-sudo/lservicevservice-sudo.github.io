@@ -1,7 +1,42 @@
 {
-  "updated": "2026-09-08T06:19:47.223650+00:00",
-  "count": 13,
+  "updated": "2026-09-08T11:36:12.983310+00:00",
+  "count": 14,
   "proxies": [
+    {
+      "server": "ardesvpn1.ru",
+      "port": "8443",
+      "secret": "ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275",
+      "https_link": "https://t.me/proxy?server=ardesvpn1.ru&port=8443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275",
+      "tg_link": "tg://proxy?server=ardesvpn1.ru&port=8443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275"
+    },
+    {
+      "server": "reborn.rebirthconnect.com",
+      "port": "443",
+      "secret": "eeabb5c5430f2510e43863f9b6284f97b37265626f726e2e72656269727468636f6e6e6563742e636f6d",
+      "https_link": "https://t.me/proxy?server=reborn.rebirthconnect.com&port=443&secret=eeabb5c5430f2510e43863f9b6284f97b37265626f726e2e72656269727468636f6e6e6563742e636f6d",
+      "tg_link": "tg://proxy?server=reborn.rebirthconnect.com&port=443&secret=eeabb5c5430f2510e43863f9b6284f97b37265626f726e2e72656269727468636f6e6e6563742e636f6d"
+    },
+    {
+      "server": "212.193.4.172",
+      "port": "8443",
+      "secret": "ee828134980862470425195728452306343231322e3139332e342e313732",
+      "https_link": "https://t.me/proxy?server=212.193.4.172&port=8443&secret=ee828134980862470425195728452306343231322e3139332e342e313732",
+      "tg_link": "tg://proxy?server=212.193.4.172&port=8443&secret=ee828134980862470425195728452306343231322e3139332e342e313732"
+    },
+    {
+      "server": "redflag.yazaebalsyadelatproxy.cc",
+      "port": "443",
+      "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
+      "https_link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
+      "tg_link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
+    },
+    {
+      "server": "cache.lovely.lat",
+      "port": "443",
+      "secret": "ee499cbaa63a17e5071d5babf1ccba89f363616368652e6c6f76656c792e6c6174",
+      "https_link": "https://t.me/proxy?server=cache.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f363616368652e6c6f76656c792e6c6174",
+      "tg_link": "tg://proxy?server=cache.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f363616368652e6c6f76656c792e6c6174"
+    },
     {
       "server": "static.antenna-mzt.live",
       "port": "443",
@@ -24,25 +59,11 @@
       "tg_link": "tg://proxy?server=smile.its-work.ru&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d"
     },
     {
-      "server": "redflag.yazaebalsyadelatproxy.cc",
-      "port": "443",
-      "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
-      "https_link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
-      "tg_link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
-    },
-    {
       "server": "mtp1.v6n.tech",
       "port": "443",
       "secret": "ee4422fc75a1450948993d2fcbacffe5407777772e626f6f6b696e672e636f6d",
       "https_link": "https://t.me/proxy?server=mtp1.v6n.tech&port=443&secret=ee4422fc75a1450948993d2fcbacffe5407777772e626f6f6b696e672e636f6d",
       "tg_link": "tg://proxy?server=mtp1.v6n.tech&port=443&secret=ee4422fc75a1450948993d2fcbacffe5407777772e626f6f6b696e672e636f6d"
-    },
-    {
-      "server": "reborn.rebirthconnect.com",
-      "port": "443",
-      "secret": "eeabb5c5430f2510e43863f9b6284f97b37265626f726e2e72656269727468636f6e6e6563742e636f6d",
-      "https_link": "https://t.me/proxy?server=reborn.rebirthconnect.com&port=443&secret=eeabb5c5430f2510e43863f9b6284f97b37265626f726e2e72656269727468636f6e6e6563742e636f6d",
-      "tg_link": "tg://proxy?server=reborn.rebirthconnect.com&port=443&secret=eeabb5c5430f2510e43863f9b6284f97b37265626f726e2e72656269727468636f6e6e6563742e636f6d"
     },
     {
       "server": "surfing.suslik-cloud.homes",
@@ -66,13 +87,6 @@
       "tg_link": "tg://proxy?server=shared1.ddproxy.xyz&port=443&secret=eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275"
     },
     {
-      "server": "ardesvpn1.ru",
-      "port": "8443",
-      "secret": "ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275",
-      "https_link": "https://t.me/proxy?server=ardesvpn1.ru&port=8443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275",
-      "tg_link": "tg://proxy?server=ardesvpn1.ru&port=8443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275"
-    },
-    {
       "server": "2.56.121.104",
       "port": "61443",
       "secret": "eefc46559bb8e5924447dcbe37c91fcf956f70656e2e73706f746966792e636f6d",
@@ -85,13 +99,6 @@
       "secret": "ee311f944e6f241ea02a855087ac79e4d4786c6e742e6f7668",
       "https_link": "https://t.me/proxy?server=bmwx5.scarletmc.ru&port=443&secret=ee311f944e6f241ea02a855087ac79e4d4786c6e742e6f7668",
       "tg_link": "tg://proxy?server=bmwx5.scarletmc.ru&port=443&secret=ee311f944e6f241ea02a855087ac79e4d4786c6e742e6f7668"
-    },
-    {
-      "server": "vap.baboon.digital",
-      "port": "443",
-      "secret": "eea9281f1ec6c02d48b9bf29d7d907d0b06175746f73636f757432342e7275",
-      "https_link": "https://t.me/proxy?server=vap.baboon.digital&port=443&secret=eea9281f1ec6c02d48b9bf29d7d907d0b06175746f73636f757432342e7275",
-      "tg_link": "tg://proxy?server=vap.baboon.digital&port=443&secret=eea9281f1ec6c02d48b9bf29d7d907d0b06175746f73636f757432342e7275"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-09T00:27:41.448659+00:00",
+  "updated": "2026-09-09T05:03:44.475164+00:00",
   "count": 13,
   "proxies": [
+    {
+      "server": "mtp.vp807r.top",
+      "port": "443",
+      "secret": "ee6409c17df132b08866b007c9a21e749473332e616d617a6f6e6177732e636f6d",
+      "https_link": "https://t.me/proxy?server=mtp.vp807r.top&port=443&secret=ee6409c17df132b08866b007c9a21e749473332e616d617a6f6e6177732e636f6d",
+      "tg_link": "tg://proxy?server=mtp.vp807r.top&port=443&secret=ee6409c17df132b08866b007c9a21e749473332e616d617a6f6e6177732e636f6d"
+    },
     {
       "server": "redflag.yazaebalsyadelatproxy.cc",
       "port": "443",
@@ -85,13 +92,6 @@
       "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
       "https_link": "https://t.me/proxy?server=smile.its-work.ru&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
       "tg_link": "tg://proxy?server=smile.its-work.ru&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d"
-    },
-    {
-      "server": "mtp1.v6n.tech",
-      "port": "443",
-      "secret": "ee4422fc75a1450948993d2fcbacffe5407777772e626f6f6b696e672e636f6d",
-      "https_link": "https://t.me/proxy?server=mtp1.v6n.tech&port=443&secret=ee4422fc75a1450948993d2fcbacffe5407777772e626f6f6b696e672e636f6d",
-      "tg_link": "tg://proxy?server=mtp1.v6n.tech&port=443&secret=ee4422fc75a1450948993d2fcbacffe5407777772e626f6f6b696e672e636f6d"
     }
   ]
 }

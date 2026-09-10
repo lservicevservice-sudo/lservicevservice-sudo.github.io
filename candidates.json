@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-10T01:20:39.002003+00:00",
-  "count": 14,
+  "updated": "2026-09-10T06:25:21.977764+00:00",
+  "count": 17,
   "proxies": [
+    {
+      "server": "static.antenna-mzt.live",
+      "port": "443",
+      "secret": "ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d",
+      "https_link": "https://t.me/proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d",
+      "tg_link": "tg://proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d"
+    },
+    {
+      "server": "lumetra.mtproxy.zip",
+      "port": "443",
+      "secret": "ee9af09f8b8dcfe282445cf1bc91854acb786170692e6f7a6f6e2e7275",
+      "https_link": "https://t.me/proxy?server=lumetra.mtproxy.zip&port=443&secret=ee9af09f8b8dcfe282445cf1bc91854acb786170692e6f7a6f6e2e7275",
+      "tg_link": "tg://proxy?server=lumetra.mtproxy.zip&port=443&secret=ee9af09f8b8dcfe282445cf1bc91854acb786170692e6f7a6f6e2e7275"
+    },
+    {
+      "server": "lumetra.mtproxy.zip",
+      "port": "443",
+      "secret": "dd9af09f8b8dcfe282445cf1bc91854acb",
+      "https_link": "https://t.me/proxy?server=lumetra.mtproxy.zip&port=443&secret=dd9af09f8b8dcfe282445cf1bc91854acb",
+      "tg_link": "tg://proxy?server=lumetra.mtproxy.zip&port=443&secret=dd9af09f8b8dcfe282445cf1bc91854acb"
+    },
     {
       "server": "redflag.yazaebalsyadelatproxy.cc",
       "port": "443",

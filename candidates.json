@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-10T19:04:48.543686+00:00",
+  "updated": "2026-09-10T21:45:37.593952+00:00",
   "count": 11,
   "proxies": [
+    {
+      "server": "redflag.yazaebalsyadelatproxy.cc",
+      "port": "443",
+      "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
+      "https_link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
+      "tg_link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
+    },
+    {
+      "server": "aurevia.jlpokcu.cloud",
+      "port": "443",
+      "secret": "eee36ee54353e0e4c0dced9be91cd9cb9b786170692e6f7a6f6e2e7275",
+      "https_link": "https://t.me/proxy?server=aurevia.jlpokcu.cloud&port=443&secret=eee36ee54353e0e4c0dced9be91cd9cb9b786170692e6f7a6f6e2e7275",
+      "tg_link": "tg://proxy?server=aurevia.jlpokcu.cloud&port=443&secret=eee36ee54353e0e4c0dced9be91cd9cb9b786170692e6f7a6f6e2e7275"
+    },
+    {
+      "server": "aurevia.jlpokcu.cloud",
+      "port": "443",
+      "secret": "dde36ee54353e0e4c0dced9be91cd9cb9b",
+      "https_link": "https://t.me/proxy?server=aurevia.jlpokcu.cloud&port=443&secret=dde36ee54353e0e4c0dced9be91cd9cb9b",
+      "tg_link": "tg://proxy?server=aurevia.jlpokcu.cloud&port=443&secret=dde36ee54353e0e4c0dced9be91cd9cb9b"
+    },
     {
       "server": "max.kimt.click",
       "port": "443",
@@ -36,27 +57,6 @@
       "secret": "ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d",
       "https_link": "https://t.me/proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d",
       "tg_link": "tg://proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d"
-    },
-    {
-      "server": "redflag.yazaebalsyadelatproxy.cc",
-      "port": "443",
-      "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
-      "https_link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
-      "tg_link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
-    },
-    {
-      "server": "aurevia.jlpokcu.cloud",
-      "port": "443",
-      "secret": "eee36ee54353e0e4c0dced9be91cd9cb9b786170692e6f7a6f6e2e7275",
-      "https_link": "https://t.me/proxy?server=aurevia.jlpokcu.cloud&port=443&secret=eee36ee54353e0e4c0dced9be91cd9cb9b786170692e6f7a6f6e2e7275",
-      "tg_link": "tg://proxy?server=aurevia.jlpokcu.cloud&port=443&secret=eee36ee54353e0e4c0dced9be91cd9cb9b786170692e6f7a6f6e2e7275"
-    },
-    {
-      "server": "aurevia.jlpokcu.cloud",
-      "port": "443",
-      "secret": "dde36ee54353e0e4c0dced9be91cd9cb9b",
-      "https_link": "https://t.me/proxy?server=aurevia.jlpokcu.cloud&port=443&secret=dde36ee54353e0e4c0dced9be91cd9cb9b",
-      "tg_link": "tg://proxy?server=aurevia.jlpokcu.cloud&port=443&secret=dde36ee54353e0e4c0dced9be91cd9cb9b"
     },
     {
       "server": "tea.hotstbvs.ru",

@@ -1,41 +1,20 @@
 {
-  "updated": "2026-09-10T06:25:21.977764+00:00",
-  "count": 17,
+  "updated": "2026-09-10T11:41:35.172618+00:00",
+  "count": 15,
   "proxies": [
     {
-      "server": "static.antenna-mzt.live",
+      "server": "aurevia.jlpokcu.cloud",
       "port": "443",
-      "secret": "ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d",
-      "https_link": "https://t.me/proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d",
-      "tg_link": "tg://proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d"
+      "secret": "eee36ee54353e0e4c0dced9be91cd9cb9b786170692e6f7a6f6e2e7275",
+      "https_link": "https://t.me/proxy?server=aurevia.jlpokcu.cloud&port=443&secret=eee36ee54353e0e4c0dced9be91cd9cb9b786170692e6f7a6f6e2e7275",
+      "tg_link": "tg://proxy?server=aurevia.jlpokcu.cloud&port=443&secret=eee36ee54353e0e4c0dced9be91cd9cb9b786170692e6f7a6f6e2e7275"
     },
     {
-      "server": "lumetra.mtproxy.zip",
+      "server": "aurevia.jlpokcu.cloud",
       "port": "443",
-      "secret": "ee9af09f8b8dcfe282445cf1bc91854acb786170692e6f7a6f6e2e7275",
-      "https_link": "https://t.me/proxy?server=lumetra.mtproxy.zip&port=443&secret=ee9af09f8b8dcfe282445cf1bc91854acb786170692e6f7a6f6e2e7275",
-      "tg_link": "tg://proxy?server=lumetra.mtproxy.zip&port=443&secret=ee9af09f8b8dcfe282445cf1bc91854acb786170692e6f7a6f6e2e7275"
-    },
-    {
-      "server": "lumetra.mtproxy.zip",
-      "port": "443",
-      "secret": "dd9af09f8b8dcfe282445cf1bc91854acb",
-      "https_link": "https://t.me/proxy?server=lumetra.mtproxy.zip&port=443&secret=dd9af09f8b8dcfe282445cf1bc91854acb",
-      "tg_link": "tg://proxy?server=lumetra.mtproxy.zip&port=443&secret=dd9af09f8b8dcfe282445cf1bc91854acb"
-    },
-    {
-      "server": "redflag.yazaebalsyadelatproxy.cc",
-      "port": "443",
-      "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
-      "https_link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
-      "tg_link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
-    },
-    {
-      "server": "87.120.84.188",
-      "port": "443",
-      "secret": "eea534b0f53469abe18bac71a060f32d8970726f78792e6465616c2d6d61726b65742e78797a",
-      "https_link": "https://t.me/proxy?server=87.120.84.188&port=443&secret=eea534b0f53469abe18bac71a060f32d8970726f78792e6465616c2d6d61726b65742e78797a",
-      "tg_link": "tg://proxy?server=87.120.84.188&port=443&secret=eea534b0f53469abe18bac71a060f32d8970726f78792e6465616c2d6d61726b65742e78797a"
+      "secret": "dde36ee54353e0e4c0dced9be91cd9cb9b",
+      "https_link": "https://t.me/proxy?server=aurevia.jlpokcu.cloud&port=443&secret=dde36ee54353e0e4c0dced9be91cd9cb9b",
+      "tg_link": "tg://proxy?server=aurevia.jlpokcu.cloud&port=443&secret=dde36ee54353e0e4c0dced9be91cd9cb9b"
     },
     {
       "server": "reborn.rebirthconnect.com",
@@ -57,6 +36,41 @@
       "secret": "ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b",
       "https_link": "https://t.me/proxy?server=as.mkim.click&port=443&secret=ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b",
       "tg_link": "tg://proxy?server=as.mkim.click&port=443&secret=ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b"
+    },
+    {
+      "server": "redflag.yazaebalsyadelatproxy.cc",
+      "port": "443",
+      "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
+      "https_link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
+      "tg_link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
+    },
+    {
+      "server": "lumetra.mtproxy.zip",
+      "port": "443",
+      "secret": "ee9af09f8b8dcfe282445cf1bc91854acb786170692e6f7a6f6e2e7275",
+      "https_link": "https://t.me/proxy?server=lumetra.mtproxy.zip&port=443&secret=ee9af09f8b8dcfe282445cf1bc91854acb786170692e6f7a6f6e2e7275",
+      "tg_link": "tg://proxy?server=lumetra.mtproxy.zip&port=443&secret=ee9af09f8b8dcfe282445cf1bc91854acb786170692e6f7a6f6e2e7275"
+    },
+    {
+      "server": "lumetra.mtproxy.zip",
+      "port": "443",
+      "secret": "dd9af09f8b8dcfe282445cf1bc91854acb",
+      "https_link": "https://t.me/proxy?server=lumetra.mtproxy.zip&port=443&secret=dd9af09f8b8dcfe282445cf1bc91854acb",
+      "tg_link": "tg://proxy?server=lumetra.mtproxy.zip&port=443&secret=dd9af09f8b8dcfe282445cf1bc91854acb"
+    },
+    {
+      "server": "static.antenna-mzt.live",
+      "port": "443",
+      "secret": "ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d",
+      "https_link": "https://t.me/proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d",
+      "tg_link": "tg://proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d"
+    },
+    {
+      "server": "87.120.84.188",
+      "port": "443",
+      "secret": "eea534b0f53469abe18bac71a060f32d8970726f78792e6465616c2d6d61726b65742e78797a",
+      "https_link": "https://t.me/proxy?server=87.120.84.188&port=443&secret=eea534b0f53469abe18bac71a060f32d8970726f78792e6465616c2d6d61726b65742e78797a",
+      "tg_link": "tg://proxy?server=87.120.84.188&port=443&secret=eea534b0f53469abe18bac71a060f32d8970726f78792e6465616c2d6d61726b65742e78797a"
     },
     {
       "server": "surfing.suslik-cloud.homes",
@@ -92,34 +106,6 @@
       "secret": "eeef7017f26c9ecb71ed8d76099929431863646e2e6d746a6c706f746f2e666974",
       "https_link": "https://t.me/proxy?server=cdn.mtjlpoto.fit&port=443&secret=eeef7017f26c9ecb71ed8d76099929431863646e2e6d746a6c706f746f2e666974",
       "tg_link": "tg://proxy?server=cdn.mtjlpoto.fit&port=443&secret=eeef7017f26c9ecb71ed8d76099929431863646e2e6d746a6c706f746f2e666974"
-    },
-    {
-      "server": "lumen.vprime.cc",
-      "port": "443",
-      "secret": "eebe768f80ce11fe2b95def458d2effa056c756d656e2e767072696d652e6363",
-      "https_link": "https://t.me/proxy?server=lumen.vprime.cc&port=443&secret=eebe768f80ce11fe2b95def458d2effa056c756d656e2e767072696d652e6363",
-      "tg_link": "tg://proxy?server=lumen.vprime.cc&port=443&secret=eebe768f80ce11fe2b95def458d2effa056c756d656e2e767072696d652e6363"
-    },
-    {
-      "server": "core.mtjlpoto.fit",
-      "port": "443",
-      "secret": "eeef7017f26c9ecb71ed8d760999294318636f72652e6d746a6c706f746f2e666974",
-      "https_link": "https://t.me/proxy?server=core.mtjlpoto.fit&port=443&secret=eeef7017f26c9ecb71ed8d760999294318636f72652e6d746a6c706f746f2e666974",
-      "tg_link": "tg://proxy?server=core.mtjlpoto.fit&port=443&secret=eeef7017f26c9ecb71ed8d760999294318636f72652e6d746a6c706f746f2e666974"
-    },
-    {
-      "server": "web3.gktmfrv.sbs",
-      "port": "443",
-      "secret": "eebd8d8c4b9fd7a83f320e216925b881656364656b2e7275",
-      "https_link": "https://t.me/proxy?server=web3.gktmfrv.sbs&port=443&secret=eebd8d8c4b9fd7a83f320e216925b881656364656b2e7275",
-      "tg_link": "tg://proxy?server=web3.gktmfrv.sbs&port=443&secret=eebd8d8c4b9fd7a83f320e216925b881656364656b2e7275"
-    },
-    {
-      "server": "mtp.vp807r.top",
-      "port": "443",
-      "secret": "ee6409c17df132b08866b007c9a21e749473332e616d617a6f6e6177732e636f6d",
-      "https_link": "https://t.me/proxy?server=mtp.vp807r.top&port=443&secret=ee6409c17df132b08866b007c9a21e749473332e616d617a6f6e6177732e636f6d",
-      "tg_link": "tg://proxy?server=mtp.vp807r.top&port=443&secret=ee6409c17df132b08866b007c9a21e749473332e616d617a6f6e6177732e636f6d"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-11T08:41:35.048892+00:00",
-  "count": 10,
+  "updated": "2026-09-11T13:20:21.683554+00:00",
+  "count": 12,
   "proxies": [
     {
       "server": "redflag.yazaebalsyadelatproxy.cc",
@@ -22,6 +22,20 @@
       "secret": "dd9af09f8b8dcfe282445cf1bc91854acb",
       "https_link": "https://t.me/proxy?server=lumetra.mtproxy.zip&port=443&secret=dd9af09f8b8dcfe282445cf1bc91854acb",
       "tg_link": "tg://proxy?server=lumetra.mtproxy.zip&port=443&secret=dd9af09f8b8dcfe282445cf1bc91854acb"
+    },
+    {
+      "server": "veloria.mtproxy.pw",
+      "port": "443",
+      "secret": "ee717470c7921cb093237d4dd8fd4f8ac9786170692e6f7a6f6e2e7275",
+      "https_link": "https://t.me/proxy?server=veloria.mtproxy.pw&port=443&secret=ee717470c7921cb093237d4dd8fd4f8ac9786170692e6f7a6f6e2e7275",
+      "tg_link": "tg://proxy?server=veloria.mtproxy.pw&port=443&secret=ee717470c7921cb093237d4dd8fd4f8ac9786170692e6f7a6f6e2e7275"
+    },
+    {
+      "server": "veloria.mtproxy.pw",
+      "port": "443",
+      "secret": "dd717470c7921cb093237d4dd8fd4f8ac9",
+      "https_link": "https://t.me/proxy?server=veloria.mtproxy.pw&port=443&secret=dd717470c7921cb093237d4dd8fd4f8ac9",
+      "tg_link": "tg://proxy?server=veloria.mtproxy.pw&port=443&secret=dd717470c7921cb093237d4dd8fd4f8ac9"
     },
     {
       "server": "aurevia.jlpokcu.cloud",

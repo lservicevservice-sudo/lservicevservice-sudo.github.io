@@ -1,28 +1,7 @@
 {
-  "updated": "2026-09-12T16:25:54.836403+00:00",
+  "updated": "2026-09-12T18:36:20.153987+00:00",
   "count": 8,
   "proxies": [
-    {
-      "server": "aurevia.jlpokcu.cloud",
-      "port": "443",
-      "secret": "eee36ee54353e0e4c0dced9be91cd9cb9b786170692e6f7a6f6e2e7275",
-      "https_link": "https://t.me/proxy?server=aurevia.jlpokcu.cloud&port=443&secret=eee36ee54353e0e4c0dced9be91cd9cb9b786170692e6f7a6f6e2e7275",
-      "tg_link": "tg://proxy?server=aurevia.jlpokcu.cloud&port=443&secret=eee36ee54353e0e4c0dced9be91cd9cb9b786170692e6f7a6f6e2e7275"
-    },
-    {
-      "server": "aurevia.jlpokcu.cloud",
-      "port": "443",
-      "secret": "dde36ee54353e0e4c0dced9be91cd9cb9b",
-      "https_link": "https://t.me/proxy?server=aurevia.jlpokcu.cloud&port=443&secret=dde36ee54353e0e4c0dced9be91cd9cb9b",
-      "tg_link": "tg://proxy?server=aurevia.jlpokcu.cloud&port=443&secret=dde36ee54353e0e4c0dced9be91cd9cb9b"
-    },
-    {
-      "server": "redflag.yazaebalsyadelatproxy.cc",
-      "port": "443",
-      "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
-      "https_link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
-      "tg_link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
-    },
     {
       "server": "lumetra.mtproxy.zip",
       "port": "443",
@@ -38,6 +17,34 @@
       "tg_link": "tg://proxy?server=lumetra.mtproxy.zip&port=443&secret=dd9af09f8b8dcfe282445cf1bc91854acb"
     },
     {
+      "server": "redflag.yazaebalsyadelatproxy.cc",
+      "port": "443",
+      "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
+      "https_link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
+      "tg_link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
+    },
+    {
+      "server": "static.antenna-mzt.live",
+      "port": "443",
+      "secret": "ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d",
+      "https_link": "https://t.me/proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d",
+      "tg_link": "tg://proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d"
+    },
+    {
+      "server": "aurevia.jlpokcu.cloud",
+      "port": "443",
+      "secret": "eee36ee54353e0e4c0dced9be91cd9cb9b786170692e6f7a6f6e2e7275",
+      "https_link": "https://t.me/proxy?server=aurevia.jlpokcu.cloud&port=443&secret=eee36ee54353e0e4c0dced9be91cd9cb9b786170692e6f7a6f6e2e7275",
+      "tg_link": "tg://proxy?server=aurevia.jlpokcu.cloud&port=443&secret=eee36ee54353e0e4c0dced9be91cd9cb9b786170692e6f7a6f6e2e7275"
+    },
+    {
+      "server": "aurevia.jlpokcu.cloud",
+      "port": "443",
+      "secret": "dde36ee54353e0e4c0dced9be91cd9cb9b",
+      "https_link": "https://t.me/proxy?server=aurevia.jlpokcu.cloud&port=443&secret=dde36ee54353e0e4c0dced9be91cd9cb9b",
+      "tg_link": "tg://proxy?server=aurevia.jlpokcu.cloud&port=443&secret=dde36ee54353e0e4c0dced9be91cd9cb9b"
+    },
+    {
       "server": "veloria.mtproxy.pw",
       "port": "443",
       "secret": "ee717470c7921cb093237d4dd8fd4f8ac9786170692e6f7a6f6e2e7275",
@@ -50,13 +57,6 @@
       "secret": "dd717470c7921cb093237d4dd8fd4f8ac9",
       "https_link": "https://t.me/proxy?server=veloria.mtproxy.pw&port=443&secret=dd717470c7921cb093237d4dd8fd4f8ac9",
       "tg_link": "tg://proxy?server=veloria.mtproxy.pw&port=443&secret=dd717470c7921cb093237d4dd8fd4f8ac9"
-    },
-    {
-      "server": "static.antenna-mzt.live",
-      "port": "443",
-      "secret": "ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d",
-      "https_link": "https://t.me/proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d",
-      "tg_link": "tg://proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d"
     }
   ]
 }

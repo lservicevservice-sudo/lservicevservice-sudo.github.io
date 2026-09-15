@@ -1,28 +1,7 @@
 {
-  "updated": "2026-09-15T12:48:38.648860+00:00",
-  "count": 16,
+  "updated": "2026-09-15T17:30:37.513828+00:00",
+  "count": 15,
   "proxies": [
-    {
-      "server": "lumetra.mtproxy.zip",
-      "port": "443",
-      "secret": "ee9af09f8b8dcfe282445cf1bc91854acb786170692e6f7a6f6e2e7275",
-      "https_link": "https://t.me/proxy?server=lumetra.mtproxy.zip&port=443&secret=ee9af09f8b8dcfe282445cf1bc91854acb786170692e6f7a6f6e2e7275",
-      "tg_link": "tg://proxy?server=lumetra.mtproxy.zip&port=443&secret=ee9af09f8b8dcfe282445cf1bc91854acb786170692e6f7a6f6e2e7275"
-    },
-    {
-      "server": "lumetra.mtproxy.zip",
-      "port": "443",
-      "secret": "dd9af09f8b8dcfe282445cf1bc91854acb",
-      "https_link": "https://t.me/proxy?server=lumetra.mtproxy.zip&port=443&secret=dd9af09f8b8dcfe282445cf1bc91854acb",
-      "tg_link": "tg://proxy?server=lumetra.mtproxy.zip&port=443&secret=dd9af09f8b8dcfe282445cf1bc91854acb"
-    },
-    {
-      "server": "tea.hotstbvs.ru",
-      "port": "8843",
-      "secret": "ee2c4047df04ea16c08c0a4cb094aec14a7465612e686f7473746276732e7275",
-      "https_link": "https://t.me/proxy?server=tea.hotstbvs.ru&port=8843&secret=ee2c4047df04ea16c08c0a4cb094aec14a7465612e686f7473746276732e7275",
-      "tg_link": "tg://proxy?server=tea.hotstbvs.ru&port=8843&secret=ee2c4047df04ea16c08c0a4cb094aec14a7465612e686f7473746276732e7275"
-    },
     {
       "server": "veloria.mtproxy.pw",
       "port": "443",
@@ -59,11 +38,25 @@
       "tg_link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
     },
     {
-      "server": "95.182.98.23",
+      "server": "lumetra.mtproxy.zip",
       "port": "443",
-      "secret": "dd1184c15c6b1810ab4804e8d5454e219d",
-      "https_link": "https://t.me/proxy?server=95.182.98.23&port=443&secret=dd1184c15c6b1810ab4804e8d5454e219d",
-      "tg_link": "tg://proxy?server=95.182.98.23&port=443&secret=dd1184c15c6b1810ab4804e8d5454e219d"
+      "secret": "ee9af09f8b8dcfe282445cf1bc91854acb786170692e6f7a6f6e2e7275",
+      "https_link": "https://t.me/proxy?server=lumetra.mtproxy.zip&port=443&secret=ee9af09f8b8dcfe282445cf1bc91854acb786170692e6f7a6f6e2e7275",
+      "tg_link": "tg://proxy?server=lumetra.mtproxy.zip&port=443&secret=ee9af09f8b8dcfe282445cf1bc91854acb786170692e6f7a6f6e2e7275"
+    },
+    {
+      "server": "lumetra.mtproxy.zip",
+      "port": "443",
+      "secret": "dd9af09f8b8dcfe282445cf1bc91854acb",
+      "https_link": "https://t.me/proxy?server=lumetra.mtproxy.zip&port=443&secret=dd9af09f8b8dcfe282445cf1bc91854acb",
+      "tg_link": "tg://proxy?server=lumetra.mtproxy.zip&port=443&secret=dd9af09f8b8dcfe282445cf1bc91854acb"
+    },
+    {
+      "server": "tea.hotstbvs.ru",
+      "port": "8843",
+      "secret": "ee2c4047df04ea16c08c0a4cb094aec14a7465612e686f7473746276732e7275",
+      "https_link": "https://t.me/proxy?server=tea.hotstbvs.ru&port=8843&secret=ee2c4047df04ea16c08c0a4cb094aec14a7465612e686f7473746276732e7275",
+      "tg_link": "tg://proxy?server=tea.hotstbvs.ru&port=8843&secret=ee2c4047df04ea16c08c0a4cb094aec14a7465612e686f7473746276732e7275"
     },
     {
       "server": "ehfive.craj.ir",

@@ -1,13 +1,20 @@
 {
-  "updated": "2026-09-15T01:44:37.354499+00:00",
-  "count": 8,
+  "updated": "2026-09-15T07:20:02.695159+00:00",
+  "count": 15,
   "proxies": [
     {
-      "server": "redflag.yazaebalsyadelatproxy.cc",
+      "server": "lumetra.mtproxy.zip",
       "port": "443",
-      "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
-      "https_link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
-      "tg_link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
+      "secret": "ee9af09f8b8dcfe282445cf1bc91854acb786170692e6f7a6f6e2e7275",
+      "https_link": "https://t.me/proxy?server=lumetra.mtproxy.zip&port=443&secret=ee9af09f8b8dcfe282445cf1bc91854acb786170692e6f7a6f6e2e7275",
+      "tg_link": "tg://proxy?server=lumetra.mtproxy.zip&port=443&secret=ee9af09f8b8dcfe282445cf1bc91854acb786170692e6f7a6f6e2e7275"
+    },
+    {
+      "server": "lumetra.mtproxy.zip",
+      "port": "443",
+      "secret": "dd9af09f8b8dcfe282445cf1bc91854acb",
+      "https_link": "https://t.me/proxy?server=lumetra.mtproxy.zip&port=443&secret=dd9af09f8b8dcfe282445cf1bc91854acb",
+      "tg_link": "tg://proxy?server=lumetra.mtproxy.zip&port=443&secret=dd9af09f8b8dcfe282445cf1bc91854acb"
     },
     {
       "server": "aurevia.jlpokcu.cloud",
@@ -38,18 +45,11 @@
       "tg_link": "tg://proxy?server=veloria.mtproxy.pw&port=443&secret=dd717470c7921cb093237d4dd8fd4f8ac9"
     },
     {
-      "server": "lumetra.mtproxy.zip",
+      "server": "redflag.yazaebalsyadelatproxy.cc",
       "port": "443",
-      "secret": "ee9af09f8b8dcfe282445cf1bc91854acb786170692e6f7a6f6e2e7275",
-      "https_link": "https://t.me/proxy?server=lumetra.mtproxy.zip&port=443&secret=ee9af09f8b8dcfe282445cf1bc91854acb786170692e6f7a6f6e2e7275",
-      "tg_link": "tg://proxy?server=lumetra.mtproxy.zip&port=443&secret=ee9af09f8b8dcfe282445cf1bc91854acb786170692e6f7a6f6e2e7275"
-    },
-    {
-      "server": "lumetra.mtproxy.zip",
-      "port": "443",
-      "secret": "dd9af09f8b8dcfe282445cf1bc91854acb",
-      "https_link": "https://t.me/proxy?server=lumetra.mtproxy.zip&port=443&secret=dd9af09f8b8dcfe282445cf1bc91854acb",
-      "tg_link": "tg://proxy?server=lumetra.mtproxy.zip&port=443&secret=dd9af09f8b8dcfe282445cf1bc91854acb"
+      "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
+      "https_link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
+      "tg_link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
     },
     {
       "server": "95.182.98.23",
@@ -57,6 +57,55 @@
       "secret": "dd1184c15c6b1810ab4804e8d5454e219d",
       "https_link": "https://t.me/proxy?server=95.182.98.23&port=443&secret=dd1184c15c6b1810ab4804e8d5454e219d",
       "tg_link": "tg://proxy?server=95.182.98.23&port=443&secret=dd1184c15c6b1810ab4804e8d5454e219d"
+    },
+    {
+      "server": "ehfive.craj.ir",
+      "port": "8880",
+      "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+      "https_link": "https://t.me/proxy?server=ehfive.craj.ir&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "tg_link": "tg://proxy?server=ehfive.craj.ir&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    },
+    {
+      "server": "komi3er.fesgheli.co.uk.",
+      "port": "8443",
+      "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+      "https_link": "https://t.me/proxy?server=komi3er.fesgheli.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "tg_link": "tg://proxy?server=komi3er.fesgheli.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    },
+    {
+      "server": "sensitizer.unparted.upscale.gmateleserye.com",
+      "port": "443",
+      "secret": "eec7aee1f820ac1fc748444dfe1bc8132b647a656e2e7275",
+      "https_link": "https://t.me/proxy?server=sensitizer.unparted.upscale.gmateleserye.com&port=443&secret=eec7aee1f820ac1fc748444dfe1bc8132b647a656e2e7275",
+      "tg_link": "tg://proxy?server=sensitizer.unparted.upscale.gmateleserye.com&port=443&secret=eec7aee1f820ac1fc748444dfe1bc8132b647a656e2e7275"
+    },
+    {
+      "server": "fluxabyss.eyfst.ir",
+      "port": "443",
+      "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
+      "https_link": "https://t.me/proxy?server=fluxabyss.eyfst.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
+      "tg_link": "tg://proxy?server=fluxabyss.eyfst.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
+    },
+    {
+      "server": "dotado.7ug.ir",
+      "port": "8880",
+      "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+      "https_link": "https://t.me/proxy?server=dotado.7ug.ir&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "tg_link": "tg://proxy?server=dotado.7ug.ir&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    },
+    {
+      "server": "albinoism.delinquent.paradisaical.teleseryeme.com",
+      "port": "443",
+      "secret": "ee18360720b1a4777508c449002c5c1cb6647a656e2e7275",
+      "https_link": "https://t.me/proxy?server=albinoism.delinquent.paradisaical.teleseryeme.com&port=443&secret=ee18360720b1a4777508c449002c5c1cb6647a656e2e7275",
+      "tg_link": "tg://proxy?server=albinoism.delinquent.paradisaical.teleseryeme.com&port=443&secret=ee18360720b1a4777508c449002c5c1cb6647a656e2e7275"
+    },
+    {
+      "server": "film.tvoyasvoboda.help",
+      "port": "443",
+      "secret": "ee616cf892574b078aab3f73e63b8b7df4786170692e6f7a6f6e2e7275",
+      "https_link": "https://t.me/proxy?server=film.tvoyasvoboda.help&port=443&secret=ee616cf892574b078aab3f73e63b8b7df4786170692e6f7a6f6e2e7275",
+      "tg_link": "tg://proxy?server=film.tvoyasvoboda.help&port=443&secret=ee616cf892574b078aab3f73e63b8b7df4786170692e6f7a6f6e2e7275"
     }
   ]
 }

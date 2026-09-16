@@ -1,20 +1,13 @@
 {
-  "updated": "2026-09-16T17:31:01.496085+00:00",
-  "count": 10,
+  "updated": "2026-09-16T20:58:51.660405+00:00",
+  "count": 11,
   "proxies": [
     {
-      "server": "veloria.mtproxy.pw",
+      "server": "redflag.yazaebalsyadelatproxy.cc",
       "port": "443",
-      "secret": "ee717470c7921cb093237d4dd8fd4f8ac9786170692e6f7a6f6e2e7275",
-      "https_link": "https://t.me/proxy?server=veloria.mtproxy.pw&port=443&secret=ee717470c7921cb093237d4dd8fd4f8ac9786170692e6f7a6f6e2e7275",
-      "tg_link": "tg://proxy?server=veloria.mtproxy.pw&port=443&secret=ee717470c7921cb093237d4dd8fd4f8ac9786170692e6f7a6f6e2e7275"
-    },
-    {
-      "server": "veloria.mtproxy.pw",
-      "port": "443",
-      "secret": "dd717470c7921cb093237d4dd8fd4f8ac9",
-      "https_link": "https://t.me/proxy?server=veloria.mtproxy.pw&port=443&secret=dd717470c7921cb093237d4dd8fd4f8ac9",
-      "tg_link": "tg://proxy?server=veloria.mtproxy.pw&port=443&secret=dd717470c7921cb093237d4dd8fd4f8ac9"
+      "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
+      "https_link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
+      "tg_link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
     },
     {
       "server": "aurevia.jlpokcu.cloud",
@@ -29,6 +22,27 @@
       "secret": "dde36ee54353e0e4c0dced9be91cd9cb9b",
       "https_link": "https://t.me/proxy?server=aurevia.jlpokcu.cloud&port=443&secret=dde36ee54353e0e4c0dced9be91cd9cb9b",
       "tg_link": "tg://proxy?server=aurevia.jlpokcu.cloud&port=443&secret=dde36ee54353e0e4c0dced9be91cd9cb9b"
+    },
+    {
+      "server": "prague.dadway.ru",
+      "port": "443",
+      "secret": "eea8c11e0e4f30cfb739d87ebb028b0328656261792e636f6d",
+      "https_link": "https://t.me/proxy?server=prague.dadway.ru&port=443&secret=eea8c11e0e4f30cfb739d87ebb028b0328656261792e636f6d",
+      "tg_link": "tg://proxy?server=prague.dadway.ru&port=443&secret=eea8c11e0e4f30cfb739d87ebb028b0328656261792e636f6d"
+    },
+    {
+      "server": "veloria.mtproxy.pw",
+      "port": "443",
+      "secret": "ee717470c7921cb093237d4dd8fd4f8ac9786170692e6f7a6f6e2e7275",
+      "https_link": "https://t.me/proxy?server=veloria.mtproxy.pw&port=443&secret=ee717470c7921cb093237d4dd8fd4f8ac9786170692e6f7a6f6e2e7275",
+      "tg_link": "tg://proxy?server=veloria.mtproxy.pw&port=443&secret=ee717470c7921cb093237d4dd8fd4f8ac9786170692e6f7a6f6e2e7275"
+    },
+    {
+      "server": "veloria.mtproxy.pw",
+      "port": "443",
+      "secret": "dd717470c7921cb093237d4dd8fd4f8ac9",
+      "https_link": "https://t.me/proxy?server=veloria.mtproxy.pw&port=443&secret=dd717470c7921cb093237d4dd8fd4f8ac9",
+      "tg_link": "tg://proxy?server=veloria.mtproxy.pw&port=443&secret=dd717470c7921cb093237d4dd8fd4f8ac9"
     },
     {
       "server": "surfing.suslik-cloud.homes",
@@ -64,13 +78,6 @@
       "secret": "eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275",
       "https_link": "https://t.me/proxy?server=chestno.servera-dlya-tg-zdes-net.abrdns.com&port=443&secret=eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275",
       "tg_link": "tg://proxy?server=chestno.servera-dlya-tg-zdes-net.abrdns.com&port=443&secret=eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275"
-    },
-    {
-      "server": "redflag.yazaebalsyadelatproxy.cc",
-      "port": "443",
-      "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
-      "https_link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
-      "tg_link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
     }
   ]
 }

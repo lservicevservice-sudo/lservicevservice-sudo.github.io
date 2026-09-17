@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T03:53:19.700062+00:00",
+  "updated": "2026-09-17T09:16:39.512951+00:00",
   "count": 11,
   "proxies": [
     {
@@ -8,27 +8,6 @@
       "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
       "https_link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
       "tg_link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
-    },
-    {
-      "server": "aurevia.jlpokcu.cloud",
-      "port": "443",
-      "secret": "eee36ee54353e0e4c0dced9be91cd9cb9b786170692e6f7a6f6e2e7275",
-      "https_link": "https://t.me/proxy?server=aurevia.jlpokcu.cloud&port=443&secret=eee36ee54353e0e4c0dced9be91cd9cb9b786170692e6f7a6f6e2e7275",
-      "tg_link": "tg://proxy?server=aurevia.jlpokcu.cloud&port=443&secret=eee36ee54353e0e4c0dced9be91cd9cb9b786170692e6f7a6f6e2e7275"
-    },
-    {
-      "server": "aurevia.jlpokcu.cloud",
-      "port": "443",
-      "secret": "dde36ee54353e0e4c0dced9be91cd9cb9b",
-      "https_link": "https://t.me/proxy?server=aurevia.jlpokcu.cloud&port=443&secret=dde36ee54353e0e4c0dced9be91cd9cb9b",
-      "tg_link": "tg://proxy?server=aurevia.jlpokcu.cloud&port=443&secret=dde36ee54353e0e4c0dced9be91cd9cb9b"
-    },
-    {
-      "server": "prague.dadway.ru",
-      "port": "443",
-      "secret": "eea8c11e0e4f30cfb739d87ebb028b0328656261792e636f6d",
-      "https_link": "https://t.me/proxy?server=prague.dadway.ru&port=443&secret=eea8c11e0e4f30cfb739d87ebb028b0328656261792e636f6d",
-      "tg_link": "tg://proxy?server=prague.dadway.ru&port=443&secret=eea8c11e0e4f30cfb739d87ebb028b0328656261792e636f6d"
     },
     {
       "server": "veloria.mtproxy.pw",
@@ -43,6 +22,27 @@
       "secret": "dd717470c7921cb093237d4dd8fd4f8ac9",
       "https_link": "https://t.me/proxy?server=veloria.mtproxy.pw&port=443&secret=dd717470c7921cb093237d4dd8fd4f8ac9",
       "tg_link": "tg://proxy?server=veloria.mtproxy.pw&port=443&secret=dd717470c7921cb093237d4dd8fd4f8ac9"
+    },
+    {
+      "server": "prague.dadway.ru",
+      "port": "443",
+      "secret": "eea8c11e0e4f30cfb739d87ebb028b0328656261792e636f6d",
+      "https_link": "https://t.me/proxy?server=prague.dadway.ru&port=443&secret=eea8c11e0e4f30cfb739d87ebb028b0328656261792e636f6d",
+      "tg_link": "tg://proxy?server=prague.dadway.ru&port=443&secret=eea8c11e0e4f30cfb739d87ebb028b0328656261792e636f6d"
+    },
+    {
+      "server": "aurevia.jlpokcu.cloud",
+      "port": "443",
+      "secret": "eee36ee54353e0e4c0dced9be91cd9cb9b786170692e6f7a6f6e2e7275",
+      "https_link": "https://t.me/proxy?server=aurevia.jlpokcu.cloud&port=443&secret=eee36ee54353e0e4c0dced9be91cd9cb9b786170692e6f7a6f6e2e7275",
+      "tg_link": "tg://proxy?server=aurevia.jlpokcu.cloud&port=443&secret=eee36ee54353e0e4c0dced9be91cd9cb9b786170692e6f7a6f6e2e7275"
+    },
+    {
+      "server": "aurevia.jlpokcu.cloud",
+      "port": "443",
+      "secret": "dde36ee54353e0e4c0dced9be91cd9cb9b",
+      "https_link": "https://t.me/proxy?server=aurevia.jlpokcu.cloud&port=443&secret=dde36ee54353e0e4c0dced9be91cd9cb9b",
+      "tg_link": "tg://proxy?server=aurevia.jlpokcu.cloud&port=443&secret=dde36ee54353e0e4c0dced9be91cd9cb9b"
     },
     {
       "server": "surfing.suslik-cloud.homes",

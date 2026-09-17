@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-17T18:26:37.094337+00:00",
-  "count": 11,
+  "updated": "2026-09-17T21:38:06.874866+00:00",
+  "count": 13,
   "proxies": [
     {
       "server": "redflag.yazaebalsyadelatproxy.cc",
@@ -8,6 +8,27 @@
       "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
       "https_link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
       "tg_link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
+    },
+    {
+      "server": "lumetra.mtproxy.zip",
+      "port": "443",
+      "secret": "ee9af09f8b8dcfe282445cf1bc91854acb786170692e6f7a6f6e2e7275",
+      "https_link": "https://t.me/proxy?server=lumetra.mtproxy.zip&port=443&secret=ee9af09f8b8dcfe282445cf1bc91854acb786170692e6f7a6f6e2e7275",
+      "tg_link": "tg://proxy?server=lumetra.mtproxy.zip&port=443&secret=ee9af09f8b8dcfe282445cf1bc91854acb786170692e6f7a6f6e2e7275"
+    },
+    {
+      "server": "lumetra.mtproxy.zip",
+      "port": "443",
+      "secret": "dd9af09f8b8dcfe282445cf1bc91854acb",
+      "https_link": "https://t.me/proxy?server=lumetra.mtproxy.zip&port=443&secret=dd9af09f8b8dcfe282445cf1bc91854acb",
+      "tg_link": "tg://proxy?server=lumetra.mtproxy.zip&port=443&secret=dd9af09f8b8dcfe282445cf1bc91854acb"
+    },
+    {
+      "server": "ardesvpn1.ru",
+      "port": "8443",
+      "secret": "ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275",
+      "https_link": "https://t.me/proxy?server=ardesvpn1.ru&port=8443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275",
+      "tg_link": "tg://proxy?server=ardesvpn1.ru&port=8443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275"
     },
     {
       "server": "veloria.mtproxy.pw",
@@ -71,13 +92,6 @@
       "secret": "dde36ee54353e0e4c0dced9be91cd9cb9b",
       "https_link": "https://t.me/proxy?server=aurevia.jlpokcu.cloud&port=443&secret=dde36ee54353e0e4c0dced9be91cd9cb9b",
       "tg_link": "tg://proxy?server=aurevia.jlpokcu.cloud&port=443&secret=dde36ee54353e0e4c0dced9be91cd9cb9b"
-    },
-    {
-      "server": "surfing.suslik-cloud.homes",
-      "port": "443",
-      "secret": "eed7f61466f824eafe116a533553e01bca73757266696e672e7375736c696b2d636c6f75642e686f6d6573",
-      "https_link": "https://t.me/proxy?server=surfing.suslik-cloud.homes&port=443&secret=eed7f61466f824eafe116a533553e01bca73757266696e672e7375736c696b2d636c6f75642e686f6d6573",
-      "tg_link": "tg://proxy?server=surfing.suslik-cloud.homes&port=443&secret=eed7f61466f824eafe116a533553e01bca73757266696e672e7375736c696b2d636c6f75642e686f6d6573"
     }
   ]
 }

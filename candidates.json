@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-19T17:49:10.497000+00:00",
-  "count": 14,
+  "updated": "2026-09-19T20:10:45.358762+00:00",
+  "count": 16,
   "proxies": [
+    {
+      "server": "as.mkim.click",
+      "port": "443",
+      "secret": "ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b",
+      "https_link": "https://t.me/proxy?server=as.mkim.click&port=443&secret=ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b",
+      "tg_link": "tg://proxy?server=as.mkim.click&port=443&secret=ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b"
+    },
+    {
+      "server": "ykima.davay.click",
+      "port": "443",
+      "secret": "ee06dfdbdf271bab18c6b606484c237384796b696d612e64617661792e636c69636b",
+      "https_link": "https://t.me/proxy?server=ykima.davay.click&port=443&secret=ee06dfdbdf271bab18c6b606484c237384796b696d612e64617661792e636c69636b",
+      "tg_link": "tg://proxy?server=ykima.davay.click&port=443&secret=ee06dfdbdf271bab18c6b606484c237384796b696d612e64617661792e636c69636b"
+    },
+    {
+      "server": "proxy.noblok.org",
+      "port": "443",
+      "secret": "ee59523800f28b6c8384f93860bf95630270726f78792e6e6f626c6f6b2e6f7267",
+      "https_link": "https://t.me/proxy?server=proxy.noblok.org&port=443&secret=ee59523800f28b6c8384f93860bf95630270726f78792e6e6f626c6f6b2e6f7267",
+      "tg_link": "tg://proxy?server=proxy.noblok.org&port=443&secret=ee59523800f28b6c8384f93860bf95630270726f78792e6e6f626c6f6b2e6f7267"
+    },
     {
       "server": "redflag.yazaebalsyadelatproxy.cc",
       "port": "443",
@@ -64,13 +85,6 @@
       "secret": "ee12e7e5f961f258b04af168a1cba6318a6b696d612e7261626f746165742e6f6e6c696e65",
       "https_link": "https://t.me/proxy?server=kima.rabotaet.online&port=443&secret=ee12e7e5f961f258b04af168a1cba6318a6b696d612e7261626f746165742e6f6e6c696e65",
       "tg_link": "tg://proxy?server=kima.rabotaet.online&port=443&secret=ee12e7e5f961f258b04af168a1cba6318a6b696d612e7261626f746165742e6f6e6c696e65"
-    },
-    {
-      "server": "proxy.noblok.org",
-      "port": "443",
-      "secret": "ee59523800f28b6c8384f93860bf95630270726f78792e6e6f626c6f6b2e6f7267",
-      "https_link": "https://t.me/proxy?server=proxy.noblok.org&port=443&secret=ee59523800f28b6c8384f93860bf95630270726f78792e6e6f626c6f6b2e6f7267",
-      "tg_link": "tg://proxy?server=proxy.noblok.org&port=443&secret=ee59523800f28b6c8384f93860bf95630270726f78792e6e6f626c6f6b2e6f7267"
     },
     {
       "server": "168.113.215.6",

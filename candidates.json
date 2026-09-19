@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-19T11:21:16.809387+00:00",
+  "updated": "2026-09-19T14:40:27.383336+00:00",
   "count": 14,
   "proxies": [
+    {
+      "server": "redflag.yazaebalsyadelatproxy.cc",
+      "port": "443",
+      "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
+      "https_link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
+      "tg_link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
+    },
+    {
+      "server": "chestno.servera-dlya-tg-zdes-net.abrdns.com",
+      "port": "443",
+      "secret": "eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275",
+      "https_link": "https://t.me/proxy?server=chestno.servera-dlya-tg-zdes-net.abrdns.com&port=443&secret=eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275",
+      "tg_link": "tg://proxy?server=chestno.servera-dlya-tg-zdes-net.abrdns.com&port=443&secret=eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275"
+    },
+    {
+      "server": "meow.its-work.ru",
+      "port": "443",
+      "secret": "ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
+      "https_link": "https://t.me/proxy?server=meow.its-work.ru&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d",
+      "tg_link": "tg://proxy?server=meow.its-work.ru&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d"
+    },
     {
       "server": "filmkono.tvoyasvoboda.help",
       "port": "443",
@@ -31,13 +52,6 @@
       "tg_link": "tg://proxy?server=proxy.noblok.org&port=443&secret=ee59523800f28b6c8384f93860bf95630270726f78792e6e6f626c6f6b2e6f7267"
     },
     {
-      "server": "redflag.yazaebalsyadelatproxy.cc",
-      "port": "443",
-      "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
-      "https_link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
-      "tg_link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
-    },
-    {
       "server": "168.113.215.6",
       "port": "8443",
       "secret": "dd6092af449b5d4a2a2978662cd51b663d",
@@ -57,13 +71,6 @@
       "secret": "ee499cbaa63a17e5071d5babf1ccba89f3636f6e6e6563742e6c6f76656c792e6c6174",
       "https_link": "https://t.me/proxy?server=connect.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f3636f6e6e6563742e6c6f76656c792e6c6174",
       "tg_link": "tg://proxy?server=connect.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f3636f6e6e6563742e6c6f76656c792e6c6174"
-    },
-    {
-      "server": "chestno.servera-dlya-tg-zdes-net.abrdns.com",
-      "port": "443",
-      "secret": "eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275",
-      "https_link": "https://t.me/proxy?server=chestno.servera-dlya-tg-zdes-net.abrdns.com&port=443&secret=eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275",
-      "tg_link": "tg://proxy?server=chestno.servera-dlya-tg-zdes-net.abrdns.com&port=443&secret=eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275"
     },
     {
       "server": "reborn.rebirthconnect.com",
@@ -92,13 +99,6 @@
       "secret": "ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275",
       "https_link": "https://t.me/proxy?server=ardesvpn1.ru&port=8443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275",
       "tg_link": "tg://proxy?server=ardesvpn1.ru&port=8443&secret=ee05cf8e164f926f4a664b2404d276a1d6617264657376706e312e7275"
-    },
-    {
-      "server": "zzz.api-metrics-sync.xyz",
-      "port": "443",
-      "secret": "ee25f1d868ea750156d0d2128388c87ae4746173732e7275",
-      "https_link": "https://t.me/proxy?server=zzz.api-metrics-sync.xyz&port=443&secret=ee25f1d868ea750156d0d2128388c87ae4746173732e7275",
-      "tg_link": "tg://proxy?server=zzz.api-metrics-sync.xyz&port=443&secret=ee25f1d868ea750156d0d2128388c87ae4746173732e7275"
     }
   ]
 }

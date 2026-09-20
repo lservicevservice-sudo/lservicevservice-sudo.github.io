@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-20T00:16:09.394199+00:00",
-  "count": 15,
+  "updated": "2026-09-20T05:13:24.083752+00:00",
+  "count": 16,
   "proxies": [
+    {
+      "server": "rus-media-24.ru",
+      "port": "443",
+      "secret": "eef01c6a138d310b676c54dbf21603d4457275732d6d656469612d32342e7275",
+      "https_link": "https://t.me/proxy?server=rus-media-24.ru&port=443&secret=eef01c6a138d310b676c54dbf21603d4457275732d6d656469612d32342e7275",
+      "tg_link": "tg://proxy?server=rus-media-24.ru&port=443&secret=eef01c6a138d310b676c54dbf21603d4457275732d6d656469612d32342e7275"
+    },
     {
       "server": "redflag.yazaebalsyadelatproxy.cc",
       "port": "443",

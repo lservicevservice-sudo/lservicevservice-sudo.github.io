@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-22T01:04:10.303627+00:00",
-  "count": 20,
+  "updated": "2026-09-22T06:36:43.892357+00:00",
+  "count": 19,
   "proxies": [
+    {
+      "server": "levrun.ru",
+      "port": "443",
+      "secret": "ee13c3d6e347b050e2278e5bbe1346021679616e6465782e7275",
+      "https_link": "https://t.me/proxy?server=levrun.ru&port=443&secret=ee13c3d6e347b050e2278e5bbe1346021679616e6465782e7275",
+      "tg_link": "tg://proxy?server=levrun.ru&port=443&secret=ee13c3d6e347b050e2278e5bbe1346021679616e6465782e7275"
+    },
     {
       "server": "redflag.yazaebalsyadelatproxy.cc",
       "port": "443",
@@ -85,20 +92,6 @@
       "secret": "ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b",
       "https_link": "https://t.me/proxy?server=as.mkim.click&port=443&secret=ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b",
       "tg_link": "tg://proxy?server=as.mkim.click&port=443&secret=ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b"
-    },
-    {
-      "server": "shared4.ddproxy.xyz",
-      "port": "443",
-      "secret": "eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275",
-      "https_link": "https://t.me/proxy?server=shared4.ddproxy.xyz&port=443&secret=eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275",
-      "tg_link": "tg://proxy?server=shared4.ddproxy.xyz&port=443&secret=eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275"
-    },
-    {
-      "server": "shared3.ddproxy.xyz",
-      "port": "443",
-      "secret": "eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275",
-      "https_link": "https://t.me/proxy?server=shared3.ddproxy.xyz&port=443&secret=eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275",
-      "tg_link": "tg://proxy?server=shared3.ddproxy.xyz&port=443&secret=eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275"
     },
     {
       "server": "starstg.neverspy.tech",

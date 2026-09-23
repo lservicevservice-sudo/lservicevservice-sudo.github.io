@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-23T01:40:32.504789+00:00",
-  "count": 15,
+  "updated": "2026-09-23T07:28:18.759180+00:00",
+  "count": 13,
   "proxies": [
+    {
+      "server": "at2.cdntube.monster",
+      "port": "443",
+      "secret": "ee177eb13ee6095288c860ddba086d781b6174322e63646e747562652e6d6f6e73746572",
+      "https_link": "https://t.me/proxy?server=at2.cdntube.monster&port=443&secret=ee177eb13ee6095288c860ddba086d781b6174322e63646e747562652e6d6f6e73746572",
+      "tg_link": "tg://proxy?server=at2.cdntube.monster&port=443&secret=ee177eb13ee6095288c860ddba086d781b6174322e63646e747562652e6d6f6e73746572"
+    },
+    {
+      "server": "it.vpntelegram.club",
+      "port": "443",
+      "secret": "ee7ffb66c79f5b2b625df524bbafa48eef69742e76706e74656c656772616d2e636c7562",
+      "https_link": "https://t.me/proxy?server=it.vpntelegram.club&port=443&secret=ee7ffb66c79f5b2b625df524bbafa48eef69742e76706e74656c656772616d2e636c7562",
+      "tg_link": "tg://proxy?server=it.vpntelegram.club&port=443&secret=ee7ffb66c79f5b2b625df524bbafa48eef69742e76706e74656c656772616d2e636c7562"
+    },
     {
       "server": "redflag.yazaebalsyadelatproxy.cc",
       "port": "443",
@@ -22,20 +36,6 @@
       "secret": "eed7f61466f824eafe116a533553e01bca73757266696e672e7375736c696b2d636c6f75642e686f6d6573",
       "https_link": "https://t.me/proxy?server=surfing.suslik-cloud.homes&port=443&secret=eed7f61466f824eafe116a533553e01bca73757266696e672e7375736c696b2d636c6f75642e686f6d6573",
       "tg_link": "tg://proxy?server=surfing.suslik-cloud.homes&port=443&secret=eed7f61466f824eafe116a533553e01bca73757266696e672e7375736c696b2d636c6f75642e686f6d6573"
-    },
-    {
-      "server": "it.vpntelegram.club",
-      "port": "443",
-      "secret": "ee7ffb66c79f5b2b625df524bbafa48eef69742e76706e74656c656772616d2e636c7562",
-      "https_link": "https://t.me/proxy?server=it.vpntelegram.club&port=443&secret=ee7ffb66c79f5b2b625df524bbafa48eef69742e76706e74656c656772616d2e636c7562",
-      "tg_link": "tg://proxy?server=it.vpntelegram.club&port=443&secret=ee7ffb66c79f5b2b625df524bbafa48eef69742e76706e74656c656772616d2e636c7562"
-    },
-    {
-      "server": "at2.cdntube.monster",
-      "port": "443",
-      "secret": "ee177eb13ee6095288c860ddba086d781b6174322e63646e747562652e6d6f6e73746572",
-      "https_link": "https://t.me/proxy?server=at2.cdntube.monster&port=443&secret=ee177eb13ee6095288c860ddba086d781b6174322e63646e747562652e6d6f6e73746572",
-      "tg_link": "tg://proxy?server=at2.cdntube.monster&port=443&secret=ee177eb13ee6095288c860ddba086d781b6174322e63646e747562652e6d6f6e73746572"
     },
     {
       "server": "publicproxy.liphilla.space",
@@ -92,20 +92,6 @@
       "secret": "eef01c6a138d310b676c54dbf21603d4457275732d6d656469612d32342e7275",
       "https_link": "https://t.me/proxy?server=rus-media-24.ru&port=443&secret=eef01c6a138d310b676c54dbf21603d4457275732d6d656469612d32342e7275",
       "tg_link": "tg://proxy?server=rus-media-24.ru&port=443&secret=eef01c6a138d310b676c54dbf21603d4457275732d6d656469612d32342e7275"
-    },
-    {
-      "server": "ykima.davay.click",
-      "port": "443",
-      "secret": "ee06dfdbdf271bab18c6b606484c237384796b696d612e64617661792e636c69636b",
-      "https_link": "https://t.me/proxy?server=ykima.davay.click&port=443&secret=ee06dfdbdf271bab18c6b606484c237384796b696d612e64617661792e636c69636b",
-      "tg_link": "tg://proxy?server=ykima.davay.click&port=443&secret=ee06dfdbdf271bab18c6b606484c237384796b696d612e64617661792e636c69636b"
-    },
-    {
-      "server": "mkima.davay.click",
-      "port": "443",
-      "secret": "ee39300be14c4d54704c92416d555fa7026d6b696d612e64617661792e636c69636b",
-      "https_link": "https://t.me/proxy?server=mkima.davay.click&port=443&secret=ee39300be14c4d54704c92416d555fa7026d6b696d612e64617661792e636c69636b",
-      "tg_link": "tg://proxy?server=mkima.davay.click&port=443&secret=ee39300be14c4d54704c92416d555fa7026d6b696d612e64617661792e636c69636b"
     }
   ]
 }

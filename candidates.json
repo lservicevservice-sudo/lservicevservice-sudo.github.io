@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-26T19:33:56.850556+00:00",
-  "count": 21,
+  "updated": "2026-09-26T22:26:52.278023+00:00",
+  "count": 22,
   "proxies": [
+    {
+      "server": "tgproxy.noblok.org",
+      "port": "443",
+      "secret": "ee59523800f28b6c8384f93860bf956302746770726f78792e6e6f626c6f6b2e6f7267",
+      "https_link": "https://t.me/proxy?server=tgproxy.noblok.org&port=443&secret=ee59523800f28b6c8384f93860bf956302746770726f78792e6e6f626c6f6b2e6f7267",
+      "tg_link": "tg://proxy?server=tgproxy.noblok.org&port=443&secret=ee59523800f28b6c8384f93860bf956302746770726f78792e6e6f626c6f6b2e6f7267"
+    },
     {
       "server": "yostavpn.casacam.net",
       "port": "443",

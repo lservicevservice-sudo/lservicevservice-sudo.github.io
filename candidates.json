@@ -1,13 +1,41 @@
 {
-  "updated": "2026-09-28T16:55:04.561030+00:00",
-  "count": 11,
+  "updated": "2026-09-28T22:25:59.661421+00:00",
+  "count": 13,
   "proxies": [
+    {
+      "server": "night.vtoroe-dyhanie.space",
+      "port": "443",
+      "secret": "ee712aff3bb7aa86eefc4eda95d8aef21f6e696768742e76746f726f652d647968616e69652e7370616365",
+      "https_link": "https://t.me/proxy?server=night.vtoroe-dyhanie.space&port=443&secret=ee712aff3bb7aa86eefc4eda95d8aef21f6e696768742e76746f726f652d647968616e69652e7370616365",
+      "tg_link": "tg://proxy?server=night.vtoroe-dyhanie.space&port=443&secret=ee712aff3bb7aa86eefc4eda95d8aef21f6e696768742e76746f726f652d647968616e69652e7370616365"
+    },
+    {
+      "server": "day.vtoroe-dyhanie.space",
+      "port": "443",
+      "secret": "ee2b4b155565df4307acfb18b632c3c9006461792e76746f726f652d647968616e69652e7370616365",
+      "https_link": "https://t.me/proxy?server=day.vtoroe-dyhanie.space&port=443&secret=ee2b4b155565df4307acfb18b632c3c9006461792e76746f726f652d647968616e69652e7370616365",
+      "tg_link": "tg://proxy?server=day.vtoroe-dyhanie.space&port=443&secret=ee2b4b155565df4307acfb18b632c3c9006461792e76746f726f652d647968616e69652e7370616365"
+    },
     {
       "server": "redflag.yazaebalsyadelatproxy.cc",
       "port": "443",
       "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
       "https_link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
       "tg_link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
+    },
+    {
+      "server": "chestno.servera-dlya-tg-zdes-net.abrdns.com",
+      "port": "443",
+      "secret": "eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275",
+      "https_link": "https://t.me/proxy?server=chestno.servera-dlya-tg-zdes-net.abrdns.com&port=443&secret=eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275",
+      "tg_link": "tg://proxy?server=chestno.servera-dlya-tg-zdes-net.abrdns.com&port=443&secret=eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275"
+    },
+    {
+      "server": "static.antenna-mzt.live",
+      "port": "443",
+      "secret": "ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d",
+      "https_link": "https://t.me/proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d",
+      "tg_link": "tg://proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d"
     },
     {
       "server": "zzz.api-metrics-sync.xyz",
@@ -29,20 +57,6 @@
       "secret": "ee65e2b4d72f5b6dbf24698282d4be7efc796f73746176706e2e6361736163616d2e6e6574",
       "https_link": "https://t.me/proxy?server=yostavpn.casacam.net&port=443&secret=ee65e2b4d72f5b6dbf24698282d4be7efc796f73746176706e2e6361736163616d2e6e6574",
       "tg_link": "tg://proxy?server=yostavpn.casacam.net&port=443&secret=ee65e2b4d72f5b6dbf24698282d4be7efc796f73746176706e2e6361736163616d2e6e6574"
-    },
-    {
-      "server": "night.vtoroe-dyhanie.space",
-      "port": "443",
-      "secret": "ee712aff3bb7aa86eefc4eda95d8aef21f6e696768742e76746f726f652d647968616e69652e7370616365",
-      "https_link": "https://t.me/proxy?server=night.vtoroe-dyhanie.space&port=443&secret=ee712aff3bb7aa86eefc4eda95d8aef21f6e696768742e76746f726f652d647968616e69652e7370616365",
-      "tg_link": "tg://proxy?server=night.vtoroe-dyhanie.space&port=443&secret=ee712aff3bb7aa86eefc4eda95d8aef21f6e696768742e76746f726f652d647968616e69652e7370616365"
-    },
-    {
-      "server": "day.vtoroe-dyhanie.space",
-      "port": "443",
-      "secret": "ee2b4b155565df4307acfb18b632c3c9006461792e76746f726f652d647968616e69652e7370616365",
-      "https_link": "https://t.me/proxy?server=day.vtoroe-dyhanie.space&port=443&secret=ee2b4b155565df4307acfb18b632c3c9006461792e76746f726f652d647968616e69652e7370616365",
-      "tg_link": "tg://proxy?server=day.vtoroe-dyhanie.space&port=443&secret=ee2b4b155565df4307acfb18b632c3c9006461792e76746f726f652d647968616e69652e7370616365"
     },
     {
       "server": "tea.hotstbvs.ru",

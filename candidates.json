@@ -1,20 +1,20 @@
 {
-  "updated": "2026-09-28T01:53:30.513965+00:00",
-  "count": 13,
+  "updated": "2026-09-28T08:21:12.998095+00:00",
+  "count": 12,
   "proxies": [
     {
-      "server": "max.kimt.click",
+      "server": "178.214.211.58",
       "port": "443",
-      "secret": "ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b",
-      "https_link": "https://t.me/proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b",
-      "tg_link": "tg://proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b"
+      "secret": "eea425a48d01f15bfec1f84b7addbc6946636c6f75642e6d61696c2e7275",
+      "https_link": "https://t.me/proxy?server=178.214.211.58&port=443&secret=eea425a48d01f15bfec1f84b7addbc6946636c6f75642e6d61696c2e7275",
+      "tg_link": "tg://proxy?server=178.214.211.58&port=443&secret=eea425a48d01f15bfec1f84b7addbc6946636c6f75642e6d61696c2e7275"
     },
     {
-      "server": "as.mkim.click",
+      "server": "151.247.25.71",
       "port": "443",
-      "secret": "ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b",
-      "https_link": "https://t.me/proxy?server=as.mkim.click&port=443&secret=ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b",
-      "tg_link": "tg://proxy?server=as.mkim.click&port=443&secret=ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b"
+      "secret": "ee2fde21a2954be74e1f6d8dd3d2aada0a636c6f75642e6d61696c2e7275",
+      "https_link": "https://t.me/proxy?server=151.247.25.71&port=443&secret=ee2fde21a2954be74e1f6d8dd3d2aada0a636c6f75642e6d61696c2e7275",
+      "tg_link": "tg://proxy?server=151.247.25.71&port=443&secret=ee2fde21a2954be74e1f6d8dd3d2aada0a636c6f75642e6d61696c2e7275"
     },
     {
       "server": "night.vtoroe-dyhanie.space",
@@ -31,18 +31,32 @@
       "tg_link": "tg://proxy?server=day.vtoroe-dyhanie.space&port=443&secret=ee2b4b155565df4307acfb18b632c3c9006461792e76746f726f652d647968616e69652e7370616365"
     },
     {
-      "server": "yostavpn.casacam.net",
-      "port": "443",
-      "secret": "ee65e2b4d72f5b6dbf24698282d4be7efc796f73746176706e2e6361736163616d2e6e6574",
-      "https_link": "https://t.me/proxy?server=yostavpn.casacam.net&port=443&secret=ee65e2b4d72f5b6dbf24698282d4be7efc796f73746176706e2e6361736163616d2e6e6574",
-      "tg_link": "tg://proxy?server=yostavpn.casacam.net&port=443&secret=ee65e2b4d72f5b6dbf24698282d4be7efc796f73746176706e2e6361736163616d2e6e6574"
-    },
-    {
       "server": "redflag.yazaebalsyadelatproxy.cc",
       "port": "443",
       "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
       "https_link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
       "tg_link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
+    },
+    {
+      "server": "max.kimt.click",
+      "port": "443",
+      "secret": "ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b",
+      "https_link": "https://t.me/proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b",
+      "tg_link": "tg://proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b"
+    },
+    {
+      "server": "as.mkim.click",
+      "port": "443",
+      "secret": "ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b",
+      "https_link": "https://t.me/proxy?server=as.mkim.click&port=443&secret=ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b",
+      "tg_link": "tg://proxy?server=as.mkim.click&port=443&secret=ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b"
+    },
+    {
+      "server": "yostavpn.casacam.net",
+      "port": "443",
+      "secret": "ee65e2b4d72f5b6dbf24698282d4be7efc796f73746176706e2e6361736163616d2e6e6574",
+      "https_link": "https://t.me/proxy?server=yostavpn.casacam.net&port=443&secret=ee65e2b4d72f5b6dbf24698282d4be7efc796f73746176706e2e6361736163616d2e6e6574",
+      "tg_link": "tg://proxy?server=yostavpn.casacam.net&port=443&secret=ee65e2b4d72f5b6dbf24698282d4be7efc796f73746176706e2e6361736163616d2e6e6574"
     },
     {
       "server": "zzz.api-metrics-sync.xyz",
@@ -71,27 +85,6 @@
       "secret": "eeb94114703ae80f7c88d45fde367c6063636c6f75642e6d61696c2e7275",
       "https_link": "https://t.me/proxy?server=78.108.56.5&port=443&secret=eeb94114703ae80f7c88d45fde367c6063636c6f75642e6d61696c2e7275",
       "tg_link": "tg://proxy?server=78.108.56.5&port=443&secret=eeb94114703ae80f7c88d45fde367c6063636c6f75642e6d61696c2e7275"
-    },
-    {
-      "server": "85.9.221.39",
-      "port": "443",
-      "secret": "ee4f78aa8b9f346ca2aba542dd8ea658f07777772e636c6f7564666c6172652e636f6d",
-      "https_link": "https://t.me/proxy?server=85.9.221.39&port=443&secret=ee4f78aa8b9f346ca2aba542dd8ea658f07777772e636c6f7564666c6172652e636f6d",
-      "tg_link": "tg://proxy?server=85.9.221.39&port=443&secret=ee4f78aa8b9f346ca2aba542dd8ea658f07777772e636c6f7564666c6172652e636f6d"
-    },
-    {
-      "server": "ykima.davay.click",
-      "port": "443",
-      "secret": "ee06dfdbdf271bab18c6b606484c237384796b696d612e64617661792e636c69636b",
-      "https_link": "https://t.me/proxy?server=ykima.davay.click&port=443&secret=ee06dfdbdf271bab18c6b606484c237384796b696d612e64617661792e636c69636b",
-      "tg_link": "tg://proxy?server=ykima.davay.click&port=443&secret=ee06dfdbdf271bab18c6b606484c237384796b696d612e64617661792e636c69636b"
-    },
-    {
-      "server": "mkima.davay.click",
-      "port": "443",
-      "secret": "ee39300be14c4d54704c92416d555fa7026d6b696d612e64617661792e636c69636b",
-      "https_link": "https://t.me/proxy?server=mkima.davay.click&port=443&secret=ee39300be14c4d54704c92416d555fa7026d6b696d612e64617661792e636c69636b",
-      "tg_link": "tg://proxy?server=mkima.davay.click&port=443&secret=ee39300be14c4d54704c92416d555fa7026d6b696d612e64617661792e636c69636b"
     }
   ]
 }

@@ -1,7 +1,35 @@
 {
-  "updated": "2026-10-03T00:37:59.847651+00:00",
+  "updated": "2026-10-03T06:07:21.885033+00:00",
   "count": 34,
   "proxies": [
+    {
+      "server": "fresco-geyser.driftquill.click",
+      "port": "443",
+      "secret": "ee9991cf136c504f3567fc8d3765529bfe6c69746536342e73697465",
+      "https_link": "https://t.me/proxy?server=fresco-geyser.driftquill.click&port=443&secret=ee9991cf136c504f3567fc8d3765529bfe6c69746536342e73697465",
+      "tg_link": "tg://proxy?server=fresco-geyser.driftquill.click&port=443&secret=ee9991cf136c504f3567fc8d3765529bfe6c69746536342e73697465"
+    },
+    {
+      "server": "fresco-geyser.velvetoak.work",
+      "port": "443",
+      "secret": "ee9991cf136c504f3567fc8d3765529bfe6c69746536342e73697465",
+      "https_link": "https://t.me/proxy?server=fresco-geyser.velvetoak.work&port=443&secret=ee9991cf136c504f3567fc8d3765529bfe6c69746536342e73697465",
+      "tg_link": "tg://proxy?server=fresco-geyser.velvetoak.work&port=443&secret=ee9991cf136c504f3567fc8d3765529bfe6c69746536342e73697465"
+    },
+    {
+      "server": "cosmic.lite64.top",
+      "port": "443",
+      "secret": "eec779188dfeac929a800479281555b92c6c69746536342e73697465",
+      "https_link": "https://t.me/proxy?server=cosmic.lite64.top&port=443&secret=eec779188dfeac929a800479281555b92c6c69746536342e73697465",
+      "tg_link": "tg://proxy?server=cosmic.lite64.top&port=443&secret=eec779188dfeac929a800479281555b92c6c69746536342e73697465"
+    },
+    {
+      "server": "cosmic.lite64.xyz",
+      "port": "443",
+      "secret": "eec779188dfeac929a800479281555b92c6c69746536342e73697465",
+      "https_link": "https://t.me/proxy?server=cosmic.lite64.xyz&port=443&secret=eec779188dfeac929a800479281555b92c6c69746536342e73697465",
+      "tg_link": "tg://proxy?server=cosmic.lite64.xyz&port=443&secret=eec779188dfeac929a800479281555b92c6c69746536342e73697465"
+    },
     {
       "server": "dolphin.lite64.top",
       "port": "443",
@@ -211,34 +239,6 @@
       "secret": "ee0c0cb30201a76f451c5a8f6fa025345f6c69746536342e73697465",
       "https_link": "https://t.me/proxy?server=comet.lite64.xyz&port=443&secret=ee0c0cb30201a76f451c5a8f6fa025345f6c69746536342e73697465",
       "tg_link": "tg://proxy?server=comet.lite64.xyz&port=443&secret=ee0c0cb30201a76f451c5a8f6fa025345f6c69746536342e73697465"
-    },
-    {
-      "server": "flare.lite64.top",
-      "port": "443",
-      "secret": "ee17af6288039c7badd552aeb8a8e69f786c69746536342e73697465",
-      "https_link": "https://t.me/proxy?server=flare.lite64.top&port=443&secret=ee17af6288039c7badd552aeb8a8e69f786c69746536342e73697465",
-      "tg_link": "tg://proxy?server=flare.lite64.top&port=443&secret=ee17af6288039c7badd552aeb8a8e69f786c69746536342e73697465"
-    },
-    {
-      "server": "flare.lite64.xyz",
-      "port": "443",
-      "secret": "ee17af6288039c7badd552aeb8a8e69f786c69746536342e73697465",
-      "https_link": "https://t.me/proxy?server=flare.lite64.xyz&port=443&secret=ee17af6288039c7badd552aeb8a8e69f786c69746536342e73697465",
-      "tg_link": "tg://proxy?server=flare.lite64.xyz&port=443&secret=ee17af6288039c7badd552aeb8a8e69f786c69746536342e73697465"
-    },
-    {
-      "server": "arctic-reef.driftquill.click",
-      "port": "443",
-      "secret": "ee3ec6ef2a09e07413260aba1bc42151f26c69746536342e73697465",
-      "https_link": "https://t.me/proxy?server=arctic-reef.driftquill.click&port=443&secret=ee3ec6ef2a09e07413260aba1bc42151f26c69746536342e73697465",
-      "tg_link": "tg://proxy?server=arctic-reef.driftquill.click&port=443&secret=ee3ec6ef2a09e07413260aba1bc42151f26c69746536342e73697465"
-    },
-    {
-      "server": "arctic-reef.velvetoak.work",
-      "port": "443",
-      "secret": "ee3ec6ef2a09e07413260aba1bc42151f26c69746536342e73697465",
-      "https_link": "https://t.me/proxy?server=arctic-reef.velvetoak.work&port=443&secret=ee3ec6ef2a09e07413260aba1bc42151f26c69746536342e73697465",
-      "tg_link": "tg://proxy?server=arctic-reef.velvetoak.work&port=443&secret=ee3ec6ef2a09e07413260aba1bc42151f26c69746536342e73697465"
     }
   ]
 }

@@ -1,11 +1,41 @@
 [
   {
+    "server": "sun.lanternmoss.top",
+    "port": "443",
+    "secret": "ee0e2327b9decafd82d7ea2050f293458d6c69746536342e73697465",
+    "https_link": "https://t.me/proxy?server=sun.lanternmoss.top&port=443&secret=ee0e2327b9decafd82d7ea2050f293458d6c69746536342e73697465",
+    "tg_link": "tg://proxy?server=sun.lanternmoss.top&port=443&secret=ee0e2327b9decafd82d7ea2050f293458d6c69746536342e73697465",
+    "rtt_ms": 412.6,
+    "dc": 2,
+    "mode": "Mode.FAKETLS"
+  },
+  {
+    "server": "sky.pebblewisp.xyz",
+    "port": "443",
+    "secret": "ee0e2327b9decafd82d7ea2050f293458d6c69746536342e73697465",
+    "https_link": "https://t.me/proxy?server=sky.pebblewisp.xyz&port=443&secret=ee0e2327b9decafd82d7ea2050f293458d6c69746536342e73697465",
+    "tg_link": "tg://proxy?server=sky.pebblewisp.xyz&port=443&secret=ee0e2327b9decafd82d7ea2050f293458d6c69746536342e73697465",
+    "rtt_ms": 458.8,
+    "dc": 2,
+    "mode": "Mode.FAKETLS"
+  },
+  {
+    "server": "nova.lite64.xyz",
+    "port": "443",
+    "secret": "eec6db828a3b461f7d69faca66cb098f4c6c69746536342e73697465",
+    "https_link": "https://t.me/proxy?server=nova.lite64.xyz&port=443&secret=eec6db828a3b461f7d69faca66cb098f4c6c69746536342e73697465",
+    "tg_link": "tg://proxy?server=nova.lite64.xyz&port=443&secret=eec6db828a3b461f7d69faca66cb098f4c6c69746536342e73697465",
+    "rtt_ms": 2254.0,
+    "dc": 2,
+    "mode": "Mode.FAKETLS"
+  },
+  {
     "server": "redflag.yazaebalsyadelatproxy.cc",
     "port": "443",
     "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
     "https_link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
     "tg_link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.cc&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
-    "rtt_ms": 896.7,
+    "rtt_ms": 25488.3,
     "dc": 2,
     "mode": "Mode.FAKETLS"
   }

@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-08T06:29:43.315074+00:00",
-  "count": 17,
+  "updated": "2026-10-08T13:56:28.529970+00:00",
+  "count": 10,
   "proxies": [
     {
       "server": "sky.pebblewisp.xyz",
@@ -17,11 +17,32 @@
       "tg_link": "tg://proxy?server=sun.lanternmoss.top&port=443&secret=ee0e2327b9decafd82d7ea2050f293458d6c69746536342e73697465"
     },
     {
-      "server": "reborn.rebirthconnect.com",
+      "server": "ykima.davay.click",
       "port": "443",
-      "secret": "eeabb5c5430f2510e43863f9b6284f97b37265626f726e2e72656269727468636f6e6e6563742e636f6d",
-      "https_link": "https://t.me/proxy?server=reborn.rebirthconnect.com&port=443&secret=eeabb5c5430f2510e43863f9b6284f97b37265626f726e2e72656269727468636f6e6e6563742e636f6d",
-      "tg_link": "tg://proxy?server=reborn.rebirthconnect.com&port=443&secret=eeabb5c5430f2510e43863f9b6284f97b37265626f726e2e72656269727468636f6e6e6563742e636f6d"
+      "secret": "ee06dfdbdf271bab18c6b606484c237384796b696d612e64617661792e636c69636b",
+      "https_link": "https://t.me/proxy?server=ykima.davay.click&port=443&secret=ee06dfdbdf271bab18c6b606484c237384796b696d612e64617661792e636c69636b",
+      "tg_link": "tg://proxy?server=ykima.davay.click&port=443&secret=ee06dfdbdf271bab18c6b606484c237384796b696d612e64617661792e636c69636b"
+    },
+    {
+      "server": "mkima.davay.click",
+      "port": "443",
+      "secret": "ee39300be14c4d54704c92416d555fa7026d6b696d612e64617661792e636c69636b",
+      "https_link": "https://t.me/proxy?server=mkima.davay.click&port=443&secret=ee39300be14c4d54704c92416d555fa7026d6b696d612e64617661792e636c69636b",
+      "tg_link": "tg://proxy?server=mkima.davay.click&port=443&secret=ee39300be14c4d54704c92416d555fa7026d6b696d612e64617661792e636c69636b"
+    },
+    {
+      "server": "max.kimt.click",
+      "port": "443",
+      "secret": "ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b",
+      "https_link": "https://t.me/proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b",
+      "tg_link": "tg://proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b"
+    },
+    {
+      "server": "as.mkim.click",
+      "port": "443",
+      "secret": "ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b",
+      "https_link": "https://t.me/proxy?server=as.mkim.click&port=443&secret=ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b",
+      "tg_link": "tg://proxy?server=as.mkim.click&port=443&secret=ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b"
     },
     {
       "server": "redflag.yazaebalsyadelatproxy.uk",
@@ -38,20 +59,6 @@
       "tg_link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.co.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
     },
     {
-      "server": "shared.ddproxy.xyz",
-      "port": "443",
-      "secret": "eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275",
-      "https_link": "https://t.me/proxy?server=shared.ddproxy.xyz&port=443&secret=eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275",
-      "tg_link": "tg://proxy?server=shared.ddproxy.xyz&port=443&secret=eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275"
-    },
-    {
-      "server": "shared1.ddproxy.xyz",
-      "port": "443",
-      "secret": "eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275",
-      "https_link": "https://t.me/proxy?server=shared1.ddproxy.xyz&port=443&secret=eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275",
-      "tg_link": "tg://proxy?server=shared1.ddproxy.xyz&port=443&secret=eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275"
-    },
-    {
       "server": "edge.turboass.live",
       "port": "443",
       "secret": "ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665",
@@ -59,67 +66,11 @@
       "tg_link": "tg://proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665"
     },
     {
-      "server": "150.241.103.119",
+      "server": "reborn.rebirthconnect.com",
       "port": "443",
-      "secret": "eec33c876928f0929103a7dfc2703752aa67697465612e6769742e6368726973746d6173",
-      "https_link": "https://t.me/proxy?server=150.241.103.119&port=443&secret=eec33c876928f0929103a7dfc2703752aa67697465612e6769742e6368726973746d6173",
-      "tg_link": "tg://proxy?server=150.241.103.119&port=443&secret=eec33c876928f0929103a7dfc2703752aa67697465612e6769742e6368726973746d6173"
-    },
-    {
-      "server": "138.201.21.32",
-      "port": "8443",
-      "secret": "EERighJJvXrFGRMCIMjdCQ",
-      "https_link": "https://t.me/proxy?server=138.201.21.32&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
-      "tg_link": "tg://proxy?server=138.201.21.32&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
-    },
-    {
-      "server": "167.233.181.223",
-      "port": "8443",
-      "secret": "EERighJJvXrFGRMCIMjdCQ",
-      "https_link": "https://t.me/proxy?server=167.233.181.223&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
-      "tg_link": "tg://proxy?server=167.233.181.223&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
-    },
-    {
-      "server": "85.133.236.41",
-      "port": "8443",
-      "secret": "EERighJJvXrFGRMCIMJdCQ",
-      "https_link": "https://t.me/proxy?server=85.133.236.41&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
-      "tg_link": "tg://proxy?server=85.133.236.41&port=8443&secret=EERighJJvXrFGRMCIMJdCQ"
-    },
-    {
-      "server": "167.233.100.23",
-      "port": "8443",
-      "secret": "EERighJJvXrFGRMCIMjdCQ",
-      "https_link": "https://t.me/proxy?server=167.233.100.23&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
-      "tg_link": "tg://proxy?server=167.233.100.23&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
-    },
-    {
-      "server": "167.233.139.145",
-      "port": "8443",
-      "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-      "https_link": "https://t.me/proxy?server=167.233.139.145&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-      "tg_link": "tg://proxy?server=167.233.139.145&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
-    },
-    {
-      "server": "93.113.230.250",
-      "port": "443",
-      "secret": "dd6a67ae4c2d173b4168745435cb313a39",
-      "https_link": "https://t.me/proxy?server=93.113.230.250&port=443&secret=dd6a67ae4c2d173b4168745435cb313a39",
-      "tg_link": "tg://proxy?server=93.113.230.250&port=443&secret=dd6a67ae4c2d173b4168745435cb313a39"
-    },
-    {
-      "server": "167.233.130.200",
-      "port": "8443",
-      "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-      "https_link": "https://t.me/proxy?server=167.233.130.200&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-      "tg_link": "tg://proxy?server=167.233.130.200&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
-    },
-    {
-      "server": "167.233.134.185",
-      "port": "8443",
-      "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-      "https_link": "https://t.me/proxy?server=167.233.134.185&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-      "tg_link": "tg://proxy?server=167.233.134.185&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+      "secret": "eeabb5c5430f2510e43863f9b6284f97b37265626f726e2e72656269727468636f6e6e6563742e636f6d",
+      "https_link": "https://t.me/proxy?server=reborn.rebirthconnect.com&port=443&secret=eeabb5c5430f2510e43863f9b6284f97b37265626f726e2e72656269727468636f6e6e6563742e636f6d",
+      "tg_link": "tg://proxy?server=reborn.rebirthconnect.com&port=443&secret=eeabb5c5430f2510e43863f9b6284f97b37265626f726e2e72656269727468636f6e6e6563742e636f6d"
     }
   ]
 }

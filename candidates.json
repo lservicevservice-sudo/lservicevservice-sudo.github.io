@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-10T23:43:29.087019+00:00",
-  "count": 11,
+  "updated": "2026-10-11T04:34:20.974171+00:00",
+  "count": 10,
   "proxies": [
     {
       "server": "sky.pebblewisp.xyz",
@@ -71,13 +71,6 @@
       "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
       "https_link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.co.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
       "tg_link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.co.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
-    },
-    {
-      "server": "superdetka.noblok.org",
-      "port": "443",
-      "secret": "ee59523800f28b6c8384f93860bf95630273757065726465746b612e6e6f626c6f6b2e6f7267",
-      "https_link": "https://t.me/proxy?server=superdetka.noblok.org&port=443&secret=ee59523800f28b6c8384f93860bf95630273757065726465746b612e6e6f626c6f6b2e6f7267",
-      "tg_link": "tg://proxy?server=superdetka.noblok.org&port=443&secret=ee59523800f28b6c8384f93860bf95630273757065726465746b612e6e6f626c6f6b2e6f7267"
     }
   ]
 }

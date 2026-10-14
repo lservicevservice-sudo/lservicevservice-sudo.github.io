@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-14T07:54:42.856050+00:00",
+  "updated": "2026-10-14T13:23:36.042059+00:00",
   "count": 9,
   "proxies": [
+    {
+      "server": "pub.ultra-fast.cc",
+      "port": "443",
+      "secret": "eea727b55fa29408edd59b03aacda293ee7075622e756c7472612d666173742e6363",
+      "https_link": "https://t.me/proxy?server=pub.ultra-fast.cc&port=443&secret=eea727b55fa29408edd59b03aacda293ee7075622e756c7472612d666173742e6363",
+      "tg_link": "tg://proxy?server=pub.ultra-fast.cc&port=443&secret=eea727b55fa29408edd59b03aacda293ee7075622e756c7472612d666173742e6363"
+    },
     {
       "server": "sky.pebblewisp.xyz",
       "port": "443",
@@ -15,20 +22,6 @@
       "secret": "ee0e2327b9decafd82d7ea2050f293458d6c69746536342e73697465",
       "https_link": "https://t.me/proxy?server=sun.lanternmoss.top&port=443&secret=ee0e2327b9decafd82d7ea2050f293458d6c69746536342e73697465",
       "tg_link": "tg://proxy?server=sun.lanternmoss.top&port=443&secret=ee0e2327b9decafd82d7ea2050f293458d6c69746536342e73697465"
-    },
-    {
-      "server": "max.kimt.click",
-      "port": "443",
-      "secret": "ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b",
-      "https_link": "https://t.me/proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b",
-      "tg_link": "tg://proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b"
-    },
-    {
-      "server": "as.mkim.click",
-      "port": "443",
-      "secret": "ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b",
-      "https_link": "https://t.me/proxy?server=as.mkim.click&port=443&secret=ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b",
-      "tg_link": "tg://proxy?server=as.mkim.click&port=443&secret=ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b"
     },
     {
       "server": "redflag.yazaebalsyadelatproxy.uk",
@@ -45,6 +38,20 @@
       "tg_link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.co.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
     },
     {
+      "server": "max.kimt.click",
+      "port": "443",
+      "secret": "ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b",
+      "https_link": "https://t.me/proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b",
+      "tg_link": "tg://proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b"
+    },
+    {
+      "server": "as.mkim.click",
+      "port": "443",
+      "secret": "ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b",
+      "https_link": "https://t.me/proxy?server=as.mkim.click&port=443&secret=ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b",
+      "tg_link": "tg://proxy?server=as.mkim.click&port=443&secret=ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b"
+    },
+    {
       "server": "pub.ultra-fast.cc",
       "port": "443",
       "secret": "ee481ab49363e8a17d25393a1cce3d0ced7075622e756c7472612d666173742e6363",
@@ -57,13 +64,6 @@
       "secret": "ee65e2b4d72f5b6dbf24698282d4be7efc796f73746176706e2e6361736163616d2e6e6574",
       "https_link": "https://t.me/proxy?server=yostavpn.casacam.net&port=443&secret=ee65e2b4d72f5b6dbf24698282d4be7efc796f73746176706e2e6361736163616d2e6e6574",
       "tg_link": "tg://proxy?server=yostavpn.casacam.net&port=443&secret=ee65e2b4d72f5b6dbf24698282d4be7efc796f73746176706e2e6361736163616d2e6e6574"
-    },
-    {
-      "server": "surf.suslik-cloud.homes",
-      "port": "443",
-      "secret": "eed7f61466f824eafe116a533553e01bca737572662e7375736c696b2d636c6f75642e686f6d6573",
-      "https_link": "https://t.me/proxy?server=surf.suslik-cloud.homes&port=443&secret=eed7f61466f824eafe116a533553e01bca737572662e7375736c696b2d636c6f75642e686f6d6573",
-      "tg_link": "tg://proxy?server=surf.suslik-cloud.homes&port=443&secret=eed7f61466f824eafe116a533553e01bca737572662e7375736c696b2d636c6f75642e686f6d6573"
     }
   ]
 }

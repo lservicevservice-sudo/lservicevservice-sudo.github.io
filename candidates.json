@@ -1,14 +1,7 @@
 {
-  "updated": "2026-10-14T13:23:36.042059+00:00",
-  "count": 9,
+  "updated": "2026-10-14T18:07:08.021835+00:00",
+  "count": 8,
   "proxies": [
-    {
-      "server": "pub.ultra-fast.cc",
-      "port": "443",
-      "secret": "eea727b55fa29408edd59b03aacda293ee7075622e756c7472612d666173742e6363",
-      "https_link": "https://t.me/proxy?server=pub.ultra-fast.cc&port=443&secret=eea727b55fa29408edd59b03aacda293ee7075622e756c7472612d666173742e6363",
-      "tg_link": "tg://proxy?server=pub.ultra-fast.cc&port=443&secret=eea727b55fa29408edd59b03aacda293ee7075622e756c7472612d666173742e6363"
-    },
     {
       "server": "sky.pebblewisp.xyz",
       "port": "443",
@@ -22,6 +15,13 @@
       "secret": "ee0e2327b9decafd82d7ea2050f293458d6c69746536342e73697465",
       "https_link": "https://t.me/proxy?server=sun.lanternmoss.top&port=443&secret=ee0e2327b9decafd82d7ea2050f293458d6c69746536342e73697465",
       "tg_link": "tg://proxy?server=sun.lanternmoss.top&port=443&secret=ee0e2327b9decafd82d7ea2050f293458d6c69746536342e73697465"
+    },
+    {
+      "server": "pub.ultra-fast.cc",
+      "port": "443",
+      "secret": "eea727b55fa29408edd59b03aacda293ee7075622e756c7472612d666173742e6363",
+      "https_link": "https://t.me/proxy?server=pub.ultra-fast.cc&port=443&secret=eea727b55fa29408edd59b03aacda293ee7075622e756c7472612d666173742e6363",
+      "tg_link": "tg://proxy?server=pub.ultra-fast.cc&port=443&secret=eea727b55fa29408edd59b03aacda293ee7075622e756c7472612d666173742e6363"
     },
     {
       "server": "redflag.yazaebalsyadelatproxy.uk",
@@ -57,13 +57,6 @@
       "secret": "ee481ab49363e8a17d25393a1cce3d0ced7075622e756c7472612d666173742e6363",
       "https_link": "https://t.me/proxy?server=pub.ultra-fast.cc&port=443&secret=ee481ab49363e8a17d25393a1cce3d0ced7075622e756c7472612d666173742e6363",
       "tg_link": "tg://proxy?server=pub.ultra-fast.cc&port=443&secret=ee481ab49363e8a17d25393a1cce3d0ced7075622e756c7472612d666173742e6363"
-    },
-    {
-      "server": "yostavpn.casacam.net",
-      "port": "443",
-      "secret": "ee65e2b4d72f5b6dbf24698282d4be7efc796f73746176706e2e6361736163616d2e6e6574",
-      "https_link": "https://t.me/proxy?server=yostavpn.casacam.net&port=443&secret=ee65e2b4d72f5b6dbf24698282d4be7efc796f73746176706e2e6361736163616d2e6e6574",
-      "tg_link": "tg://proxy?server=yostavpn.casacam.net&port=443&secret=ee65e2b4d72f5b6dbf24698282d4be7efc796f73746176706e2e6361736163616d2e6e6574"
     }
   ]
 }

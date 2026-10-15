@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-15T14:43:13.359897+00:00",
-  "count": 9,
+  "updated": "2026-10-15T18:54:44.566695+00:00",
+  "count": 10,
   "proxies": [
+    {
+      "server": "sky.pebblewisp.xyz",
+      "port": "443",
+      "secret": "ee0e2327b9decafd82d7ea2050f293458d6c69746536342e73697465",
+      "https_link": "https://t.me/proxy?server=sky.pebblewisp.xyz&port=443&secret=ee0e2327b9decafd82d7ea2050f293458d6c69746536342e73697465",
+      "tg_link": "tg://proxy?server=sky.pebblewisp.xyz&port=443&secret=ee0e2327b9decafd82d7ea2050f293458d6c69746536342e73697465"
+    },
+    {
+      "server": "sun.lanternmoss.top",
+      "port": "443",
+      "secret": "ee0e2327b9decafd82d7ea2050f293458d6c69746536342e73697465",
+      "https_link": "https://t.me/proxy?server=sun.lanternmoss.top&port=443&secret=ee0e2327b9decafd82d7ea2050f293458d6c69746536342e73697465",
+      "tg_link": "tg://proxy?server=sun.lanternmoss.top&port=443&secret=ee0e2327b9decafd82d7ea2050f293458d6c69746536342e73697465"
+    },
+    {
+      "server": "pub.ultra-fast.cc",
+      "port": "443",
+      "secret": "ee211e950a8ad1e5d154cee85abfaa06737075622e756c7472612d666173742e6363",
+      "https_link": "https://t.me/proxy?server=pub.ultra-fast.cc&port=443&secret=ee211e950a8ad1e5d154cee85abfaa06737075622e756c7472612d666173742e6363",
+      "tg_link": "tg://proxy?server=pub.ultra-fast.cc&port=443&secret=ee211e950a8ad1e5d154cee85abfaa06737075622e756c7472612d666173742e6363"
+    },
     {
       "server": "redflag.yazaebalsyadelatproxy.uk",
       "port": "443",
@@ -17,25 +38,11 @@
       "tg_link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.co.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
     },
     {
-      "server": "pub.ultra-fast.cc",
+      "server": "topor3.duckdns.org",
       "port": "443",
-      "secret": "ee211e950a8ad1e5d154cee85abfaa06737075622e756c7472612d666173742e6363",
-      "https_link": "https://t.me/proxy?server=pub.ultra-fast.cc&port=443&secret=ee211e950a8ad1e5d154cee85abfaa06737075622e756c7472612d666173742e6363",
-      "tg_link": "tg://proxy?server=pub.ultra-fast.cc&port=443&secret=ee211e950a8ad1e5d154cee85abfaa06737075622e756c7472612d666173742e6363"
-    },
-    {
-      "server": "sky.pebblewisp.xyz",
-      "port": "443",
-      "secret": "ee0e2327b9decafd82d7ea2050f293458d6c69746536342e73697465",
-      "https_link": "https://t.me/proxy?server=sky.pebblewisp.xyz&port=443&secret=ee0e2327b9decafd82d7ea2050f293458d6c69746536342e73697465",
-      "tg_link": "tg://proxy?server=sky.pebblewisp.xyz&port=443&secret=ee0e2327b9decafd82d7ea2050f293458d6c69746536342e73697465"
-    },
-    {
-      "server": "sun.lanternmoss.top",
-      "port": "443",
-      "secret": "ee0e2327b9decafd82d7ea2050f293458d6c69746536342e73697465",
-      "https_link": "https://t.me/proxy?server=sun.lanternmoss.top&port=443&secret=ee0e2327b9decafd82d7ea2050f293458d6c69746536342e73697465",
-      "tg_link": "tg://proxy?server=sun.lanternmoss.top&port=443&secret=ee0e2327b9decafd82d7ea2050f293458d6c69746536342e73697465"
+      "secret": "eeddb6c661f6fdaa29528b3c8fe98f19cd746f706f72332e6475636b646e732e6f7267",
+      "https_link": "https://t.me/proxy?server=topor3.duckdns.org&port=443&secret=eeddb6c661f6fdaa29528b3c8fe98f19cd746f706f72332e6475636b646e732e6f7267",
+      "tg_link": "tg://proxy?server=topor3.duckdns.org&port=443&secret=eeddb6c661f6fdaa29528b3c8fe98f19cd746f706f72332e6475636b646e732e6f7267"
     },
     {
       "server": "max.kimt.click",

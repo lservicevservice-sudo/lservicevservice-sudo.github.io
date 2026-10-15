@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-15T00:18:50.226552+00:00",
-  "count": 8,
+  "updated": "2026-10-15T05:00:09.697989+00:00",
+  "count": 9,
   "proxies": [
+    {
+      "server": "surf.suslik-cloud.homes",
+      "port": "443",
+      "secret": "eed7f61466f824eafe116a533553e01bca737572662e7375736c696b2d636c6f75642e686f6d6573",
+      "https_link": "https://t.me/proxy?server=surf.suslik-cloud.homes&port=443&secret=eed7f61466f824eafe116a533553e01bca737572662e7375736c696b2d636c6f75642e686f6d6573",
+      "tg_link": "tg://proxy?server=surf.suslik-cloud.homes&port=443&secret=eed7f61466f824eafe116a533553e01bca737572662e7375736c696b2d636c6f75642e686f6d6573"
+    },
     {
       "server": "redflag.yazaebalsyadelatproxy.uk",
       "port": "443",

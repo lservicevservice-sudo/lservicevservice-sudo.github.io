@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-16T04:50:34.469960+00:00",
-  "count": 9,
+  "updated": "2026-10-16T09:32:31.210875+00:00",
+  "count": 6,
   "proxies": [
     {
       "server": "sky.pebblewisp.xyz",
@@ -43,27 +43,6 @@
       "secret": "ee211e950a8ad1e5d154cee85abfaa06737075622e756c7472612d666173742e6363",
       "https_link": "https://t.me/proxy?server=pub.ultra-fast.cc&port=443&secret=ee211e950a8ad1e5d154cee85abfaa06737075622e756c7472612d666173742e6363",
       "tg_link": "tg://proxy?server=pub.ultra-fast.cc&port=443&secret=ee211e950a8ad1e5d154cee85abfaa06737075622e756c7472612d666173742e6363"
-    },
-    {
-      "server": "topor3.duckdns.org",
-      "port": "443",
-      "secret": "eeddb6c661f6fdaa29528b3c8fe98f19cd746f706f72332e6475636b646e732e6f7267",
-      "https_link": "https://t.me/proxy?server=topor3.duckdns.org&port=443&secret=eeddb6c661f6fdaa29528b3c8fe98f19cd746f706f72332e6475636b646e732e6f7267",
-      "tg_link": "tg://proxy?server=topor3.duckdns.org&port=443&secret=eeddb6c661f6fdaa29528b3c8fe98f19cd746f706f72332e6475636b646e732e6f7267"
-    },
-    {
-      "server": "max.kimt.click",
-      "port": "443",
-      "secret": "ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b",
-      "https_link": "https://t.me/proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b",
-      "tg_link": "tg://proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b"
-    },
-    {
-      "server": "as.mkim.click",
-      "port": "443",
-      "secret": "ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b",
-      "https_link": "https://t.me/proxy?server=as.mkim.click&port=443&secret=ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b",
-      "tg_link": "tg://proxy?server=as.mkim.click&port=443&secret=ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b"
     }
   ]
 }

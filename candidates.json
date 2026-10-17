@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-17T00:14:50.737574+00:00",
-  "count": 15,
+  "updated": "2026-10-17T04:51:06.219955+00:00",
+  "count": 16,
   "proxies": [
+    {
+      "server": "edge.turboass.live",
+      "port": "443",
+      "secret": "ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665",
+      "https_link": "https://t.me/proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665",
+      "tg_link": "tg://proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665"
+    },
     {
       "server": "redflag.yazaebalsyadelatproxy.uk",
       "port": "443",

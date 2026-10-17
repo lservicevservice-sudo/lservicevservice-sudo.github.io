@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-17T04:51:06.219955+00:00",
+  "updated": "2026-10-17T09:02:49.463362+00:00",
   "count": 16,
   "proxies": [
+    {
+      "server": "sky.pebblewisp.xyz",
+      "port": "443",
+      "secret": "ee0e2327b9decafd82d7ea2050f293458d6c69746536342e73697465",
+      "https_link": "https://t.me/proxy?server=sky.pebblewisp.xyz&port=443&secret=ee0e2327b9decafd82d7ea2050f293458d6c69746536342e73697465",
+      "tg_link": "tg://proxy?server=sky.pebblewisp.xyz&port=443&secret=ee0e2327b9decafd82d7ea2050f293458d6c69746536342e73697465"
+    },
+    {
+      "server": "sun.lanternmoss.top",
+      "port": "443",
+      "secret": "ee0e2327b9decafd82d7ea2050f293458d6c69746536342e73697465",
+      "https_link": "https://t.me/proxy?server=sun.lanternmoss.top&port=443&secret=ee0e2327b9decafd82d7ea2050f293458d6c69746536342e73697465",
+      "tg_link": "tg://proxy?server=sun.lanternmoss.top&port=443&secret=ee0e2327b9decafd82d7ea2050f293458d6c69746536342e73697465"
+    },
     {
       "server": "edge.turboass.live",
       "port": "443",
@@ -29,20 +43,6 @@
       "secret": "eed7f61466f824eafe116a533553e01bca737572662e7375736c696b2d636c6f75642e686f6d6573",
       "https_link": "https://t.me/proxy?server=surf.suslik-cloud.homes&port=443&secret=eed7f61466f824eafe116a533553e01bca737572662e7375736c696b2d636c6f75642e686f6d6573",
       "tg_link": "tg://proxy?server=surf.suslik-cloud.homes&port=443&secret=eed7f61466f824eafe116a533553e01bca737572662e7375736c696b2d636c6f75642e686f6d6573"
-    },
-    {
-      "server": "sky.pebblewisp.xyz",
-      "port": "443",
-      "secret": "ee0e2327b9decafd82d7ea2050f293458d6c69746536342e73697465",
-      "https_link": "https://t.me/proxy?server=sky.pebblewisp.xyz&port=443&secret=ee0e2327b9decafd82d7ea2050f293458d6c69746536342e73697465",
-      "tg_link": "tg://proxy?server=sky.pebblewisp.xyz&port=443&secret=ee0e2327b9decafd82d7ea2050f293458d6c69746536342e73697465"
-    },
-    {
-      "server": "sun.lanternmoss.top",
-      "port": "443",
-      "secret": "ee0e2327b9decafd82d7ea2050f293458d6c69746536342e73697465",
-      "https_link": "https://t.me/proxy?server=sun.lanternmoss.top&port=443&secret=ee0e2327b9decafd82d7ea2050f293458d6c69746536342e73697465",
-      "tg_link": "tg://proxy?server=sun.lanternmoss.top&port=443&secret=ee0e2327b9decafd82d7ea2050f293458d6c69746536342e73697465"
     },
     {
       "server": "free.liphilla.site",

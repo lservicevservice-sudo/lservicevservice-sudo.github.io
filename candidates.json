@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-17T16:35:18.101324+00:00",
-  "count": 16,
+  "updated": "2026-10-17T19:03:41.336125+00:00",
+  "count": 15,
   "proxies": [
     {
       "server": "pub.ultra-fast.cc",
@@ -50,13 +50,6 @@
       "secret": "eed7f61466f824eafe116a533553e01bca737572662e7375736c696b2d636c6f75642e686f6d6573",
       "https_link": "https://t.me/proxy?server=surf.suslik-cloud.homes&port=443&secret=eed7f61466f824eafe116a533553e01bca737572662e7375736c696b2d636c6f75642e686f6d6573",
       "tg_link": "tg://proxy?server=surf.suslik-cloud.homes&port=443&secret=eed7f61466f824eafe116a533553e01bca737572662e7375736c696b2d636c6f75642e686f6d6573"
-    },
-    {
-      "server": "free.liphilla.site",
-      "port": "443",
-      "secret": "eec04546d54303f593ddf6b4a39d28616c6175746f73636f757432342e7275",
-      "https_link": "https://t.me/proxy?server=free.liphilla.site&port=443&secret=eec04546d54303f593ddf6b4a39d28616c6175746f73636f757432342e7275",
-      "tg_link": "tg://proxy?server=free.liphilla.site&port=443&secret=eec04546d54303f593ddf6b4a39d28616c6175746f73636f757432342e7275"
     },
     {
       "server": "194.120.230.106",

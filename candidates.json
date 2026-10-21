@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-21T12:14:05.833601+00:00",
-  "count": 6,
+  "updated": "2026-10-21T17:32:54.212051+00:00",
+  "count": 7,
   "proxies": [
     {
       "server": "sky.pebblewisp.xyz",
@@ -15,6 +15,13 @@
       "secret": "ee0e2327b9decafd82d7ea2050f293458d6c69746536342e73697465",
       "https_link": "https://t.me/proxy?server=sun.lanternmoss.top&port=443&secret=ee0e2327b9decafd82d7ea2050f293458d6c69746536342e73697465",
       "tg_link": "tg://proxy?server=sun.lanternmoss.top&port=443&secret=ee0e2327b9decafd82d7ea2050f293458d6c69746536342e73697465"
+    },
+    {
+      "server": "pub.ultra-fast.cc",
+      "port": "443",
+      "secret": "eedebdc8d4bf59e1be1fac8898c34f11707075622e756c7472612d666173742e6363",
+      "https_link": "https://t.me/proxy?server=pub.ultra-fast.cc&port=443&secret=eedebdc8d4bf59e1be1fac8898c34f11707075622e756c7472612d666173742e6363",
+      "tg_link": "tg://proxy?server=pub.ultra-fast.cc&port=443&secret=eedebdc8d4bf59e1be1fac8898c34f11707075622e756c7472612d666173742e6363"
     },
     {
       "server": "redflag.yazaebalsyadelatproxy.uk",

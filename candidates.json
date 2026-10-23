@@ -1,13 +1,48 @@
 {
-  "updated": "2026-10-23T01:45:12.670832+00:00",
-  "count": 7,
+  "updated": "2026-10-23T07:05:47.089433+00:00",
+  "count": 11,
   "proxies": [
     {
-      "server": "redflag.yazaebalsyadelatproxy.uk",
+      "server": "cloud-lemon.driftquill.click",
       "port": "443",
-      "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
-      "https_link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
-      "tg_link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
+      "secret": "ee7bc3f3b1ac1066578b6793b60dff704b636c6f75642d6c656d6f6e2e64726966747175696c6c2e636c69636b",
+      "https_link": "https://t.me/proxy?server=cloud-lemon.driftquill.click&port=443&secret=ee7bc3f3b1ac1066578b6793b60dff704b636c6f75642d6c656d6f6e2e64726966747175696c6c2e636c69636b",
+      "tg_link": "tg://proxy?server=cloud-lemon.driftquill.click&port=443&secret=ee7bc3f3b1ac1066578b6793b60dff704b636c6f75642d6c656d6f6e2e64726966747175696c6c2e636c69636b"
+    },
+    {
+      "server": "cloud-lemon.velvetoak.work",
+      "port": "443",
+      "secret": "ee7bc3f3b1ac1066578b6793b60dff704b636c6f75642d6c656d6f6e2e76656c7665746f616b2e776f726b",
+      "https_link": "https://t.me/proxy?server=cloud-lemon.velvetoak.work&port=443&secret=ee7bc3f3b1ac1066578b6793b60dff704b636c6f75642d6c656d6f6e2e76656c7665746f616b2e776f726b",
+      "tg_link": "tg://proxy?server=cloud-lemon.velvetoak.work&port=443&secret=ee7bc3f3b1ac1066578b6793b60dff704b636c6f75642d6c656d6f6e2e76656c7665746f616b2e776f726b"
+    },
+    {
+      "server": "gram.blog",
+      "port": "853",
+      "secret": "ee695c0e4188358e4ebb6d7a489185f6a96d742e6772616d2e796f75",
+      "https_link": "https://t.me/proxy?server=gram.blog&port=853&secret=ee695c0e4188358e4ebb6d7a489185f6a96d742e6772616d2e796f75",
+      "tg_link": "tg://proxy?server=gram.blog&port=853&secret=ee695c0e4188358e4ebb6d7a489185f6a96d742e6772616d2e796f75"
+    },
+    {
+      "server": "mtproxygram.lol",
+      "port": "853",
+      "secret": "ee608f40eb7d1aad1fbc6405c5ed2669616d742e6d7470726f78796772616d2e6f6e6c696e65",
+      "https_link": "https://t.me/proxy?server=mtproxygram.lol&port=853&secret=ee608f40eb7d1aad1fbc6405c5ed2669616d742e6d7470726f78796772616d2e6f6e6c696e65",
+      "tg_link": "tg://proxy?server=mtproxygram.lol&port=853&secret=ee608f40eb7d1aad1fbc6405c5ed2669616d742e6d7470726f78796772616d2e6f6e6c696e65"
+    },
+    {
+      "server": "ermine-brook.driftquill.click",
+      "port": "443",
+      "secret": "ee3aa40d5656fb86a4769446c1db9c7ae265726d696e652d62726f6f6b2e64726966747175696c6c2e636c69636b",
+      "https_link": "https://t.me/proxy?server=ermine-brook.driftquill.click&port=443&secret=ee3aa40d5656fb86a4769446c1db9c7ae265726d696e652d62726f6f6b2e64726966747175696c6c2e636c69636b",
+      "tg_link": "tg://proxy?server=ermine-brook.driftquill.click&port=443&secret=ee3aa40d5656fb86a4769446c1db9c7ae265726d696e652d62726f6f6b2e64726966747175696c6c2e636c69636b"
+    },
+    {
+      "server": "ermine-brook.velvetoak.work",
+      "port": "443",
+      "secret": "ee3aa40d5656fb86a4769446c1db9c7ae265726d696e652d62726f6f6b2e76656c7665746f616b2e776f726b",
+      "https_link": "https://t.me/proxy?server=ermine-brook.velvetoak.work&port=443&secret=ee3aa40d5656fb86a4769446c1db9c7ae265726d696e652d62726f6f6b2e76656c7665746f616b2e776f726b",
+      "tg_link": "tg://proxy?server=ermine-brook.velvetoak.work&port=443&secret=ee3aa40d5656fb86a4769446c1db9c7ae265726d696e652d62726f6f6b2e76656c7665746f616b2e776f726b"
     },
     {
       "server": "redflag.yazaebalsyadelatproxy.co.uk",
@@ -15,6 +50,13 @@
       "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
       "https_link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.co.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
       "tg_link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.co.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
+    },
+    {
+      "server": "redflag.yazaebalsyadelatproxy.uk",
+      "port": "443",
+      "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
+      "https_link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
+      "tg_link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
     },
     {
       "server": "sky.pebblewisp.xyz",
@@ -36,20 +78,6 @@
       "secret": "eecad23b6df92986eb1f0f72450c7f3a7a7075622e756c7472612d666173742e6363",
       "https_link": "https://t.me/proxy?server=pub.ultra-fast.cc&port=443&secret=eecad23b6df92986eb1f0f72450c7f3a7a7075622e756c7472612d666173742e6363",
       "tg_link": "tg://proxy?server=pub.ultra-fast.cc&port=443&secret=eecad23b6df92986eb1f0f72450c7f3a7a7075622e756c7472612d666173742e6363"
-    },
-    {
-      "server": "gram.blog",
-      "port": "853",
-      "secret": "ee695c0e4188358e4ebb6d7a489185f6a96d742e6772616d2e796f75",
-      "https_link": "https://t.me/proxy?server=gram.blog&port=853&secret=ee695c0e4188358e4ebb6d7a489185f6a96d742e6772616d2e796f75",
-      "tg_link": "tg://proxy?server=gram.blog&port=853&secret=ee695c0e4188358e4ebb6d7a489185f6a96d742e6772616d2e796f75"
-    },
-    {
-      "server": "mtproxygram.lol",
-      "port": "853",
-      "secret": "ee608f40eb7d1aad1fbc6405c5ed2669616d742e6d7470726f78796772616d2e6f6e6c696e65",
-      "https_link": "https://t.me/proxy?server=mtproxygram.lol&port=853&secret=ee608f40eb7d1aad1fbc6405c5ed2669616d742e6d7470726f78796772616d2e6f6e6c696e65",
-      "tg_link": "tg://proxy?server=mtproxygram.lol&port=853&secret=ee608f40eb7d1aad1fbc6405c5ed2669616d742e6d7470726f78796772616d2e6f6e6c696e65"
     }
   ]
 }

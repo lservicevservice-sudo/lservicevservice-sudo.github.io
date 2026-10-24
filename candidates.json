@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-24T13:09:05.972326+00:00",
-  "count": 30,
+  "updated": "2026-10-24T16:48:43.167809+00:00",
+  "count": 26,
   "proxies": [
     {
       "server": "sky.pebblewisp.xyz",
@@ -57,34 +57,6 @@
       "secret": "ee9c61297d8f32d855712bd6c9bfad3fd76172676f6e2d61636f726e2e76656c7665746f616b2e776f726b",
       "https_link": "https://t.me/proxy?server=argon-acorn.velvetoak.work&port=443&secret=ee9c61297d8f32d855712bd6c9bfad3fd76172676f6e2d61636f726e2e76656c7665746f616b2e776f726b",
       "tg_link": "tg://proxy?server=argon-acorn.velvetoak.work&port=443&secret=ee9c61297d8f32d855712bd6c9bfad3fd76172676f6e2d61636f726e2e76656c7665746f616b2e776f726b"
-    },
-    {
-      "server": "beryl-sky.driftquill.click",
-      "port": "443",
-      "secret": "eee9d789556129383a1bfcf42889efc617626572796c2d736b792e64726966747175696c6c2e636c69636b",
-      "https_link": "https://t.me/proxy?server=beryl-sky.driftquill.click&port=443&secret=eee9d789556129383a1bfcf42889efc617626572796c2d736b792e64726966747175696c6c2e636c69636b",
-      "tg_link": "tg://proxy?server=beryl-sky.driftquill.click&port=443&secret=eee9d789556129383a1bfcf42889efc617626572796c2d736b792e64726966747175696c6c2e636c69636b"
-    },
-    {
-      "server": "beryl-sky.velvetoak.work",
-      "port": "443",
-      "secret": "eee9d789556129383a1bfcf42889efc617626572796c2d736b792e76656c7665746f616b2e776f726b",
-      "https_link": "https://t.me/proxy?server=beryl-sky.velvetoak.work&port=443&secret=eee9d789556129383a1bfcf42889efc617626572796c2d736b792e76656c7665746f616b2e776f726b",
-      "tg_link": "tg://proxy?server=beryl-sky.velvetoak.work&port=443&secret=eee9d789556129383a1bfcf42889efc617626572796c2d736b792e76656c7665746f616b2e776f726b"
-    },
-    {
-      "server": "cameo-crimson.driftquill.click",
-      "port": "443",
-      "secret": "ee56cd3af2edbf57dcd353d3923be3adba63616d656f2d6372696d736f6e2e64726966747175696c6c2e636c69636b",
-      "https_link": "https://t.me/proxy?server=cameo-crimson.driftquill.click&port=443&secret=ee56cd3af2edbf57dcd353d3923be3adba63616d656f2d6372696d736f6e2e64726966747175696c6c2e636c69636b",
-      "tg_link": "tg://proxy?server=cameo-crimson.driftquill.click&port=443&secret=ee56cd3af2edbf57dcd353d3923be3adba63616d656f2d6372696d736f6e2e64726966747175696c6c2e636c69636b"
-    },
-    {
-      "server": "cameo-crimson.velvetoak.work",
-      "port": "443",
-      "secret": "ee56cd3af2edbf57dcd353d3923be3adba63616d656f2d6372696d736f6e2e76656c7665746f616b2e776f726b",
-      "https_link": "https://t.me/proxy?server=cameo-crimson.velvetoak.work&port=443&secret=ee56cd3af2edbf57dcd353d3923be3adba63616d656f2d6372696d736f6e2e76656c7665746f616b2e776f726b",
-      "tg_link": "tg://proxy?server=cameo-crimson.velvetoak.work&port=443&secret=ee56cd3af2edbf57dcd353d3923be3adba63616d656f2d6372696d736f6e2e76656c7665746f616b2e776f726b"
     },
     {
       "server": "stone.velvetoak.work",

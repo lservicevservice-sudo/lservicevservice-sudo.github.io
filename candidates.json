@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-26T19:50:20.479948+00:00",
-  "count": 17,
+  "updated": "2026-10-26T23:36:45.811029+00:00",
+  "count": 16,
   "proxies": [
+    {
+      "server": "edge.turboass.live",
+      "port": "443",
+      "secret": "ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665",
+      "https_link": "https://t.me/proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665",
+      "tg_link": "tg://proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665"
+    },
     {
       "server": "pub.ultra-fast.cc",
       "port": "443",
@@ -106,20 +113,6 @@
       "secret": "eedc11b820c9d7ee0cac5976e33ca2808f7075622e756c7472612d666173742e6363",
       "https_link": "https://t.me/proxy?server=pub.ultra-fast.cc&port=443&secret=eedc11b820c9d7ee0cac5976e33ca2808f7075622e756c7472612d666173742e6363",
       "tg_link": "tg://proxy?server=pub.ultra-fast.cc&port=443&secret=eedc11b820c9d7ee0cac5976e33ca2808f7075622e756c7472612d666173742e6363"
-    },
-    {
-      "server": "sky.pebblewisp.xyz",
-      "port": "443",
-      "secret": "ee0e2327b9decafd82d7ea2050f293458d736b792e706562626c65776973702e78797a",
-      "https_link": "https://t.me/proxy?server=sky.pebblewisp.xyz&port=443&secret=ee0e2327b9decafd82d7ea2050f293458d736b792e706562626c65776973702e78797a",
-      "tg_link": "tg://proxy?server=sky.pebblewisp.xyz&port=443&secret=ee0e2327b9decafd82d7ea2050f293458d736b792e706562626c65776973702e78797a"
-    },
-    {
-      "server": "sun.lanternmoss.top",
-      "port": "443",
-      "secret": "ee0e2327b9decafd82d7ea2050f293458d73756e2e6c616e7465726e6d6f73732e746f70",
-      "https_link": "https://t.me/proxy?server=sun.lanternmoss.top&port=443&secret=ee0e2327b9decafd82d7ea2050f293458d73756e2e6c616e7465726e6d6f73732e746f70",
-      "tg_link": "tg://proxy?server=sun.lanternmoss.top&port=443&secret=ee0e2327b9decafd82d7ea2050f293458d73756e2e6c616e7465726e6d6f73732e746f70"
     }
   ]
 }

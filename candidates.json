@@ -1,14 +1,7 @@
 {
-  "updated": "2026-10-30T18:44:52.944820+00:00",
+  "updated": "2026-10-30T22:49:01.838230+00:00",
   "count": 10,
   "proxies": [
-    {
-      "server": "pub.ultra-fast.cc",
-      "port": "443",
-      "secret": "ee4d6e58f9e43779a5615f165cd3c6236a7075622e756c7472612d666173742e6363",
-      "https_link": "https://t.me/proxy?server=pub.ultra-fast.cc&port=443&secret=ee4d6e58f9e43779a5615f165cd3c6236a7075622e756c7472612d666173742e6363",
-      "tg_link": "tg://proxy?server=pub.ultra-fast.cc&port=443&secret=ee4d6e58f9e43779a5615f165cd3c6236a7075622e756c7472612d666173742e6363"
-    },
     {
       "server": "redflag.yazaebalsyadelatproxy.co.uk",
       "port": "443",
@@ -22,6 +15,20 @@
       "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
       "https_link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
       "tg_link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
+    },
+    {
+      "server": "surf.suslik-cloud.com",
+      "port": "443",
+      "secret": "eed7f61466f824eafe116a533553e01bca737572662e7375736c696b2d636c6f75642e636f6d",
+      "https_link": "https://t.me/proxy?server=surf.suslik-cloud.com&port=443&secret=eed7f61466f824eafe116a533553e01bca737572662e7375736c696b2d636c6f75642e636f6d",
+      "tg_link": "tg://proxy?server=surf.suslik-cloud.com&port=443&secret=eed7f61466f824eafe116a533553e01bca737572662e7375736c696b2d636c6f75642e636f6d"
+    },
+    {
+      "server": "pub.ultra-fast.cc",
+      "port": "443",
+      "secret": "ee4d6e58f9e43779a5615f165cd3c6236a7075622e756c7472612d666173742e6363",
+      "https_link": "https://t.me/proxy?server=pub.ultra-fast.cc&port=443&secret=ee4d6e58f9e43779a5615f165cd3c6236a7075622e756c7472612d666173742e6363",
+      "tg_link": "tg://proxy?server=pub.ultra-fast.cc&port=443&secret=ee4d6e58f9e43779a5615f165cd3c6236a7075622e756c7472612d666173742e6363"
     },
     {
       "server": "max.kimt.click",
@@ -64,13 +71,6 @@
       "secret": "ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d",
       "https_link": "https://t.me/proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d",
       "tg_link": "tg://proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d"
-    },
-    {
-      "server": "surf.suslik-cloud.com",
-      "port": "443",
-      "secret": "eed7f61466f824eafe116a533553e01bca737572662e7375736c696b2d636c6f75642e636f6d",
-      "https_link": "https://t.me/proxy?server=surf.suslik-cloud.com&port=443&secret=eed7f61466f824eafe116a533553e01bca737572662e7375736c696b2d636c6f75642e636f6d",
-      "tg_link": "tg://proxy?server=surf.suslik-cloud.com&port=443&secret=eed7f61466f824eafe116a533553e01bca737572662e7375736c696b2d636c6f75642e636f6d"
     }
   ]
 }

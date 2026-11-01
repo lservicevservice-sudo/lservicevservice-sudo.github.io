@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-01T08:55:50.881407+00:00",
-  "count": 28,
+  "updated": "2026-11-01T15:52:49.929830+00:00",
+  "count": 27,
   "proxies": [
     {
       "server": "max.kimt.click",
@@ -17,48 +17,6 @@
       "tg_link": "tg://proxy?server=as.mkim.click&port=443&secret=ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b"
     },
     {
-      "server": "ravira57.foxglade.xyz",
-      "port": "443",
-      "secret": "ee7cd4b962b2230b9a6f668711a9d8196572617669726135372e666f78676c6164652e78797a",
-      "https_link": "https://t.me/proxy?server=ravira57.foxglade.xyz&port=443&secret=ee7cd4b962b2230b9a6f668711a9d8196572617669726135372e666f78676c6164652e78797a",
-      "tg_link": "tg://proxy?server=ravira57.foxglade.xyz&port=443&secret=ee7cd4b962b2230b9a6f668711a9d8196572617669726135372e666f78676c6164652e78797a"
-    },
-    {
-      "server": "raleto69.fernlark.xyz",
-      "port": "443",
-      "secret": "ee8ac4f89d6036e07f6ff9e00b1699819e72616c65746f36392e6665726e6c61726b2e78797a",
-      "https_link": "https://t.me/proxy?server=raleto69.fernlark.xyz&port=443&secret=ee8ac4f89d6036e07f6ff9e00b1699819e72616c65746f36392e6665726e6c61726b2e78797a",
-      "tg_link": "tg://proxy?server=raleto69.fernlark.xyz&port=443&secret=ee8ac4f89d6036e07f6ff9e00b1699819e72616c65746f36392e6665726e6c61726b2e78797a"
-    },
-    {
-      "server": "redflag.yazaebalsyadelatproxy.co.uk",
-      "port": "443",
-      "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
-      "https_link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.co.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
-      "tg_link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.co.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
-    },
-    {
-      "server": "redflag.yazaebalsyadelatproxy.uk",
-      "port": "443",
-      "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
-      "https_link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
-      "tg_link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
-    },
-    {
-      "server": "pub.ultra-fast.cc",
-      "port": "443",
-      "secret": "ee74c51aade2b67faa2e6857113a07c3e17075622e756c7472612d666173742e6363",
-      "https_link": "https://t.me/proxy?server=pub.ultra-fast.cc&port=443&secret=ee74c51aade2b67faa2e6857113a07c3e17075622e756c7472612d666173742e6363",
-      "tg_link": "tg://proxy?server=pub.ultra-fast.cc&port=443&secret=ee74c51aade2b67faa2e6857113a07c3e17075622e756c7472612d666173742e6363"
-    },
-    {
-      "server": "static.antenna-mzt.live",
-      "port": "443",
-      "secret": "ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d",
-      "https_link": "https://t.me/proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d",
-      "tg_link": "tg://proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d"
-    },
-    {
       "server": "chestno.servera-dlya-tg-zdes-net.abrdns.com",
       "port": "443",
       "secret": "eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275",
@@ -73,11 +31,46 @@
       "tg_link": "tg://proxy?server=shared.ddproxy.xyz&port=443&secret=eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275"
     },
     {
-      "server": "fi.novitron.site",
+      "server": "redflag.yazaebalsyadelatproxy.uk",
       "port": "443",
-      "secret": "eed8edb898a8f1cceb9ecc234ac83f2a337765622e6e6f766974726f6e2e73697465",
-      "https_link": "https://t.me/proxy?server=fi.novitron.site&port=443&secret=eed8edb898a8f1cceb9ecc234ac83f2a337765622e6e6f766974726f6e2e73697465",
-      "tg_link": "tg://proxy?server=fi.novitron.site&port=443&secret=eed8edb898a8f1cceb9ecc234ac83f2a337765622e6e6f766974726f6e2e73697465"
+      "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
+      "https_link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
+      "tg_link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
+    },
+    {
+      "server": "redflag.yazaebalsyadelatproxy.co.uk",
+      "port": "443",
+      "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
+      "https_link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.co.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
+      "tg_link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.co.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
+    },
+    {
+      "server": "ravira57.foxglade.xyz",
+      "port": "443",
+      "secret": "ee7cd4b962b2230b9a6f668711a9d8196572617669726135372e666f78676c6164652e78797a",
+      "https_link": "https://t.me/proxy?server=ravira57.foxglade.xyz&port=443&secret=ee7cd4b962b2230b9a6f668711a9d8196572617669726135372e666f78676c6164652e78797a",
+      "tg_link": "tg://proxy?server=ravira57.foxglade.xyz&port=443&secret=ee7cd4b962b2230b9a6f668711a9d8196572617669726135372e666f78676c6164652e78797a"
+    },
+    {
+      "server": "raleto69.fernlark.xyz",
+      "port": "443",
+      "secret": "ee8ac4f89d6036e07f6ff9e00b1699819e72616c65746f36392e6665726e6c61726b2e78797a",
+      "https_link": "https://t.me/proxy?server=raleto69.fernlark.xyz&port=443&secret=ee8ac4f89d6036e07f6ff9e00b1699819e72616c65746f36392e6665726e6c61726b2e78797a",
+      "tg_link": "tg://proxy?server=raleto69.fernlark.xyz&port=443&secret=ee8ac4f89d6036e07f6ff9e00b1699819e72616c65746f36392e6665726e6c61726b2e78797a"
+    },
+    {
+      "server": "pub.ultra-fast.cc",
+      "port": "443",
+      "secret": "ee74c51aade2b67faa2e6857113a07c3e17075622e756c7472612d666173742e6363",
+      "https_link": "https://t.me/proxy?server=pub.ultra-fast.cc&port=443&secret=ee74c51aade2b67faa2e6857113a07c3e17075622e756c7472612d666173742e6363",
+      "tg_link": "tg://proxy?server=pub.ultra-fast.cc&port=443&secret=ee74c51aade2b67faa2e6857113a07c3e17075622e756c7472612d666173742e6363"
+    },
+    {
+      "server": "static.antenna-mzt.live",
+      "port": "443",
+      "secret": "ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d",
+      "https_link": "https://t.me/proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d",
+      "tg_link": "tg://proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d"
     },
     {
       "server": "tundra.fernlark.xyz",

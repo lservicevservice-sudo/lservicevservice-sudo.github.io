@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T21:23:56.778157+00:00",
+  "updated": "2026-11-10T03:43:20.262380+00:00",
   "count": 20,
   "proxies": [
     {
@@ -66,18 +66,18 @@
       "tg_link": "tg://proxy?server=nymika69.mosswren.vip&port=8443&secret=ee219dc1aaf0a73a3838af26cd2f6245ee64726976652e676f6f676c652e636f6d"
     },
     {
-      "server": "mt1.leeroy.uz",
-      "port": "443",
-      "secret": "eede199cd5cc7674e522ef10f4359224d36d2e6265626f6f2e7275",
-      "https_link": "https://t.me/proxy?server=mt1.leeroy.uz&port=443&secret=eede199cd5cc7674e522ef10f4359224d36d2e6265626f6f2e7275",
-      "tg_link": "tg://proxy?server=mt1.leeroy.uz&port=443&secret=eede199cd5cc7674e522ef10f4359224d36d2e6265626f6f2e7275"
-    },
-    {
       "server": "mt2.leeroy.uz",
       "port": "443",
       "secret": "eede199cd5cc7674e522ef10f4359224d36d2e6265626f6f2e7275",
       "https_link": "https://t.me/proxy?server=mt2.leeroy.uz&port=443&secret=eede199cd5cc7674e522ef10f4359224d36d2e6265626f6f2e7275",
       "tg_link": "tg://proxy?server=mt2.leeroy.uz&port=443&secret=eede199cd5cc7674e522ef10f4359224d36d2e6265626f6f2e7275"
+    },
+    {
+      "server": "mt1.leeroy.uz",
+      "port": "443",
+      "secret": "eede199cd5cc7674e522ef10f4359224d36d2e6265626f6f2e7275",
+      "https_link": "https://t.me/proxy?server=mt1.leeroy.uz&port=443&secret=eede199cd5cc7674e522ef10f4359224d36d2e6265626f6f2e7275",
+      "tg_link": "tg://proxy?server=mt1.leeroy.uz&port=443&secret=eede199cd5cc7674e522ef10f4359224d36d2e6265626f6f2e7275"
     },
     {
       "server": "sukapo16.foxglade.xyz",

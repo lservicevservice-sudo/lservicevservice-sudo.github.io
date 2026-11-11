@@ -1,7 +1,21 @@
 {
-  "updated": "2026-11-10T19:55:06.234432+00:00",
-  "count": 26,
+  "updated": "2026-11-11T00:27:20.617801+00:00",
+  "count": 27,
   "proxies": [
+    {
+      "server": "mt3.leeroy.uz",
+      "port": "443",
+      "secret": "eede199cd5cc7674e522ef10f4359224d36d2e6265626f6f2e7275",
+      "https_link": "https://t.me/proxy?server=mt3.leeroy.uz&port=443&secret=eede199cd5cc7674e522ef10f4359224d36d2e6265626f6f2e7275",
+      "tg_link": "tg://proxy?server=mt3.leeroy.uz&port=443&secret=eede199cd5cc7674e522ef10f4359224d36d2e6265626f6f2e7275"
+    },
+    {
+      "server": "mt1.leeroy.uz",
+      "port": "443",
+      "secret": "eede199cd5cc7674e522ef10f4359224d36d2e6265626f6f2e7275",
+      "https_link": "https://t.me/proxy?server=mt1.leeroy.uz&port=443&secret=eede199cd5cc7674e522ef10f4359224d36d2e6265626f6f2e7275",
+      "tg_link": "tg://proxy?server=mt1.leeroy.uz&port=443&secret=eede199cd5cc7674e522ef10f4359224d36d2e6265626f6f2e7275"
+    },
     {
       "server": "surf.suslik-cloud.com",
       "port": "443",
@@ -113,13 +127,6 @@
       "secret": "eede199cd5cc7674e522ef10f4359224d36d2e6265626f6f2e7275",
       "https_link": "https://t.me/proxy?server=mt2.leeroy.uz&port=443&secret=eede199cd5cc7674e522ef10f4359224d36d2e6265626f6f2e7275",
       "tg_link": "tg://proxy?server=mt2.leeroy.uz&port=443&secret=eede199cd5cc7674e522ef10f4359224d36d2e6265626f6f2e7275"
-    },
-    {
-      "server": "mt3.leeroy.uz",
-      "port": "443",
-      "secret": "eede199cd5cc7674e522ef10f4359224d36d2e6265626f6f2e7275",
-      "https_link": "https://t.me/proxy?server=mt3.leeroy.uz&port=443&secret=eede199cd5cc7674e522ef10f4359224d36d2e6265626f6f2e7275",
-      "tg_link": "tg://proxy?server=mt3.leeroy.uz&port=443&secret=eede199cd5cc7674e522ef10f4359224d36d2e6265626f6f2e7275"
     },
     {
       "server": "193.111.248.244",

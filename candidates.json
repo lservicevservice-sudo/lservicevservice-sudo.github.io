@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-14T20:28:47.557668+00:00",
-  "count": 26,
+  "updated": "2026-11-15T00:10:19.880560+00:00",
+  "count": 24,
   "proxies": [
     {
       "server": "surf.suslik-cloud.com",
@@ -71,20 +71,6 @@
       "secret": "ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d",
       "https_link": "https://t.me/proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d",
       "tg_link": "tg://proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d"
-    },
-    {
-      "server": "viny39.mosswren.vip",
-      "port": "8443",
-      "secret": "eebe679b4dc0e994889bb8293fc71ba1a8786170692e6f7a6f6e2e7275",
-      "https_link": "https://t.me/proxy?server=viny39.mosswren.vip&port=8443&secret=eebe679b4dc0e994889bb8293fc71ba1a8786170692e6f7a6f6e2e7275",
-      "tg_link": "tg://proxy?server=viny39.mosswren.vip&port=8443&secret=eebe679b4dc0e994889bb8293fc71ba1a8786170692e6f7a6f6e2e7275"
-    },
-    {
-      "server": "ganemi87.tidelark.cc",
-      "port": "8443",
-      "secret": "eedc3799b42ede3b50888183dcda40d67064726976652e676f6f676c652e636f6d",
-      "https_link": "https://t.me/proxy?server=ganemi87.tidelark.cc&port=8443&secret=eedc3799b42ede3b50888183dcda40d67064726976652e676f6f676c652e636f6d",
-      "tg_link": "tg://proxy?server=ganemi87.tidelark.cc&port=8443&secret=eedc3799b42ede3b50888183dcda40d67064726976652e676f6f676c652e636f6d"
     },
     {
       "server": "monaliiiz.www.n.hamintori.co.uk",

@@ -1,13 +1,27 @@
 {
-  "updated": "2026-11-16T07:05:47.532764+00:00",
-  "count": 10,
+  "updated": "2026-11-16T17:17:59.558093+00:00",
+  "count": 11,
   "proxies": [
     {
-      "server": "surf.suslik-cloud.com",
+      "server": "t3.myrka.digital",
+      "port": "444",
+      "secret": "ee8888777766665555444433332222111174332e6d79726b612e6469676974616c",
+      "https_link": "https://t.me/proxy?server=t3.myrka.digital&port=444&secret=ee8888777766665555444433332222111174332e6d79726b612e6469676974616c",
+      "tg_link": "tg://proxy?server=t3.myrka.digital&port=444&secret=ee8888777766665555444433332222111174332e6d79726b612e6469676974616c"
+    },
+    {
+      "server": "jarko.myrka.digital",
       "port": "443",
-      "secret": "eed7f61466f824eafe116a533553e01bca737572662e7375736c696b2d636c6f75642e636f6d",
-      "https_link": "https://t.me/proxy?server=surf.suslik-cloud.com&port=443&secret=eed7f61466f824eafe116a533553e01bca737572662e7375736c696b2d636c6f75642e636f6d",
-      "tg_link": "tg://proxy?server=surf.suslik-cloud.com&port=443&secret=eed7f61466f824eafe116a533553e01bca737572662e7375736c696b2d636c6f75642e636f6d"
+      "secret": "ee04daa35f7150d1d16c43f270c26831086a61726b6f2e6d79726b612e6469676974616c",
+      "https_link": "https://t.me/proxy?server=jarko.myrka.digital&port=443&secret=ee04daa35f7150d1d16c43f270c26831086a61726b6f2e6d79726b612e6469676974616c",
+      "tg_link": "tg://proxy?server=jarko.myrka.digital&port=443&secret=ee04daa35f7150d1d16c43f270c26831086a61726b6f2e6d79726b612e6469676974616c"
+    },
+    {
+      "server": "awd.subaru-volga.com",
+      "port": "443",
+      "secret": "ee1111222233334444555566667777888874342e6d79726b612e6469676974616c",
+      "https_link": "https://t.me/proxy?server=awd.subaru-volga.com&port=443&secret=ee1111222233334444555566667777888874342e6d79726b612e6469676974616c",
+      "tg_link": "tg://proxy?server=awd.subaru-volga.com&port=443&secret=ee1111222233334444555566667777888874342e6d79726b612e6469676974616c"
     },
     {
       "server": "barsik.subaru-volga.com",
@@ -17,46 +31,18 @@
       "tg_link": "tg://proxy?server=barsik.subaru-volga.com&port=443&secret=ee04daa35f7150d1d16c43f270c26831086a61726b6f2e6d79726b612e6469676974616c"
     },
     {
-      "server": "kvas.kemerovo.online",
-      "port": "8443",
-      "secret": "ee888877776666555544443333222211117474322e6d79726b612e6469676974616c",
-      "https_link": "https://t.me/proxy?server=kvas.kemerovo.online&port=8443&secret=ee888877776666555544443333222211117474322e6d79726b612e6469676974616c",
-      "tg_link": "tg://proxy?server=kvas.kemerovo.online&port=8443&secret=ee888877776666555544443333222211117474322e6d79726b612e6469676974616c"
-    },
-    {
-      "server": "104.252.111.4",
-      "port": "9443",
-      "secret": "dddcf34283cd63a30e4c024e07d2c0cc0c",
-      "https_link": "https://t.me/proxy?server=104.252.111.4&port=9443&secret=dddcf34283cd63a30e4c024e07d2c0cc0c",
-      "tg_link": "tg://proxy?server=104.252.111.4&port=9443&secret=dddcf34283cd63a30e4c024e07d2c0cc0c"
-    },
-    {
-      "server": "t3.myrka.digital",
-      "port": "444",
-      "secret": "ee8888777766665555444433332222111174332e6d79726b612e6469676974616c",
-      "https_link": "https://t.me/proxy?server=t3.myrka.digital&port=444&secret=ee8888777766665555444433332222111174332e6d79726b612e6469676974616c",
-      "tg_link": "tg://proxy?server=t3.myrka.digital&port=444&secret=ee8888777766665555444433332222111174332e6d79726b612e6469676974616c"
-    },
-    {
-      "server": "irl.firemedia.digital",
+      "server": "max.kimt.click",
       "port": "443",
-      "secret": "eeadd144b0531c1a9f5947e3cb29dc4fd569726c2e666972656d656469612e6469676974616c",
-      "https_link": "https://t.me/proxy?server=irl.firemedia.digital&port=443&secret=eeadd144b0531c1a9f5947e3cb29dc4fd569726c2e666972656d656469612e6469676974616c",
-      "tg_link": "tg://proxy?server=irl.firemedia.digital&port=443&secret=eeadd144b0531c1a9f5947e3cb29dc4fd569726c2e666972656d656469612e6469676974616c"
+      "secret": "ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b",
+      "https_link": "https://t.me/proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b",
+      "tg_link": "tg://proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b"
     },
     {
-      "server": "awd.subaru-volga.com",
+      "server": "as.mkim.click",
       "port": "443",
-      "secret": "ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c",
-      "https_link": "https://t.me/proxy?server=awd.subaru-volga.com&port=443&secret=ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c",
-      "tg_link": "tg://proxy?server=awd.subaru-volga.com&port=443&secret=ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c"
-    },
-    {
-      "server": "t4.myrka.digital",
-      "port": "443",
-      "secret": "ee1111222233334444555566667777888874342e6d79726b612e6469676974616c",
-      "https_link": "https://t.me/proxy?server=t4.myrka.digital&port=443&secret=ee1111222233334444555566667777888874342e6d79726b612e6469676974616c",
-      "tg_link": "tg://proxy?server=t4.myrka.digital&port=443&secret=ee1111222233334444555566667777888874342e6d79726b612e6469676974616c"
+      "secret": "ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b",
+      "https_link": "https://t.me/proxy?server=as.mkim.click&port=443&secret=ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b",
+      "tg_link": "tg://proxy?server=as.mkim.click&port=443&secret=ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b"
     },
     {
       "server": "redflag.yazaebalsyadelatproxy.uk",
@@ -71,6 +57,27 @@
       "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
       "https_link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.com&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
       "tg_link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.com&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
+    },
+    {
+      "server": "kvas.kemerovo.online",
+      "port": "8443",
+      "secret": "ee888877776666555544443333222211117474322e6d79726b612e6469676974616c",
+      "https_link": "https://t.me/proxy?server=kvas.kemerovo.online&port=8443&secret=ee888877776666555544443333222211117474322e6d79726b612e6469676974616c",
+      "tg_link": "tg://proxy?server=kvas.kemerovo.online&port=8443&secret=ee888877776666555544443333222211117474322e6d79726b612e6469676974616c"
+    },
+    {
+      "server": "surf.suslik-cloud.com",
+      "port": "443",
+      "secret": "eed7f61466f824eafe116a533553e01bca737572662e7375736c696b2d636c6f75642e636f6d",
+      "https_link": "https://t.me/proxy?server=surf.suslik-cloud.com&port=443&secret=eed7f61466f824eafe116a533553e01bca737572662e7375736c696b2d636c6f75642e636f6d",
+      "tg_link": "tg://proxy?server=surf.suslik-cloud.com&port=443&secret=eed7f61466f824eafe116a533553e01bca737572662e7375736c696b2d636c6f75642e636f6d"
+    },
+    {
+      "server": "104.252.111.4",
+      "port": "9443",
+      "secret": "dddcf34283cd63a30e4c024e07d2c0cc0c",
+      "https_link": "https://t.me/proxy?server=104.252.111.4&port=9443&secret=dddcf34283cd63a30e4c024e07d2c0cc0c",
+      "tg_link": "tg://proxy?server=104.252.111.4&port=9443&secret=dddcf34283cd63a30e4c024e07d2c0cc0c"
     }
   ]
 }

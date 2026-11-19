@@ -1,21 +1,7 @@
 {
-  "updated": "2026-11-18T23:58:50.251164+00:00",
-  "count": 27,
+  "updated": "2026-11-19T07:09:54.150257+00:00",
+  "count": 43,
   "proxies": [
-    {
-      "server": "redflag.yazaebalsyadelatproxy.com",
-      "port": "443",
-      "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
-      "https_link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.com&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
-      "tg_link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.com&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
-    },
-    {
-      "server": "redflag.yazaebalsyadelatproxy.uk",
-      "port": "443",
-      "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
-      "https_link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
-      "tg_link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
-    },
     {
       "server": "max.kimt.click",
       "port": "443",
@@ -29,6 +15,27 @@
       "secret": "ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b",
       "https_link": "https://t.me/proxy?server=as.mkim.click&port=443&secret=ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b",
       "tg_link": "tg://proxy?server=as.mkim.click&port=443&secret=ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b"
+    },
+    {
+      "server": "13.140.85.254",
+      "port": "443",
+      "secret": "dd608ea04e3a2cb2c27697765e82d096e9",
+      "https_link": "https://t.me/proxy?server=13.140.85.254&port=443&secret=dd608ea04e3a2cb2c27697765e82d096e9",
+      "tg_link": "tg://proxy?server=13.140.85.254&port=443&secret=dd608ea04e3a2cb2c27697765e82d096e9"
+    },
+    {
+      "server": "redflag.yazaebalsyadelatproxy.uk",
+      "port": "443",
+      "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
+      "https_link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
+      "tg_link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
+    },
+    {
+      "server": "redflag.yazaebalsyadelatproxy.com",
+      "port": "443",
+      "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
+      "https_link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.com&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
+      "tg_link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.com&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
     },
     {
       "server": "valenki.kemerovo.online",
@@ -50,6 +57,118 @@
       "secret": "eeadd144b0531c1a9f5947e3cb29dc4fd569726c2e666972656d656469612e6469676974616c",
       "https_link": "https://t.me/proxy?server=irl.firemedia.digital&port=443&secret=eeadd144b0531c1a9f5947e3cb29dc4fd569726c2e666972656d656469612e6469676974616c",
       "tg_link": "tg://proxy?server=irl.firemedia.digital&port=443&secret=eeadd144b0531c1a9f5947e3cb29dc4fd569726c2e666972656d656469612e6469676974616c"
+    },
+    {
+      "server": "silnet.varfootball.co.uk",
+      "port": "2053",
+      "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+      "https_link": "https://t.me/proxy?server=silnet.varfootball.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "tg_link": "tg://proxy?server=silnet.varfootball.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    },
+    {
+      "server": "93.115.20.4",
+      "port": "8443",
+      "secret": "dd4d1904787e99a86dc23b12eb306f2712",
+      "https_link": "https://t.me/proxy?server=93.115.20.4&port=8443&secret=dd4d1904787e99a86dc23b12eb306f2712",
+      "tg_link": "tg://proxy?server=93.115.20.4&port=8443&secret=dd4d1904787e99a86dc23b12eb306f2712"
+    },
+    {
+      "server": "72.56.94.135",
+      "port": "9443",
+      "secret": "58737358dee675be48618b79ece66f8c",
+      "https_link": "https://t.me/proxy?server=72.56.94.135&port=9443&secret=58737358dee675be48618b79ece66f8c",
+      "tg_link": "tg://proxy?server=72.56.94.135&port=9443&secret=58737358dee675be48618b79ece66f8c"
+    },
+    {
+      "server": "srv-sfnjxv.nether.cfd",
+      "port": "443",
+      "secret": "ee2963ae650074baec7e12802a367b039e646c2e676f6f676c652e636f6d",
+      "https_link": "https://t.me/proxy?server=srv-sfnjxv.nether.cfd&port=443&secret=ee2963ae650074baec7e12802a367b039e646c2e676f6f676c652e636f6d",
+      "tg_link": "tg://proxy?server=srv-sfnjxv.nether.cfd&port=443&secret=ee2963ae650074baec7e12802a367b039e646c2e676f6f676c652e636f6d"
+    },
+    {
+      "server": "135.181.74.183",
+      "port": "443",
+      "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
+      "https_link": "https://t.me/proxy?server=135.181.74.183&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0",
+      "tg_link": "tg://proxy?server=135.181.74.183&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
+    },
+    {
+      "server": "proxy2.rayzatech.site",
+      "port": "8445",
+      "secret": "eefb8693c530954691a4cb8413692bb3987261797a61746563682e73697465",
+      "https_link": "https://t.me/proxy?server=proxy2.rayzatech.site&port=8445&secret=eefb8693c530954691a4cb8413692bb3987261797a61746563682e73697465",
+      "tg_link": "tg://proxy?server=proxy2.rayzatech.site&port=8445&secret=eefb8693c530954691a4cb8413692bb3987261797a61746563682e73697465"
+    },
+    {
+      "server": "iro.varfootball2.co.uk",
+      "port": "2053",
+      "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+      "https_link": "https://t.me/proxy?server=iro.varfootball2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "tg_link": "tg://proxy?server=iro.varfootball2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    },
+    {
+      "server": "shoes.golgoli2.co.uk",
+      "port": "2096",
+      "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+      "https_link": "https://t.me/proxy?server=shoes.golgoli2.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "tg_link": "tg://proxy?server=shoes.golgoli2.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    },
+    {
+      "server": "65.109.98.231",
+      "port": "443",
+      "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
+      "https_link": "https://t.me/proxy?server=65.109.98.231&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0",
+      "tg_link": "tg://proxy?server=65.109.98.231&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
+    },
+    {
+      "server": "hadaf.golgoli2.co.uk",
+      "port": "2053",
+      "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+      "https_link": "https://t.me/proxy?server=hadaf.golgoli2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "tg_link": "tg://proxy?server=hadaf.golgoli2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    },
+    {
+      "server": "digi.golgoli2.co.uk",
+      "port": "2096",
+      "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+      "https_link": "https://t.me/proxy?server=digi.golgoli2.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "tg_link": "tg://proxy?server=digi.golgoli2.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    },
+    {
+      "server": "great.cipservice.co.uk",
+      "port": "2096",
+      "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+      "https_link": "https://t.me/proxy?server=great.cipservice.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "tg_link": "tg://proxy?server=great.cipservice.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    },
+    {
+      "server": "irogallery.golgoli1.co.uk",
+      "port": "2096",
+      "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+      "https_link": "https://t.me/proxy?server=irogallery.golgoli1.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "tg_link": "tg://proxy?server=irogallery.golgoli1.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    },
+    {
+      "server": "star.talebi.co.uk",
+      "port": "2096",
+      "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+      "https_link": "https://t.me/proxy?server=star.talebi.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "tg_link": "tg://proxy?server=star.talebi.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    },
+    {
+      "server": "188.40.68.169",
+      "port": "8443",
+      "secret": "dd104462821249bd7ac519130220c25d09",
+      "https_link": "https://t.me/proxy?server=188.40.68.169&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+      "tg_link": "tg://proxy?server=188.40.68.169&port=8443&secret=dd104462821249bd7ac519130220c25d09"
+    },
+    {
+      "server": "fruit.golgoli2.co.uk",
+      "port": "2096",
+      "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+      "https_link": "https://t.me/proxy?server=fruit.golgoli2.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "tg_link": "tg://proxy?server=fruit.golgoli2.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ"
     },
     {
       "server": "176.65.135.69",
@@ -113,13 +232,6 @@
       "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
       "https_link": "https://t.me/proxy?server=194.120.230.120&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0",
       "tg_link": "tg://proxy?server=194.120.230.120&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
-    },
-    {
-      "server": "shoes.golgoli2.co.uk",
-      "port": "2096",
-      "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-      "https_link": "https://t.me/proxy?server=shoes.golgoli2.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-      "tg_link": "tg://proxy?server=shoes.golgoli2.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ"
     },
     {
       "server": "mio.foltmeingop.co.uk",

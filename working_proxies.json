@@ -1,81 +1,11 @@
 [
   {
-    "server": "freeconnect.lol",
+    "server": "valenki.kemerovo.online",
     "port": "443",
-    "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
-    "https_link": "https://t.me/proxy?server=freeconnect.lol&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
-    "tg_link": "tg://proxy?server=freeconnect.lol&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
-    "rtt_ms": 393.9,
-    "dc": 2,
-    "mode": "Mode.FAKETLS"
-  },
-  {
-    "server": "pub.ultra-fast.cc",
-    "port": "443",
-    "secret": "ee29872689cbc2f6dc409d1b4a81bb1bdb7075622e756c7472612d666173742e6363",
-    "https_link": "https://t.me/proxy?server=pub.ultra-fast.cc&port=443&secret=ee29872689cbc2f6dc409d1b4a81bb1bdb7075622e756c7472612d666173742e6363",
-    "tg_link": "tg://proxy?server=pub.ultra-fast.cc&port=443&secret=ee29872689cbc2f6dc409d1b4a81bb1bdb7075622e756c7472612d666173742e6363",
-    "rtt_ms": 437.5,
-    "dc": 2,
-    "mode": "Mode.FAKETLS"
-  },
-  {
-    "server": "proxtstar.live",
-    "port": "443",
-    "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
-    "https_link": "https://t.me/proxy?server=proxtstar.live&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
-    "tg_link": "tg://proxy?server=proxtstar.live&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
-    "rtt_ms": 463.0,
-    "dc": 2,
-    "mode": "Mode.FAKETLS"
-  },
-  {
-    "server": "redflag.yazaebalsyadelatproxy.com",
-    "port": "443",
-    "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
-    "https_link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.com&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
-    "tg_link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.com&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
-    "rtt_ms": 560.0,
-    "dc": 2,
-    "mode": "Mode.FAKETLS"
-  },
-  {
-    "server": "redflag.yazaebalsyadelatproxy.uk",
-    "port": "443",
-    "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
-    "https_link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
-    "tg_link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
-    "rtt_ms": 562.7,
-    "dc": 2,
-    "mode": "Mode.FAKETLS"
-  },
-  {
-    "server": "brookpearl.heronglade.space",
-    "port": "8443",
-    "secret": "ee2b60d9fbfb7978842047eb90c50862a0786170692e6f7a6f6e2e7275",
-    "https_link": "https://t.me/proxy?server=brookpearl.heronglade.space&port=8443&secret=ee2b60d9fbfb7978842047eb90c50862a0786170692e6f7a6f6e2e7275",
-    "tg_link": "tg://proxy?server=brookpearl.heronglade.space&port=8443&secret=ee2b60d9fbfb7978842047eb90c50862a0786170692e6f7a6f6e2e7275",
-    "rtt_ms": 636.1,
-    "dc": 2,
-    "mode": "Mode.FAKETLS"
-  },
-  {
-    "server": "pub.ultra-fast.cc",
-    "port": "443",
-    "secret": "ee020e97412a4640a060f203c5ab8dc3d47075622e756c7472612d666173742e6363",
-    "https_link": "https://t.me/proxy?server=pub.ultra-fast.cc&port=443&secret=ee020e97412a4640a060f203c5ab8dc3d47075622e756c7472612d666173742e6363",
-    "tg_link": "tg://proxy?server=pub.ultra-fast.cc&port=443&secret=ee020e97412a4640a060f203c5ab8dc3d47075622e756c7472612d666173742e6363",
-    "rtt_ms": 2104.1,
-    "dc": 2,
-    "mode": "Mode.FAKETLS"
-  },
-  {
-    "server": "edge.turboass.live",
-    "port": "443",
-    "secret": "ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665",
-    "https_link": "https://t.me/proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665",
-    "tg_link": "tg://proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665",
-    "rtt_ms": 2864.3,
+    "secret": "eed80703ad02e82988a4b6b4d437fe2c9c76616c656e6b692e6b656d65726f766f2e6f6e6c696e65",
+    "https_link": "https://t.me/proxy?server=valenki.kemerovo.online&port=443&secret=eed80703ad02e82988a4b6b4d437fe2c9c76616c656e6b692e6b656d65726f766f2e6f6e6c696e65",
+    "tg_link": "tg://proxy?server=valenki.kemerovo.online&port=443&secret=eed80703ad02e82988a4b6b4d437fe2c9c76616c656e6b692e6b656d65726f766f2e6f6e6c696e65",
+    "rtt_ms": 641.2,
     "dc": 2,
     "mode": "Mode.FAKETLS"
   }

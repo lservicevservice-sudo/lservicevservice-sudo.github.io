@@ -1,11 +1,51 @@
 [
   {
-    "server": "valenki.kemerovo.online",
+    "server": "awd.subaru-volga.com",
     "port": "443",
-    "secret": "eed80703ad02e82988a4b6b4d437fe2c9c76616c656e6b692e6b656d65726f766f2e6f6e6c696e65",
-    "https_link": "https://t.me/proxy?server=valenki.kemerovo.online&port=443&secret=eed80703ad02e82988a4b6b4d437fe2c9c76616c656e6b692e6b656d65726f766f2e6f6e6c696e65",
-    "tg_link": "tg://proxy?server=valenki.kemerovo.online&port=443&secret=eed80703ad02e82988a4b6b4d437fe2c9c76616c656e6b692e6b656d65726f766f2e6f6e6c696e65",
-    "rtt_ms": 641.2,
+    "secret": "ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c",
+    "https_link": "https://t.me/proxy?server=awd.subaru-volga.com&port=443&secret=ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c",
+    "tg_link": "tg://proxy?server=awd.subaru-volga.com&port=443&secret=ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c",
+    "rtt_ms": 654.0,
+    "dc": 2,
+    "mode": "Mode.FAKETLS"
+  },
+  {
+    "server": "nepony64.sorrelbay.xyz",
+    "port": "8443",
+    "secret": "ee6fcf868535df2309ee2f6ea5a6563ef96f7a6f6e2e7275",
+    "https_link": "https://t.me/proxy?server=nepony64.sorrelbay.xyz&port=8443&secret=ee6fcf868535df2309ee2f6ea5a6563ef96f7a6f6e2e7275",
+    "tg_link": "tg://proxy?server=nepony64.sorrelbay.xyz&port=8443&secret=ee6fcf868535df2309ee2f6ea5a6563ef96f7a6f6e2e7275",
+    "rtt_ms": 686.8,
+    "dc": 2,
+    "mode": "Mode.FAKETLS"
+  },
+  {
+    "server": "nezomi22.kelpmoor.xyz",
+    "port": "443",
+    "secret": "ee6fcf868535df2309ee2f6ea5a6563ef9706574726f766963682e7275",
+    "https_link": "https://t.me/proxy?server=nezomi22.kelpmoor.xyz&port=443&secret=ee6fcf868535df2309ee2f6ea5a6563ef9706574726f766963682e7275",
+    "tg_link": "tg://proxy?server=nezomi22.kelpmoor.xyz&port=443&secret=ee6fcf868535df2309ee2f6ea5a6563ef9706574726f766963682e7275",
+    "rtt_ms": 703.3,
+    "dc": 2,
+    "mode": "Mode.FAKETLS"
+  },
+  {
+    "server": "seanszone94.tvoyasvoboda.help",
+    "port": "443",
+    "secret": "ee616cf892574b078aab3f73e63b8b7df4786170692e6f7a6f6e2e7275",
+    "https_link": "https://t.me/proxy?server=seanszone94.tvoyasvoboda.help&port=443&secret=ee616cf892574b078aab3f73e63b8b7df4786170692e6f7a6f6e2e7275",
+    "tg_link": "tg://proxy?server=seanszone94.tvoyasvoboda.help&port=443&secret=ee616cf892574b078aab3f73e63b8b7df4786170692e6f7a6f6e2e7275",
+    "rtt_ms": 723.2,
+    "dc": 2,
+    "mode": "Mode.FAKETLS"
+  },
+  {
+    "server": "edge.turboass.live",
+    "port": "443",
+    "secret": "ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665",
+    "https_link": "https://t.me/proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665",
+    "tg_link": "tg://proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665",
+    "rtt_ms": 5034.0,
     "dc": 2,
     "mode": "Mode.FAKETLS"
   }

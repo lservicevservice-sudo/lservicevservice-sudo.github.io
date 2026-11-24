@@ -1,7 +1,56 @@
 {
-  "updated": "2026-11-23T18:38:06.308338+00:00",
+  "updated": "2026-11-24T04:12:45.149123+00:00",
   "count": 41,
   "proxies": [
+    {
+      "server": "redflag.yazaebalsyadelatproxy.com",
+      "port": "443",
+      "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
+      "https_link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.com&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
+      "tg_link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.com&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
+    },
+    {
+      "server": "redflag.yazaebalsyadelatproxy.uk",
+      "port": "443",
+      "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
+      "https_link": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
+      "tg_link": "tg://proxy?server=redflag.yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363"
+    },
+    {
+      "server": "www.tgda.best",
+      "port": "443",
+      "secret": "ee03744a1a378ea98bbaa8d388b30332727777772e746764612e62657374",
+      "https_link": "https://t.me/proxy?server=www.tgda.best&port=443&secret=ee03744a1a378ea98bbaa8d388b30332727777772e746764612e62657374",
+      "tg_link": "tg://proxy?server=www.tgda.best&port=443&secret=ee03744a1a378ea98bbaa8d388b30332727777772e746764612e62657374"
+    },
+    {
+      "server": "www.zone51.online",
+      "port": "443",
+      "secret": "eefaf243dd3c6f6d19c3d1feb60c85b0237777772e7a6f6e6535312e6f6e6c696e65",
+      "https_link": "https://t.me/proxy?server=www.zone51.online&port=443&secret=eefaf243dd3c6f6d19c3d1feb60c85b0237777772e7a6f6e6535312e6f6e6c696e65",
+      "tg_link": "tg://proxy?server=www.zone51.online&port=443&secret=eefaf243dd3c6f6d19c3d1feb60c85b0237777772e7a6f6e6535312e6f6e6c696e65"
+    },
+    {
+      "server": "yostavpn.casacam.net",
+      "port": "443",
+      "secret": "eefd53c37c26a2c41b56660286b32ee590796f73746176706e2e6361736163616d2e6e6574",
+      "https_link": "https://t.me/proxy?server=yostavpn.casacam.net&port=443&secret=eefd53c37c26a2c41b56660286b32ee590796f73746176706e2e6361736163616d2e6e6574",
+      "tg_link": "tg://proxy?server=yostavpn.casacam.net&port=443&secret=eefd53c37c26a2c41b56660286b32ee590796f73746176706e2e6361736163616d2e6e6574"
+    },
+    {
+      "server": "wave.heronglade.space",
+      "port": "8443",
+      "secret": "ee98d3085f116d2177ffad4b9fdbf359a2706574726f766963682e7275",
+      "https_link": "https://t.me/proxy?server=wave.heronglade.space&port=8443&secret=ee98d3085f116d2177ffad4b9fdbf359a2706574726f766963682e7275",
+      "tg_link": "tg://proxy?server=wave.heronglade.space&port=8443&secret=ee98d3085f116d2177ffad4b9fdbf359a2706574726f766963682e7275"
+    },
+    {
+      "server": "pixel.heronglade.space",
+      "port": "443",
+      "secret": "ee98d3085f116d2177ffad4b9fdbf359a2786170692e6f7a6f6e2e7275",
+      "https_link": "https://t.me/proxy?server=pixel.heronglade.space&port=443&secret=ee98d3085f116d2177ffad4b9fdbf359a2786170692e6f7a6f6e2e7275",
+      "tg_link": "tg://proxy?server=pixel.heronglade.space&port=443&secret=ee98d3085f116d2177ffad4b9fdbf359a2786170692e6f7a6f6e2e7275"
+    },
     {
       "server": "autumn.sorrelbay.xyz",
       "port": "443",
@@ -113,55 +162,6 @@
       "secret": "ee6fcf868535df2309ee2f6ea5a6563ef9617669746f2e7275",
       "https_link": "https://t.me/proxy?server=river.sorrelbay.xyz&port=8443&secret=ee6fcf868535df2309ee2f6ea5a6563ef9617669746f2e7275",
       "tg_link": "tg://proxy?server=river.sorrelbay.xyz&port=8443&secret=ee6fcf868535df2309ee2f6ea5a6563ef9617669746f2e7275"
-    },
-    {
-      "server": "dew.ashwren.xyz",
-      "port": "443",
-      "secret": "ee6fcf868535df2309ee2f6ea5a6563ef9786170692e6f7a6f6e2e7275",
-      "https_link": "https://t.me/proxy?server=dew.ashwren.xyz&port=443&secret=ee6fcf868535df2309ee2f6ea5a6563ef9786170692e6f7a6f6e2e7275",
-      "tg_link": "tg://proxy?server=dew.ashwren.xyz&port=443&secret=ee6fcf868535df2309ee2f6ea5a6563ef9786170692e6f7a6f6e2e7275"
-    },
-    {
-      "server": "fable.kelpmoor.xyz",
-      "port": "8443",
-      "secret": "ee6fcf868535df2309ee2f6ea5a6563ef9706574726f766963682e7275",
-      "https_link": "https://t.me/proxy?server=fable.kelpmoor.xyz&port=8443&secret=ee6fcf868535df2309ee2f6ea5a6563ef9706574726f766963682e7275",
-      "tg_link": "tg://proxy?server=fable.kelpmoor.xyz&port=8443&secret=ee6fcf868535df2309ee2f6ea5a6563ef9706574726f766963682e7275"
-    },
-    {
-      "server": "sage.heronglade.space",
-      "port": "8443",
-      "secret": "ee98d3085f116d2177ffad4b9fdbf359a2786170692e6f7a6f6e2e7275",
-      "https_link": "https://t.me/proxy?server=sage.heronglade.space&port=8443&secret=ee98d3085f116d2177ffad4b9fdbf359a2786170692e6f7a6f6e2e7275",
-      "tg_link": "tg://proxy?server=sage.heronglade.space&port=8443&secret=ee98d3085f116d2177ffad4b9fdbf359a2786170692e6f7a6f6e2e7275"
-    },
-    {
-      "server": "stone.heronglade.space",
-      "port": "443",
-      "secret": "ee98d3085f116d2177ffad4b9fdbf359a2706574726f766963682e7275",
-      "https_link": "https://t.me/proxy?server=stone.heronglade.space&port=443&secret=ee98d3085f116d2177ffad4b9fdbf359a2706574726f766963682e7275",
-      "tg_link": "tg://proxy?server=stone.heronglade.space&port=443&secret=ee98d3085f116d2177ffad4b9fdbf359a2706574726f766963682e7275"
-    },
-    {
-      "server": "ykima.davay.click",
-      "port": "443",
-      "secret": "ee06dfdbdf271bab18c6b606484c237384796b696d612e64617661792e636c69636b",
-      "https_link": "https://t.me/proxy?server=ykima.davay.click&port=443&secret=ee06dfdbdf271bab18c6b606484c237384796b696d612e64617661792e636c69636b",
-      "tg_link": "tg://proxy?server=ykima.davay.click&port=443&secret=ee06dfdbdf271bab18c6b606484c237384796b696d612e64617661792e636c69636b"
-    },
-    {
-      "server": "nezomi22.kelpmoor.xyz",
-      "port": "443",
-      "secret": "ee6fcf868535df2309ee2f6ea5a6563ef9706574726f766963682e7275",
-      "https_link": "https://t.me/proxy?server=nezomi22.kelpmoor.xyz&port=443&secret=ee6fcf868535df2309ee2f6ea5a6563ef9706574726f766963682e7275",
-      "tg_link": "tg://proxy?server=nezomi22.kelpmoor.xyz&port=443&secret=ee6fcf868535df2309ee2f6ea5a6563ef9706574726f766963682e7275"
-    },
-    {
-      "server": "nepony64.sorrelbay.xyz",
-      "port": "8443",
-      "secret": "ee6fcf868535df2309ee2f6ea5a6563ef96f7a6f6e2e7275",
-      "https_link": "https://t.me/proxy?server=nepony64.sorrelbay.xyz&port=8443&secret=ee6fcf868535df2309ee2f6ea5a6563ef96f7a6f6e2e7275",
-      "tg_link": "tg://proxy?server=nepony64.sorrelbay.xyz&port=8443&secret=ee6fcf868535df2309ee2f6ea5a6563ef96f7a6f6e2e7275"
     },
     {
       "server": "foxfrost.heronglade.space",
